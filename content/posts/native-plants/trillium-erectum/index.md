@@ -16,7 +16,7 @@ Red trillium (_Trillium erectum_), like all trilliums, is a **monocot**, meaning
 
 That probably says something about cool a teenager I was _not_.
 
-Therefore trilliums are class Liliopsida (monocot)\*, and order Liliales, both of which are fancy ways of saying, with varying degrees of freedom... **"it's kind of like a lily."** But rather than being a member of _family_ Liliaceae, it's a member of the bunchflower family, **[Melanthiaceae](https://en.wikipedia.org/wiki/Melanthiaceae)**, which are described as -- get this -- "lilioid monocots."
+Therefore trilliums are class Liliopsida (monocot), and order Liliales, both of which are fancy ways of saying, with varying degrees of freedom... **"it's kind of like a lily."** But rather than being a member of _family_ Liliaceae, it's a member of the bunchflower family, **[Melanthiaceae](https://en.wikipedia.org/wiki/Melanthiaceae)**, which are described as -- get this -- "lilioid monocots."
 
 That is... **"it's kind of like a lily.**" Boy, botanists are good at naming things.
 
