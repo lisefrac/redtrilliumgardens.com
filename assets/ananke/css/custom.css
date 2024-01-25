@@ -4,3 +4,43 @@ nav[role="navigation"] img {
     border-radius: 50%;
     border: 4px solid #660033;
 }
+
+article figcaption h4 {
+    font-size: 1rem;
+}
+
+article figcaption p {
+    font-size: 1rem;
+    font-style: italic;
+}
+
+/* to futz with later...
+
+article figure {
+    background-color: #fff;
+    margin: 0;
+    padding: 1.5rem;
+    border: 3px dashed #603;
+}
+@media only screen and (min-width: 1400px) {
+    article figure {
+        border: 3px dashed #603;
+        padding: 2rem;
+        margin-left: -40px;
+    }
+}
+
+article .gallery {
+    display: flex;
+    background-color: #fff;
+    border: 3px dashed #603;
+    margin: 0;
+    padding: 1.5rem;
+}
+article .gallery figure {
+    border: none;
+    background: transparent;
+    margin: 0;
+    padding: 1rem;
+}
+*/

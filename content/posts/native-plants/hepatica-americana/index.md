@@ -13,6 +13,8 @@ It's the most wonderful time of the year! The snow has melted, spring ephemerals
 
 In my continuing effort to bring you more dumb plant facts, I figured I'd share some of the pictures of what I've been seeing in the woods in the past ~week or so.
 
+<div class="gallery">
+
 {{< figure 
   src="images/hepatica-americana-apr-2022-williamsburg-1.jpg"
   link="images/hepatica-americana-apr-2022-williamsburg-1.jpg" title="Round-lobed hepatica, Hepatica americana. Close-up on the white/pinkish flowers" 
@@ -20,6 +22,8 @@ In my continuing effort to bring you more dumb plant facts, I figured I'd share 
 
 
 {{< figure src="images/hepatica-americana-apr-2022-williamsburg-2.jpg" link="images/hepatica-americana-apr-2022-williamsburg-2.jpg"  title="Round-lobed hepatica (Hepatica americana), zoomed out a bit to see some of the leathery, tri-lobed leaf" alt="Round-lobed hepatica (Hepatica americana) coming into bloom. Three small partially-closed whitish-pink flower buds, with furry stems and tri-lobed leaves.">}}
+
+</div>
 
 This is round-lobed [hepatica](https://en.wikipedia.org/wiki/Hepatica_americana), Hepatica americana. It is a small and oft-overlooked spring ephemeral, found in the first weeks of April here in Massachusetts. For that reason, I like to call it **my birthday flower**, because it's one of the few things blooming on April 6! In particular, these pictures were taken in Williamsburg, MA, on April 7th, during my annual "yurtmas" birthday trip.
 
@@ -39,9 +43,10 @@ I'm also not entirely certain about what sort of **habitats** they like. I have 
 
 I know of only one place they grow in my town, and I try to make it there every April. Here are some pics I took last year at that pilgrimage site: Robbs' Hill Conservation Area in Lunenburg, MA.
 
-
+<div class="gallery">
 {{< figure src="images/hepatica-americana-apr-2020-robbs-hill-1.jpg" link="images/hepatica-americana-apr-2020-robbs-hill-1.jpg"  title="Hepatica americana at Robbs' Hill. These flowers are more fully opened than their counterparts in Williamsburg." alt="Hepatica americana at Robbs' Hill. These flowers are more fully opened than their counterparts in Williamsburg.">}}
 
 {{< figure src="images/hepatica-americana-apr-2020-robbs-hill-2.jpg" link="images/hepatica-americana-apr-2020-robbs-hill-2.jpg"  title="This hepatica is also a darker purple variety than I found in Williamsburg" alt="This hepatica is also a darker purple variety than I found in Williamsburg">}}
+</div>
 
 In conclusion: stay sneaky, hepatica. If anyone caught on to how beautiful you are, you might be in danger.
