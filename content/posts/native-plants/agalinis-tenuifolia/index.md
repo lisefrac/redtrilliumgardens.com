@@ -11,7 +11,7 @@ tags:
 featured_image: 'images/agalinis-tenuifolia-eric-hunt.jpg'
 ---
 
-One of the things we're sowing right now is Agalinis tenuifolia, a tiny-but-mighty summer flower. 
+One of the things we're sowing right now is Agalinis tenuifolia, a tiny-but-mighty late summer flower. 
 
 What makes this one unique is the fact that it's hemiparasitic, meaning it's (partially) a **PLANT VAMPIRE**. 
 
@@ -67,7 +67,7 @@ Now that we've covered the basics, please enjoy some patented Lise Plant Factsâ„
 
 {{< figure src="images/agalinis-tenuifolia-ltf-lunenburg.jpg" link="images/agalinis-tenuifolia-ltf-lunenburg.jpg" title="This specimen I found in Lunenburg, along a path leading to a power line clearcut." alt="Photo of a small, pink and red flower, born singly, with five petals fused into a tube; it also has slender, spear-like leaves" attr="Photo by Lise Fracalossi, August 2019, Large Town Forest, Lunenburg, MA">}}
 
-In conclusion: I love this little vampiric guy, adding a splash of pink at a time of year when flower are beginning to die back. Despite the YOLO germination code, I hope that I get a few plants out of it, if only for myself. 
+In conclusion: I love this little vampiric guy, adding a splash of pink at a time of year when flowers are beginning to die back. Despite the YOLO germination code, I hope that I get a few plants out of it, if only for myself. 
 
 ___
 

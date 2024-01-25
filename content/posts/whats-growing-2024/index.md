@@ -8,13 +8,13 @@ Want a sneak peek at what we're growing for sale in 2024? See below!
 
 Note that there's no guarantee we will have these exact plants. Gardening, and nature, follow their own rules, and we're still learning to grow many of these. 
 
-(Plus I'll probably buy more seeds before spring).
+(And let's be real, I'll probably buy more seeds before spring!)
 
 ### Native Plants
 
 #### Purchased Seeds
 
-These were all purchased from either [Wild Seed Project](https://wildseedproject.net/) or [Prairie Moon Nursery](https://www.prairiemoon.com/). We tend to prefer WSP, as they are based out of Maine, meaning they have a more local ecotype than the ones from Prairie Moon Nursery (which is based out of Minnesota). However, not all species are available with Wild Seed Project
+These were all purchased from either [Wild Seed Project](https://wildseedproject.net/) or [Prairie Moon Nursery](https://www.prairiemoon.com/). We tend to prefer WSP, as they are based out of Maine, meaning they have a more local ecotype than the ones from Prairie Moon Nursery (which is based out of Minnesota). However, not all species are available with Wild Seed Project.
 
 - Agalinis tenuifolia - slender false foxglove
 - Ageratina altissima - white snakeroot
