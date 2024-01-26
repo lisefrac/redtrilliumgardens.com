@@ -29,6 +29,7 @@ It uses Hugo with the Ananke theme.
 - [ ] How awesome milkweeds are
 - [ ] How we grow our natives (i.e. winter sowing)
 - [ ] What is stratification?
+- [ ] "So why don't you actually offer red trilliums for sale?" The sloooow life cycle of trilliums.
 
 
 ## Done
