@@ -20,7 +20,6 @@ It uses Hugo with the Ananke theme.
 - [ ] proper authorship of git commits
 
 ## Blog post ideas
-- [ ] port over iNat post from lisefrac.net
 - [ ] contrasting invasives of NA to natives of UK
 - [ ] "what does native mean?" Native to where?
 - [ ] How to tell if a plant is native (BONAP, iNat, NPT's Garden Plant Finder)
@@ -41,3 +40,4 @@ It uses Hugo with the Ananke theme.
 - [x] Test if custom CSS works now that I'm using Hugo modules to install theme
   - it does, but I think it working had more to do with correctly using hugo.toml instead of config.toml
 - [x] Favicon 
+- [x] port over iNat post from lisefrac.net
