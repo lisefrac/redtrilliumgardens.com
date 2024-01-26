@@ -16,16 +16,19 @@ It uses Hugo with the Ananke theme.
 - [ ] Set up Sass
 - [ ] Set up Ko-fi
 - [ ] Free native garden bed plan for signing up for newsletter
-- [ ] Set up "Welcome to the newsletter" email
+- [ ] Set up "Welcome to the newsletter" email (with garden bed plan)
+- [ ] proper authorship of git commits
 
 ## Blog post ideas
-[ ] port over iNat post
-[ ] contrasting invasives of NA to natives of UK
-[ ] "what does native mean?" Native to where?
-[ ] How to tell if a plant is native (BONAP, iNat, NPT's Garden Plant Finder)
-[ ] invasive reports using videos I took in the summer 2023
-[ ] Parasitic native plants -- Orobanchaceae, Monotropa, (carnivorous plants like Sarracenia?)
-[ ] How awesome milkweeds are
+- [ ] port over iNat post from lisefrac.net
+- [ ] contrasting invasives of NA to natives of UK
+- [ ] "what does native mean?" Native to where?
+- [ ] How to tell if a plant is native (BONAP, iNat, NPT's Garden Plant Finder)
+- [ ] invasive reports using videos I took in the summer 2023
+- [ ] Parasitic native plants -- Orobanchaceae, Monotropa, (carnivorous plants like Sarracenia?)
+- [ ] How awesome milkweeds are
+- [ ] How we grow our natives (i.e. winter sowing)
+- [ ] What is stratification?
 
 
 ## Done
