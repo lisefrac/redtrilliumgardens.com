@@ -69,11 +69,10 @@ These were collected myself, mostly in Lunenburg or Townsend, MA but a few from 
 
 **Note: these won't be available at any of our markets this year.** Due to Massachusetts law, we cannot sell woody plants until we have a nursery license. Additionally, it will be a few seasons before they reach a saleable size. 
 
-- Carya tomentosa - mockernut hickory
+- Carya cordiformis - bitternut hickory
 - Ilex verticillata - winterberry holly
 - Physocarpus opulifolia - common ninebark
 - Viburnum acerifolium - maple leaf viburnum
-
 
 ### Herb and Veggie Starts
 

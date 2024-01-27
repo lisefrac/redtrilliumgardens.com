@@ -3,7 +3,7 @@
 It uses Hugo with the Ananke theme.
 
 ## To Dos
-- [ ] Create socials - Facebook, Insta. I refuse to use X.
+- [ ] Create socials - Facebook, Insta. I refuse to use X. YT? TikTok? (Ugh).
 - [ ] Logo (professional)
 - [ ] Social sharing images
 - [ ] Resources page
@@ -18,6 +18,7 @@ It uses Hugo with the Ananke theme.
 - [ ] Free native garden bed plan for signing up for newsletter
 - [ ] Set up "Welcome to the newsletter" email (with garden bed plan)
 - [ ] proper authorship of git commits
+- [ ] remove transferred posts from lisefrac.net
 
 ## Blog post ideas
 - [ ] contrasting invasives of NA to natives of UK
