@@ -12,9 +12,7 @@ featured_image: 'images/catalpa-speciosa-cochituate-brook-trail.jpeg'
 
 But what does "native" actually *mean*?
 
-## Sharing an Evolutionary History
-
-This is a question that Mark Anderson and Dan Jaffe answer at the beginning of [**Native Plants for New England Gardens**](https://bookshop.org/p/books/native-plants-for-new-england-gardens-mark-richardson/10338511):
+This is a question that Mark Anderson and Dan Jaffe attempt to answer at the beginning of [*Native Plants for New England Gardens*](https://bookshop.org/p/books/native-plants-for-new-england-gardens-mark-richardson/10338511):
 
 > Generally speaking, native is defined by "where" and "when." In other words, native plants are considered to be those that existed in a given location at a specific point in time. 
 
@@ -24,9 +22,11 @@ According to Anderson and Jaffe, "for simplicity's sake... if the plant was in a
 
 (I assume "we" here can be understood to mean [Native Plant Trust](https://www.nativeplanttrust.org/), as both Anderson and Jaffe are affiliated with it. They are a reputable source, and are where I am pursuing my Native Plant Studies certificate!) 
 
+## Sharing an Evolutionary History
+
 This view is, of course, hella Eurocentric and imperialist, and the fallibility of human records makes it even more questionable. 
 
-Luckily, we don't have to rely on that. The key piece here goes back waaaay beyond the 300-400 years the U.S. has been around. We're talking about **the evolutionary history of the plant and its surrounding ecosystem**.
+Luckily, we don't have to rely on that. The key piece here goes back waaaay beyond the 300-400ish years since European settlement. We're talking about **the evolutionary history of the plant and its surrounding ecosystem**.
 
 If two species share a long evolutionary history in a given ecosystem, they come to depend on each other. In particular with plants, that plant becomes a source of food for animals that co-evolved with it -- bees, ants, Lepidoptera, birds... right on up to "charismatic megafauna" like deer, bears, and humans. In other words, **it becomes a keystone of the food web.**
 
