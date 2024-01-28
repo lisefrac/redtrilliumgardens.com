@@ -38,7 +38,7 @@ These were all purchased from either [Wild Seed Project](https://wildseedproject
 - Monarda punctata - spotted bee-balm
 - Penstemon digitalis - foxglove beardtongue
 - Penstemon hirsutus - northern beardtongue, hairy beardtongue
-- Rudbeckia hirta v. pulcherrima - black-eyed coneflower
+- Rudbeckia hirta v. pulcherrima - black-eyed Susan, black-eyed coneflower
 - Solidago caesia - blue-stem goldenrod, wreath goldenrod
 - Solidago sempervirens - seaside goldenrod
 - Symphyotrichum novae-angliae - New England aster
@@ -61,7 +61,7 @@ These were collected myself, mostly in Lunenburg or Townsend, MA but a few from 
 - Oenothera sp. - evening primrose
 - Parthenocissus quinquefolia - Virginia creeper
 - Pycnanthemum muticum - broad-leaved mountain mint
-- Rudbeckia fulgida - black-eyed Susan, orange coneflower
+- Rudbeckia fulgida - orange coneflower
 - Vernonia novaboracensis - New York ironweed
 - various Asteraceae (goldenrods, asters etc) that I can't yet ID to species level
 

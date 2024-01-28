@@ -22,7 +22,6 @@ It uses Hugo with the Ananke theme.
 
 ## Blog post ideas
 - [ ] contrasting invasives of NA to natives of UK
-- [ ] "what does native mean?" Native to where?
 - [ ] How to tell if a plant is native (BONAP, iNat, NPT's Garden Plant Finder)
 - [ ] invasive reports using videos I took in the summer 2023
 - [ ] Parasitic native plants -- Orobanchaceae, Monotropa, (carnivorous plants like Sarracenia?)
@@ -43,3 +42,4 @@ It uses Hugo with the Ananke theme.
   - it does, but I think it working had more to do with correctly using hugo.toml instead of config.toml
 - [x] Favicon 
 - [x] port over iNat post from lisefrac.net
+- [x] "what does native mean?" Native to where?
