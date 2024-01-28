@@ -1,6 +1,6 @@
 ---
 title: "What Is A Native Plant?"
-date: 2024-01-27
+date: 2024-01-28
 tags: 
   - native-plants-of-new-england
   - invasive-plants
@@ -14,15 +14,15 @@ But what does "native" actually *mean*?
 
 This is a question that Mark Anderson and Dan Jaffe attempt to answer at the beginning of [*Native Plants for New England Gardens*](https://bookshop.org/p/books/native-plants-for-new-england-gardens-mark-richardson/10338511):
 
-> Generally speaking, native is defined by "where" and "when." In other words, native plants are considered to be those that existed in a given location at a specific point in time. 
+> Generally speaking, native is defined by "where" and "when." In other words, native plants are considered to be those that existed in a given location at a specific point in time.  
+
+## Sharing an Evolutionary History
 
 First, let's talk about the **"when,"** because it's not quite the minefield that the *where* is. 
 
 According to Anderson and Jaffe, "for simplicity's sake... if the plant was in an area at the time the first European settlers arrived, it is considered native."
 
-(I assume "we" here can be understood to mean [Native Plant Trust](https://www.nativeplanttrust.org/), as both Anderson and Jaffe are affiliated with it. They are a reputable source, and are where I am pursuing my Native Plant Studies certificate!) 
-
-## Sharing an Evolutionary History
+(I assume "we" here can be understood to mean [Native Plant Trust](https://www.nativeplanttrust.org/), as both Anderson and Jaffe are affiliated with it. They are a reputable source, and are where I am pursuing my Native Plant Studies certificate!)
 
 This view is, of course, hella Eurocentric and imperialist, and the fallibility of human records makes it even more questionable. 
 
