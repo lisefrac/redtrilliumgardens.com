@@ -3,22 +3,21 @@
 It uses Hugo with the Ananke theme.
 
 ## To Dos
-- [ ] Create socials - Facebook, Insta. I refuse to use X. YT? TikTok? (Ugh).
 - [ ] Logo (professional)
-- [ ] Social sharing images
 - [ ] Resources page
 - [ ] Canonical links/permalinks - esp. re: imported articles
 - [ ] target blank and correct rel values on links for SEO - is there a shortcode for these?
 - [ ] RSS feed with featured images
 - [ ] Character encoding from RSS feed to newsletter (eg. apostrophes)
-- [ ] image gallery shortcode that actually works as intended
+- [ ] image gallery shortcode that works like I want it
 - [ ] figure and image gallery styling
 - [ ] Set up Sass
-- [ ] Set up Ko-fi
+- [ ] Create a Ko-fi account
 - [ ] Free native garden bed plan for signing up for newsletter
 - [ ] Set up "Welcome to the newsletter" email (with garden bed plan)
 - [ ] proper authorship of git commits
 - [ ] remove transferred posts from lisefrac.net
+- [ ] maps of NY + New England by county showing plant's native range
 
 ## Blog post ideas
 - [ ] contrasting invasives of NA to natives of UK
@@ -43,3 +42,6 @@ It uses Hugo with the Ananke theme.
 - [x] Favicon 
 - [x] port over iNat post from lisefrac.net
 - [x] "what does native mean?" Native to where?
+- [x] Create socials - Facebook, Insta.
+- [x] Social sharing links
+

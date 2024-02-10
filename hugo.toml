@@ -19,3 +19,21 @@ title = 'Red Trillium Gardens'
   recent_posts_number = 5
   site_logo = "images/rtg-logo-initials200x200.png"
   custom_css = ["custom.css"]
+
+[[params.ananke_socials]]
+  name = "facebook"
+  url = "https://www.facebook.com/profile.php?id=61556070398055"
+
+[[params.ananke_socials]]
+  name = "instagram"
+  url = "https://www.instagram.com/redtrilliumgardens/"
+
+[[params.ananke_socials]]
+  name = "rss"
+  url = "/index.xml"
+
+[[params.ananke_socials]]
+  name = "email"
+  url = "mailto:lise@redtrilliumgardens.com"
+  label = "Email"
+  color = ""
