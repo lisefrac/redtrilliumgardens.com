@@ -9,6 +9,7 @@ tags:
   - "summer"
   - "fall"
   - "asteraceae"
+
 featured_image: "images/ageratina-hellertown-pa-october-2023.jpeg"
 ---
 
@@ -28,7 +29,7 @@ Next up on our list of planted species alphabetically is ***Ageratina altissima*
 - [Wild Seed Project](https://shop.wildseedproject.net/products/white-snakeroot-ageratina-altissima-seeds?_pos=1&_psq=ageratina&_ss=e&_v=1.0)
 - Self-collected in Bethlehem, PA
 
-**Flower Appearance**: Tiny white flowers are topped with white "streamers", and bundled into clusters. Each cluster is borne on a short stalk from the central stem, forming a flat or rounded top. 
+**Flower Appearance**: Tiny white flowers are topped with white "streamers" and bundled into clusters. Each cluster is borne on a short stalk from the central stem, forming a flat or rounded top. 
 
 {{<figure src="images/ageratina-amherst-ma-sep-2020.jpeg" link="images/ageratina-amherst-ma-sep-2020.jpeg" target="_blank" alt="Many white flower clusters with streamer-like tufts atop them." title="Ageratina altissima flower clusters" caption="It's always a party when you're white snakeroot.">}}
 
@@ -42,11 +43,11 @@ Next up on our list of planted species alphabetically is ***Ageratina altissima*
 
 **Light:** Shade to part-shade
 
-**Moisture:** Average to medium-dry soils.
+**Moisture:** Medium-wet to medium-dry soils.
 
-**Height:** 2-3' high
+**Height:** 2-3'
 
-**Spread**: 2-4'. I would recommend spacing 3-4' apart. 
+**Spread**: 2-4' 
 
 **Blooms:** July, August, September, October
 
@@ -66,7 +67,7 @@ It also includes **plants we label weeds**, both native and not: eg. goldenrod (
 
 Some unique things about asters include...
 
-As I mentioned above, **Asteraceae usually have composite flowers** -- in fact, it's also known as family Compositae. This means what we call the "flower" is actually a bunch of tiny flowers, grouped together into a structure called the a capitulum (or "head," if ya nasty). These are then wrapped in a set of modified leaves called **phyllaries**, like a little bundle of botanical complexity. 
+As I alluded to in the section above, **Asteraceae usually have composite flowers** -- in fact, it's also known as family Compositae. This means what we call the "flower" is actually a bunch of tiny flowers, grouped together into a structure called the a capitulum (or "head," if ya nasty). These are then wrapped in a set of modified leaves called **phyllaries**, like a little bundle of botanical complexity. 
 
 <small>If you ever wonder why I hedge these statements with "often," "usually," and "typically," it's because plants are weird and there always corner cases.</small>
 
@@ -94,7 +95,7 @@ You know how I just talked about ray and disk flowers?
 
 Oddly enough, **the common name comes from the fact that European colonists first thought it *cured* snakebite.** Allegedly some native (Shawnee) woman took pity on us and taught us better. 
 
-**White snakeroot spreads aggressively.** (Just like sneks, amirite?) Given all those flowers on a single plant, you can imagine how! If that weren't enough it also spreads asexually, via rhizomes, especially in disturbed
+**White snakeroot spreads aggressively.** (Just like sneks, amirite?) Given all those flowers on a single plant, you can imagine how! If that weren't enough it also spreads asexually, via rhizomes, especially in disturbed soil. 
 
 For this reason, Wild Seed Project recommends planting it in areas where you've removed invasives and want something that can outcompete them. 
 
