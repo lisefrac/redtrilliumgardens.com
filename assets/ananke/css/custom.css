@@ -7,6 +7,16 @@ article figcaption p {
     font-style: italic;
 }
 
+header.home h1 {
+    font-family: "Almendra";
+    position: absolute;
+    bottom: 2rem;
+    width: 100%;
+    left: 0;
+    right: 0;
+
+}
+
 /* to futz with later...
 
 article figure {
