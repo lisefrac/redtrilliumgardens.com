@@ -3,7 +3,6 @@
 It uses Hugo with the Ananke theme.
 
 ## To Dos
-- [ ] Logo (professional)
 - [ ] Resources page
 - [ ] Canonical links/permalinks - esp. re: imported articles
 - [ ] target blank and correct rel values on links for SEO - is there a shortcode for these?
@@ -44,4 +43,5 @@ It uses Hugo with the Ananke theme.
 - [x] "what does native mean?" Native to where?
 - [x] Create socials - Facebook, Insta.
 - [x] Social sharing links
+- [x] Logo (professional)
 

@@ -17,6 +17,18 @@ header.home h1 {
 
 }
 
+td, th {
+    border-bottom: 1px solid #000;
+    border-right: 1px solid #000;
+}
+th {
+    border-top: 1px solid #000;
+}
+td:first-child,
+th:first-child {
+    border-left: 1px solid #000;
+}
+
 /* to futz with later...
 
 article figure {
