@@ -7,7 +7,9 @@ menu:
     name: "Wishlist"
 ---
 
-Want to help out? As much as we try to reuse and repurpose stuff as much as we can, there are still supplies we must purchase. **Anyone who purchases items from our wishlist will receive a free plant of their choice when we open in spring 2024.**
+Want to help out? While we try to reuse and repurpose as much as we can, there are still supplies that we have to source externally. That's where you come in! 
+
+**Anyone who purchases items from our wishlist will receive a free plant of their choice when we open in spring 2024.**
 
 If you're interested in shipping any of these items directly to me, please reach out to **lise AT redtrilliumgardens DOT com** for my mailing address.
 
