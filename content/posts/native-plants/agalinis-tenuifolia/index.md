@@ -1,6 +1,7 @@
 ---
 title: "Native Plant Showcase: Agalinis tenuifolia (slender false foxglove)"
 date: "2024-01-24"
+bg_alignment: "bg-top"
 tags: 
   - "agalinis-tenuifolia"
   - "false-foxglove"

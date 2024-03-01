@@ -1,6 +1,7 @@
 ---
 title: "Native Plant Showcase: Trillium erectum"
 date: "2023-04-27"
+bg_alignment: "bg-top"
 tags: 
   - "red-trillium"
   - "trillium"
