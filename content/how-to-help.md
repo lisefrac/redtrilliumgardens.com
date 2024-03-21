@@ -23,6 +23,7 @@ Lunenburg, MA 01462
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------- | -------- | --------- |
 | [Bundle: EurMax 10'x10' canopy tent with sides (red) plus tent stakes](https://www.amazon.com/Eurmax-Galvanized-Non-Rust-Camping-10pc-Pack/dp/B0CGZMFNVT)   | $233.72 | High      | 1         |
 | [Tall folding stool](https://www.amazon.com/5Rcom-Folding-Plastic-Foldable-Capacity/dp/B0C65ZSQK3/)   | $42.99 | High      | 1         |
+| [Business card holder](https://www.amazon.com/MaxGear-Business-Holder-Display-Rectangle/dp/B07GXK9G7Z)                                                                                            | $9.99   | High     | 1         |
 | [Sterilite containers (54qt, 22x16, 4pk)](https://www.amazon.com/Sterilite-19384304-Gasket-Aquarium-Latches/dp/B00KL7VPWO/ref=sr_1_11)                                               | $58.00  | High     | 1         |
 | [1020 Extra Strength Plug trays (10pk)](https://www.bootstrapfarmer.com/collections/1020-trays-and-flats/products/extra-strength-seedling-propagation-tray?variant=21766835075)   | $64.99 | High      | 1         |
 | [Capillary matting, 3 yards](https://www.gardeners.com/buy/capillary-matting/40-385.html)                                                                                            | $19.99   | High     | 1         |
