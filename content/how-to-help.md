@@ -33,7 +33,6 @@ Lunenburg, MA 01462
 | [Spray bottles](https://www.hardwarestore.com/659583-sprayco-12b-7999-trigger-sprayer-32-oz-capacity-navy-red-yellow)                                                                | $7.99   | High   | 2         |
 | [Measuring cups and spoons](https://www.amazon.com/Stainless-Measuring-10-Piece-Kitchen-Gadgets/dp/B091JXDLDX)                                                                       | 15.99   | High     | 1         |
 | [Native Plant Trust gift card](https://www.nativeplanttrust.org/for-your-garden-2/buy-native-plants-new/)<sup>1</sup>                                                                           | $50     | High     | unlimited |
-| [Spray bottles](https://www.hardwarestore.com/659583-sprayco-12b-7999-trigger-sprayer-32-oz-capacity-navy-red-yellow)                                                                | $7.99   | High   | 2         |
 | [Perlite (2 cu. ft.)](https://www.homedepot.com/p/Vigoro-2-cu-ft-Organic-Perlite-Soil-Amendment-100521091/205655210)                                                                 | $44.29  | Medium     | 1         |
 | [2' LED Grow Lights (8pk)](https://www.amazon.com/gp/product/B0B155D4LX/ref=ppx_yo_dt_b_asin_title_o03_s01?ie=UTF8&th=1)                                                           | $59.99  | Medium     | 1         |
 | [SunPad Lite 10x20" seedling heat mats](https://www.bootstrapfarmer.com/collections/heat-mats-for-seed-starting/products/seedling-heat-mat)                                          | $28.99  | Medium      | 3         |
