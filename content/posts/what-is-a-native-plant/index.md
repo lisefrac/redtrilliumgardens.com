@@ -12,7 +12,7 @@ featured_image: 'images/catalpa-speciosa-cochituate-brook-trail.jpeg'
 
 But what does "native" actually *mean*?
 
-This is a question that Mark Anderson and Dan Jaffe attempt to answer at the beginning of [*Native Plants for New England Gardens*](https://bookshop.org/p/books/native-plants-for-new-england-gardens-mark-richardson/10338511):
+This is a question that Mark Richardson and Dan Jaffe attempt to answer at the beginning of [*Native Plants for New England Gardens*](https://bookshop.org/p/books/native-plants-for-new-england-gardens-mark-richardson/10338511):
 
 > Generally speaking, native is defined by "where" and "when." In other words, native plants are considered to be those that existed in a given location at a specific point in time.  
 
@@ -20,9 +20,9 @@ This is a question that Mark Anderson and Dan Jaffe attempt to answer at the beg
 
 First, let's talk about the **"when,"** because it's not quite the minefield that the *where* is. 
 
-According to Anderson and Jaffe, "for simplicity's sake... if the plant was in an area at the time the first European settlers arrived, it is considered native."
+According to Richardson and Jaffe, "for simplicity's sake... if the plant was in an area at the time the first European settlers arrived, it is considered native."
 
-(I assume "we" here can be understood to mean [Native Plant Trust](https://www.nativeplanttrust.org/), as both Anderson and Jaffe are affiliated with it. They are a reputable source, and are where I am pursuing my Native Plant Studies certificate!)
+(I assume "we" here can be understood to mean [Native Plant Trust](https://www.nativeplanttrust.org/), as both Richardson and Jaffe are affiliated with it. They are a reputable source, and are where I am pursuing my Native Plant Studies certificate!)
 
 This view is, of course, hella Eurocentric and imperialist, and the fallibility of human records makes it even more questionable. 
 
@@ -82,7 +82,7 @@ It's easy to say that, say, Reynoutria japonica (Japanese knotweed) is a non-nat
 
 But it's not always so clear cut a case. Sometimes, as I've shown, "the call is coming from inside the house."
 
-(Anderson and Jaffe suggest the concept of [ecoregions](https://www.epa.gov/eco-research/ecoregions) as an alternative to land borders, and that has merit, but at the end of the day the boundaries are still subject to some degree of human judgment).
+(Richardson and Jaffe suggest the concept of [ecoregions](https://www.epa.gov/eco-research/ecoregions) as an alternative to land borders, and that has merit, but at the end of the day the boundaries are still subject to some degree of human judgment).
 
 What I conclude here is that -- at least within a continent --  **"native" still has some room for interpretation**. 
 
@@ -120,7 +120,7 @@ I'm not going to be policing anyone's usage of these plants, either -- just prov
 
 ## tl;dr
 
-I've gotten long-winded, so let me sum up with a quote from Anderson and Jaffe: "native plant" means **"the right plant for the right place."**
+I've gotten long-winded, so let me sum up with a quote from Richardson and Jaffe: "native plant" means **"the right plant for the right place."**
 
 But as we all know... "right" is subjective.
 
