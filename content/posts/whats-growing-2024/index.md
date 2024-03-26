@@ -19,6 +19,7 @@ Note that there's no guarantee we will have these exact plants. Gardening, and n
 These were all purchased from either [Wild Seed Project](https://wildseedproject.net/) or [Prairie Moon Nursery](https://www.prairiemoon.com/) (where we purchase only New England natives). We tend to prefer WSP, as they are based out of Maine, meaning they have a more local ecotype than the ones from Prairie Moon Nursery (which is based out of Minnesota). However, not all species are available with Wild Seed Project. 
 
 - Agalinis tenuifolia - slender false foxglove
+- Achillea millefolium (Multi-Hued Mix) - yarrow
 - Ageratina altissima - white snakeroot
 - Agrimonia striata - roadside agrimony
 - Anaphalis margaritacea - pearly everlasting
