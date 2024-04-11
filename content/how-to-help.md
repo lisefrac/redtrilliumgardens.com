@@ -21,15 +21,8 @@ Lunenburg, MA 01462
 
 | Name                                                                                                                                                                                 | Price   | Priority | Quantity  |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------- | -------- | --------- |
-| [Bundle: EurMax 10'x10' canopy tent with sides (red) plus tent stakes](https://www.amazon.com/Eurmax-Galvanized-Non-Rust-Camping-10pc-Pack/dp/B0CGZMFNVT)   | $233.72 | High      | 1         |
-| [Tall folding stool](https://www.amazon.com/5Rcom-Folding-Plastic-Foldable-Capacity/dp/B0C65ZSQK3/)   | $42.99 | High      | 1         |
 | [Sterilite containers (54qt, 22x16, 4pk)](https://www.amazon.com/Sterilite-19384304-Gasket-Aquarium-Latches/dp/B00KL7VPWO/ref=sr_1_11)                                               | $58.00  | High     | 1         |
-| [1020 Extra Strength Plug trays (10pk)](https://www.bootstrapfarmer.com/collections/1020-trays-and-flats/products/extra-strength-seedling-propagation-tray?variant=21766835075)   | $64.99 | High      | 1         |
 | [Capillary matting, 3 yards](https://www.gardeners.com/buy/capillary-matting/40-385.html)                                                                                            | $19.99   | High     | 1         |
-| [Clear humidity domes (10pk)](https://www.greenhousemegastore.com/products/clear-humidity-dome?_pos=1&_sid=63a5ee187&_ss=r)                                                          | $39.50    | High     | 1         |
-| [Garden Marker 0.8mm tip](https://www.greenhousemegastore.com/collections/accessories-for-containers/products/garden-marker-pen?variant=42701205504199)                              | $3.79   | High     | 3         |
-| [Garden Marker 1.2mm tip](https://www.greenhousemegastore.com/collections/accessories-for-containers/products/garden-marker-pen?variant=42701205569735)                              | $2.99   | High     | 3         |
-| [Spray bottles](https://www.hardwarestore.com/659583-sprayco-12b-7999-trigger-sprayer-32-oz-capacity-navy-red-yellow)                                                                | $7.99   | High   | 2         |
 | [Measuring cups and spoons](https://www.amazon.com/Stainless-Measuring-10-Piece-Kitchen-Gadgets/dp/B091JXDLDX)                                                                       | 15.99   | High     | 1         |
 | [Native Plant Trust gift card](https://www.nativeplanttrust.org/for-your-garden-2/buy-native-plants-new/)<sup>1</sup>                                                                           | $50     | High     | unlimited |
 | [Perlite (2 cu. ft.)](https://www.homedepot.com/p/Vigoro-2-cu-ft-Organic-Perlite-Soil-Amendment-100521091/205655210)                                                                 | $44.29  | Medium     | 1         |
