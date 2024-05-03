@@ -31,14 +31,14 @@ Here is what we currently have available. Note that these are plug-sized plants,
 
 ### Native perennials - $5 each
 - Sundial lupine - Lupinus perennis
-- Yarrow (multi-hued cultivar) - Achillea millefolium- single plugs, $5/ea
-- Wild bergamot/bee-balm - Monarda fistulosa - single plugs, $5/ea
-- Spotted bee-balm - Monarda punctata - single plugs, $5/ea
-- Swamp/rose milkweed - Asclepias incarnata - single plugs, $5/ea
-- Poke milkweed - Asclepias exaltata - single plugs, $5/ea
+- Yarrow (multi-hued cultivar) - Achillea millefolium
+- Wild bergamot/bee-balm - Monarda fistulosa
+- Spotted bee-balm - Monarda punctata
+- Swamp/rose milkweed - Asclepias incarnata
+- Poke milkweed - Asclepias exaltata
 
 ### Native annuals - $7 for a pot of 2
-- Partridge pea - Chamaecrista fasciculata - pots of 2 each, $7
+- Partridge pea - Chamaecrista fasciculata
 
 ### Non-native perennials - $4 each
 - Lavender - we also have larger (last year's) lavender available, at $8/plant
