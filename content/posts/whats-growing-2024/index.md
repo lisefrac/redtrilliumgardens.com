@@ -10,7 +10,7 @@ Note that there's no guarantee we will have these exact plants. Gardening, and n
 
 (And let's be real, I'll probably buy more seeds before spring!)
 
-**Last updated:** February 19, 2024
+**Last updated:** May 21, 2024
 
 ### Native Plants
 
@@ -54,7 +54,7 @@ These were all purchased from either [Wild Seed Project](https://wildseedproject
 - Oenothera biennis - common evening primrose
 - Pycnanthemum incanum - hoary mountain-mint
 - Pycnanthemum muticum - broad-leaved mountain mint
-- Pycnanthemum virginianum - Virginia mountain-mint (yes, it's still native to New England!)
+- Pycnanthemum virginianum - Virginia mountain-mint
 - Penstemon digitalis - foxglove beardtongue
 - Penstemon hirsutus - northern beardtongue, hairy beardtongue
 - Rudbeckia hirta v. pulcherrima - black-eyed Susan, black-eyed coneflower
@@ -68,23 +68,20 @@ These were all purchased from either [Wild Seed Project](https://wildseedproject
 
 #### Self-Collected Seeds/Cuttings
 
-These were collected myself, mostly in Lunenburg or Townsend, MA but a few from farther afield. Some of them may have double dormancy -- meaning they require two years of alternating warm and cool temperatures before they germinate -- and so may not be available this year. 
+These were collected by myself or others, mostly in Lunenburg or Townsend, MA but a few from farther afield. Some of them may have double dormancy -- meaning they require two years of alternating warm and cool temperatures before they germinate -- and so may not be available this year. 
 
 - Ageratina altissima - white snakeroot
 - Asclepias syriaca - common milkweed
 - Asclepias tuberosa - butterfly milkweed
 - Chaemaecrista fasisculata - partridge pea
-- Gaultheria procumbens - teaberry, wintergreen
-- Impatiens capensis - jewelweed, touch-me-not
-- Lobelia cardinalis - cardinal flower - I forgot I had these seeds!
+- Lobelia cardinalis - cardinal flower
 - Maianthemum canadense - false lily-of-the-valley, Canada mayflower
 - Medeola virginiana - Indian cucumber root
-- Mitchella repens - partridgeberry
 - Monarda fistulosa - wild bee-balm, wild berganot
 - Oenothera sp. - evening primrose
 - Parthenocissus quinquefolia - Virginia creeper
 - Pycnanthemum muticum - broad-leaved mountain mint
-- Rudbeckia fulgida - orange coneflower
+- Rudbeckia fulgida - orange coneflower - this is actually seed collected from my Rudbeckia 'Goldsturm', which is a cross between R. fulgida and R. hirta. Not sure what these will do, but they almost certainly won't exhibit the vigor of the parent.
 - Vernonia novaboracensis - New York ironweed
 - various Asteraceae (goldenrods, asters etc) that I can't yet ID to species level
 
@@ -105,7 +102,7 @@ This year we plan to also offer herb and veggie starts for your garden!
 - Tomato (cherry)
 - Tomato (Roma)
 - Pepper (bell)
-- Pepper (habañero)
+- Pepper (habanero)
 - Pepper (jalapeño)
 - Lavender
 - Sage
