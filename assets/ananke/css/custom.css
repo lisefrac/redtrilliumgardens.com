@@ -29,6 +29,10 @@ th:first-child {
     border-left: 1px solid #000;
 }
 
+.lh-copy blockquote {
+    font-size: x-large;
+}
+
 /* to futz with later...
 
 article figure {
