@@ -7,7 +7,7 @@ menu:
     name: "Buy Plants!"
 ---
 
-_(Updated: May 21, 2024)_
+_(Updated: May 30, 2024)_
 
 Since we are so new, buying plants from us is a little different! Please **read the full details** before emailing us your order/reservation. 
 
@@ -20,11 +20,12 @@ Here's the list. Note that these are mostly **plug-sized plants**, in ~3.5"-4" (
 - Wild bergamot/bee-balm - Monarda fistulosa - $5 per plug; $9 for a quart
 - Spotted bee-balm - Monarda punctata - $5/plug
 - Swamp/rose milkweed - Asclepias incarnata - $5/plug
-- Broad-leaved mountain mint - Pycnanthemum muticum  - $5/plug
+- Broad-leaved mountain mint - Pycnanthemum muticum - $5/plug
+- Virginia mountain-mint - Pycnanthemum virginianum - $5/plug
 
 ### Native annuals
 - Partridge pea - Chamaecrista fasciculata - $7 for 2 plants in a quart pot
-- Wild cucumber - Echinocystis lobata - $7 for 1 plant in a 2qt pot. (These are large plants!) 
+- Wild cucumber - Echinocystis lobata - $6 for 1 plant in a 2qt pot. (These are large plants!) 
 
 ### Non-native perennials - $4 each
 - Lavender ('Munstead')
@@ -34,14 +35,17 @@ Here's the list. Note that these are mostly **plug-sized plants**, in ~3.5"-4" (
 - Peppermint
 - Catnip
 - Thyme (English)
+- Rosemary
+- Lavender
 
 ### Non-native annuals - $3 each, or 2 for $5
 - Tomatoes (slicing) - Super Beefsteak
 - Tomatoes (sauce/cooking) - San Marzano, Roma
-- Tomatoes (cherry) - Super Snow White (white at maturity), Bicolor Cherry (red and yellow at maturity), Green Grape (green at maturity), Sweetie
+- Tomatoes (cherry) - Super Snow White (white at maturity), Bicolor Cherry (red and yellow at maturity), Green Grape (green at maturity), Sweetie (red), Chocolate Cherry (red/brown), Golden Nugget (yellow)
 - Bell Peppers - Grand Bell Mix and California Wonder varieties
 - Habaneros
 - Jalapeños - Early Jalapeño, Jalapeño M
+- Basil
 
 ## "What will you have available later in the year?"
 
@@ -49,14 +53,14 @@ Please refer to our ["What We're Growing for 2024"](/posts/whats-growing-2024/) 
 
 Plants that are likely to be **available soon** include:
 
-- Virginia mountain-mint - Pycnanthemum virginianum 
+
 - Common milkweed - Asclepias syriaca (🤞; this one has fought us)
 - Butterfly milkweed - Asclepias tuberosa (same)
 - White wood aster - Eurybia divaricata
-- Sundial lupine - Lupinus perennis
-- Rosemary
-- Basil
-- Dill
+- Heart-leaved aster - Symphyotrichum cordifolium
+- Golden alexanders - Zizia aurea
+- Dill, Fernleaf
+- Cilantro, 'Slow Bolt' and straight species
 
 ## "Where is your nursery located? When can I visit?"
 
