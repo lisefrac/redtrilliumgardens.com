@@ -7,7 +7,7 @@ menu:
     name: "Buy Plants!"
 ---
 
-_(Updated: May 30, 2024)_
+_(Updated: June 5, 2024)_
 
 Since we are so new, buying plants from us is a little different! Please **read the full details** before emailing us your order/reservation. 
 
@@ -15,17 +15,27 @@ Since we are so new, buying plants from us is a little different! Please **read 
 
 Here's the list. Note that these are mostly **plug-sized plants**, in ~3.5"-4" (1 pint) containers. We also have a few quart-sized containers available at this time.
 
-### Native perennials
-- Yarrow (multi-hued cultivar) - Achillea millefolium - $5/plug
-- Wild bergamot/bee-balm - Monarda fistulosa - $5 per plug; $9 for a quart
-- Spotted bee-balm - Monarda punctata - $5/plug
-- Swamp/rose milkweed - Asclepias incarnata - $5/plug
-- Broad-leaved mountain mint - Pycnanthemum muticum - $5/plug
-- Virginia mountain-mint - Pycnanthemum virginianum - $5/plug
+### Native perennials - $5/pint or $9/quart 
+- Yarrow (multi-hued cultivar) - Achillea millefolium - pints and quarts
+- Wild bergamot/bee-balm - Monarda fistulosa - pints and quarts
+- Spotted bee-balm - Monarda punctata - pints only
+- Swamp/rose milkweed - Asclepias incarnata - pints only
+- Broad-leaved mountain mint - Pycnanthemum muticum - pints only
+- Virginia mountain-mint - Pycnanthemum virginianum - pints only
+- Heart leaved aster - Symphyotrichum cordifolium - pints only
 
 ### Native annuals
 - Partridge pea - Chamaecrista fasciculata - $7 for 2 plants in a quart pot
 - Wild cucumber - Echinocystis lobata - $6 for 1 plant in a 2qt pot. (These are large plants!) 
+
+### "Zoigls" - $3 pint or 2 for $5
+
+"Zoigl" originally referred to a specific style of home-brewn, unfiltered German beer with no shelf life. It's also used to describe a beer that didn't quite come out as expected, and thus isn't suitable for wide distribution -- a "factory second," if you will. 
+
+What does this have to do with native plants? Well, we have some plants that didn't quite come out as planned, or that we can't identify to species level. We're marking these down to $3 per pot, or 2 for $5 -- the same price as our annual non-natives.
+
+- _Monarda?_ These seeds were labeled Monarda punctata, but have produced plants that look more like Monarda fistulosa. I'll know when they flower, but in the meantime, you can get a discount on a lovely native that -- regardless of species -- has sweet-scented leaves and flowers.
+- _Symphyotrichum cordifolium or Eurybia divaricata?_ These are from seeds I collected last year, but I didn't key out the plant when it was flowering. All I know they are from one of the genera that used to be classed under _Aster_, before the genus was split into 10 different genera(!) With only leaves to go on, I can't tell them apart (nor can iNaturalist!) So until they flower, you can benefit from my mistake! 
 
 ### Non-native perennials - $4 each
 - Lavender ('Munstead')
@@ -53,14 +63,14 @@ Please refer to our ["What We're Growing for 2024"](/posts/whats-growing-2024/) 
 
 Plants that are likely to be **available soon** include:
 
-
 - Common milkweed - Asclepias syriaca (🤞; this one has fought us)
 - Butterfly milkweed - Asclepias tuberosa (same)
-- White wood aster - Eurybia divaricata
 - Heart-leaved aster - Symphyotrichum cordifolium
 - Golden alexanders - Zizia aurea
 - Dill, Fernleaf
 - Cilantro, 'Slow Bolt' and straight species
+- Spotted Joe-pye weed - Eutrochium maculatum
+- Wild mint - Mentha arvensis
 
 ## "Where is your nursery located? When can I visit?"
 
@@ -78,7 +88,7 @@ As we move into the fall months, we are hoping to do more markets with [Grow Nat
 
 ## "How do I order for pickup?"
 
-If you're interested in purchasing any available plants (see below), please email lise AT redtrilliumgardens DOT com with your requests. At this time, quantities are very limited. 
+If you're interested in purchasing any available plants (see below), please email [lise@redtrilliumgardens.com](mailto:lise@redtrilliumgardens.com) with your requests. At this time, quantities are very limited. 
 
 You can pickup at one of our markets, or at our home in Lunenburg. 
 
@@ -106,7 +116,7 @@ Please do! We can't guarantee we'll grow them this year, but we'll definitely lo
 
 __
 
-**tl;dr: If you'd like to order or reserve plants, please email lise AT redtrilliumgardens DOT com.**
+**tl;dr: If you'd like to order or reserve plants, please email [lise@redtrilliumgardens.com](mailto:lise@redtrilliumgardens.com).
 
 
 
