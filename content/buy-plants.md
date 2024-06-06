@@ -34,8 +34,8 @@ Here's the list. Note that these are mostly **plug-sized plants**, in ~3.5"-4" (
 
 What does this have to do with native plants? Well, we have some plants that didn't quite come out as planned, or that we can't identify to species level. We're marking these down to $3 per pot, or 2 for $5 -- the same price as our annual non-natives.
 
-- _Monarda?_ These seeds were labeled Monarda punctata, but have produced plants that look more like Monarda fistulosa. I'll know when they flower, but in the meantime, you can get a discount on a lovely native that -- regardless of species -- has sweet-scented leaves and flowers.
-- _Symphyotrichum cordifolium or Eurybia divaricata?_ These are from seeds I collected last year, but I didn't key out the plant when it was flowering. All I know they are from one of the genera that used to be classed under _Aster_, before the genus was split into 10 different genera(!) With only leaves to go on, I can't tell them apart (nor can iNaturalist!) So until they flower, you can benefit from my mistake! 
+- _Monarda?_ These seeds were labeled Monarda punctata (spotted bee-balm), but have produced plants that look more like Monarda fistulosa (wild bee-balm or wild bergamot). I'll know when they flower, but in the meantime, you can get a discount on a lovely native that -- regardless of species -- has sweet-scented leaves and flowers.
+- _Symphyotrichum cordifolium (blue wood aster; heart leaved aster) or Eurybia divaricata? (white wood aster)_ These are from seeds I collected last year, but I didn't key out the plant when it was flowering. All I know they are asters, i.e. from one of the genera that used to be lumped into genus _Aster_, before it was split into 10 different genera(!) With only leaves to go on, I can't tell them apart (nor can iNaturalist!) Either way, both are native species that produce a white flower in late summer or early fall (when many other flowers are beginning to fade), and thrive in very similar conditions (partial shade with medium to medium-dry soil). Until they flower, benefit from my mistake!
 
 ### Non-native perennials - $4 each
 - Lavender ('Munstead')
@@ -116,7 +116,7 @@ Please do! We can't guarantee we'll grow them this year, but we'll definitely lo
 
 __
 
-**tl;dr: If you'd like to order or reserve plants, please email [lise@redtrilliumgardens.com](mailto:lise@redtrilliumgardens.com).
+**tl;dr: If you'd like to order or reserve plants, please email [lise@redtrilliumgardens.com](mailto:lise@redtrilliumgardens.com).**
 
 
 
