@@ -78,7 +78,7 @@ We do not currently have a storefront. Currently we are selling plants in two wa
 
 ## "Okay, so what's your next event?"
 
-Generally speaking, from June-October we plan to be at two markets a month. Our next scheduled market is **Saturday, June 15, 2024, from 9am - 2pm, at Montuori Fleamarket at 186 Massachusetts Ave.**
+Generally speaking, from June-October we plan to be at two markets a month. Our next scheduled market is **Saturday, June 15, 2024, from 9am - 2pm, at Montuori Fleamarket at 186 Massachusetts Ave, Lunenburg, MA.**
 
 We have applied to both the Leominster and Fitchburg Farmer's Markets for the 2024 season (both organized by [Growing Places](https://growingplaces.org/)), but have not yet heard back. These are held on the first and second Saturday of each month respectively, from June-October. If we are accepted, July 6th at the Leominster market would be our first market with that organization. More info as we know it.
 
