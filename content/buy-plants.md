@@ -51,7 +51,7 @@ What does this have to do with native plants? Well, we have some plants that did
 ### Non-native annuals - $3 each, or 2 for $5
 - Tomatoes (slicing) - Super Beefsteak
 - Tomatoes (sauce/cooking) - San Marzano, Roma
-- Tomatoes (cherry) - Super Snow White (white at maturity), Bicolor Cherry (red and yellow at maturity), Green Grape (green at maturity), Sweetie (red), Chocolate Cherry (red/brown), Golden Nugget (yellow)
+- Tomatoes (cherry) - Super Snow White (white at maturity), Bicolor Cherry (red and yellow at maturity), Sweetie (red), Chocolate Cherry (red/brown)
 - Bell Peppers - Grand Bell Mix and California Wonder varieties
 - Habaneros
 - Jalapeños - Early Jalapeño, Jalapeño M
@@ -63,14 +63,27 @@ Please refer to our ["What We're Growing for 2024"](/posts/whats-growing-2024/) 
 
 Plants that are likely to be **available soon** include:
 
+- [White snakeroot - Ageratina altissima](https://redtrilliumgardens.com/posts/native-plants/ageratina-altissima/)
 - Common milkweed - Asclepias syriaca (🤞; this one has fought us)
 - Butterfly milkweed - Asclepias tuberosa (same)
+- Spotted Joe-pye weed - Eutrochium maculatum
+- Gray's sedge - Carex grayi
+- Virgin's bower - Clematis virginiana
+- Cardinal flower - Lobelia cardinalis
+- Wild mint - Mentha arvensis
+- Common evening primrose - Oenothera biennis
+- Wreath or blue-stem goldenrod - Solidago caesia
 - Heart-leaved aster - Symphyotrichum cordifolium
+- Smooth blue aster - Symphyotrichum laeve
+- Goat's rue - Tephrosia virginiana
 - Golden alexanders - Zizia aurea
+
+- Solidago sp. (zoigl)
+- Oenothera sp. (zoigl)
+
 - Dill, Fernleaf
 - Cilantro, 'Slow Bolt' and straight species
-- Spotted Joe-pye weed - Eutrochium maculatum
-- Wild mint - Mentha arvensis
+- Additional 'Green Grape' tomatoes
 
 ## "Where is your nursery located? When can I visit?"
 
