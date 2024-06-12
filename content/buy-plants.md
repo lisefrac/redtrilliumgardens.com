@@ -7,7 +7,7 @@ menu:
     name: "Buy Plants!"
 ---
 
-_(Updated: June 5, 2024)_
+_(Updated: June 12, 2024)_
 
 Since we are so new, buying plants from us is a little different! Please **read the full details** before emailing us your order/reservation. 
 
@@ -15,14 +15,20 @@ Since we are so new, buying plants from us is a little different! Please **read 
 
 Here's the list. Note that these are mostly **plug-sized plants**, in ~3.5"-4" (1 pint) containers. We also have a few quart-sized containers available at this time.
 
-### Native perennials - $5/pint or $9/quart 
-- Yarrow (multi-hued cultivar) - Achillea millefolium - pints and quarts
-- Wild bergamot/bee-balm - Monarda fistulosa - pints and quarts
-- Spotted bee-balm - Monarda punctata - pints only
-- Swamp/rose milkweed - Asclepias incarnata - pints only
-- Broad-leaved mountain mint - Pycnanthemum muticum - pints only
-- Virginia mountain-mint - Pycnanthemum virginianum - pints only
-- Heart leaved aster - Symphyotrichum cordifolium - pints only
+### Native perennials - $5/pint or $9/quart (quart selection limited)
+- Yarrow (multi-hued cultivar) - Achillea millefolium
+- Wild bergamot/bee-balm - Monarda fistulosa
+- Spotted bee-balm - Monarda punctata
+- Swamp/rose milkweed - Asclepias incarnata
+- Broad-leaved mountain mint - Pycnanthemum muticum
+- Virginia mountain-mint - Pycnanthemum virginianum
+- Heart leaved aster - Symphyotrichum cordifolium
+- Gray's sedge - Carex grayi
+- Wild mint - Mentha arvensis
+- Common evening primrose - Oenothera biennis
+- Golden alexanders - Zizia aurea
+- Heart-leaved aster - Symphyotrichum cordifolium
+- Smooth blue aster - Symphyotrichum laeve
 
 ### Native annuals
 - Partridge pea - Chamaecrista fasciculata - $7 for 2 plants in a quart pot
@@ -67,16 +73,10 @@ Plants that are likely to be **available soon** include:
 - Common milkweed - Asclepias syriaca (🤞; this one has fought us)
 - Butterfly milkweed - Asclepias tuberosa (same)
 - Spotted Joe-pye weed - Eutrochium maculatum
-- Gray's sedge - Carex grayi
 - Virgin's bower - Clematis virginiana
 - Cardinal flower - Lobelia cardinalis
-- Wild mint - Mentha arvensis
-- Common evening primrose - Oenothera biennis
 - Wreath or blue-stem goldenrod - Solidago caesia
-- Heart-leaved aster - Symphyotrichum cordifolium
-- Smooth blue aster - Symphyotrichum laeve
 - Goat's rue - Tephrosia virginiana
-- Golden alexanders - Zizia aurea
 
 - Solidago sp. (zoigl)
 - Oenothera sp. (zoigl)
