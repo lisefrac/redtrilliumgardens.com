@@ -7,7 +7,7 @@ menu:
     name: "Buy Plants!"
 ---
 
-_(Updated: June 12, 2024)_
+_(Updated: June 14, 2024)_
 
 Since we are so new, buying plants from us is a little different! Please **read the full details** before emailing us your order/reservation. 
 
@@ -16,22 +16,23 @@ Since we are so new, buying plants from us is a little different! Please **read 
 Here's the list. Note that these are mostly **plug-sized plants**, in ~3.5"-4" (1 pint) containers. We also have a few quart-sized containers available at this time.
 
 ### Native perennials - $5/pint or $9/quart (quart selection limited)
-- Yarrow (multi-hued cultivar) - Achillea millefolium
-- Wild bergamot/bee-balm - Monarda fistulosa
-- Spotted bee-balm - Monarda punctata
-- Swamp/rose milkweed - Asclepias incarnata
+
 - Broad-leaved mountain mint - Pycnanthemum muticum
-- Virginia mountain-mint - Pycnanthemum virginianum
-- Heart leaved aster - Symphyotrichum cordifolium
-- Gray's sedge - Carex grayi
-- Wild mint - Mentha arvensis
+- Common bur sedge - Carex grayi
 - Common evening primrose - Oenothera biennis
 - Golden alexanders - Zizia aurea
-- Heart-leaved aster - Symphyotrichum cordifolium
+- Heart leaved/blue wood aster - Symphyotrichum cordifolium
 - Smooth blue aster - Symphyotrichum laeve
+- Spotted bee-balm - Monarda punctata - only 1 left!
+- Swamp/rose milkweed - Asclepias incarnata
+- Virginia mountain-mint - Pycnanthemum virginianum
+- [White snakeroot - Ageratina altissima](/posts/native-plants/ageratina-altissima/)
+- Wild bergamot/bee-balm - Monarda fistulosa
+- Wild mint - Mentha arvensis
+- Yarrow (multi-hued cultivar) - Achillea millefolium
 
 ### Native annuals
-- Partridge pea - Chamaecrista fasciculata - $7 for 2 plants in a quart pot
+- [Partridge pea](/info-sheets/cha-fas/) - Chamaecrista fasciculata - $7 for 2 plants in a quart pot. Only 1 left!
 - Wild cucumber - Echinocystis lobata - $6 for 1 plant in a 2qt pot. (These are large plants!) 
 
 ### "Zoigls" - $3 pint or 2 for $5
@@ -41,12 +42,12 @@ Here's the list. Note that these are mostly **plug-sized plants**, in ~3.5"-4" (
 What does this have to do with native plants? Well, we have some plants that didn't quite come out as planned, or that we can't identify to species level. We're marking these down to $3 per pot, or 2 for $5 -- the same price as our annual non-natives.
 
 - _Monarda?_ These seeds were labeled Monarda punctata (spotted bee-balm), but have produced plants that look more like Monarda fistulosa (wild bee-balm or wild bergamot). I'll know when they flower, but in the meantime, you can get a discount on a lovely native that -- regardless of species -- has sweet-scented leaves and flowers.
-- _Symphyotrichum cordifolium (blue wood aster; heart leaved aster) or Eurybia divaricata? (white wood aster)_ These are from seeds I collected last year, but I didn't key out the plant when it was flowering. All I know they are asters, i.e. from one of the genera that used to be lumped into genus _Aster_, before it was split into 10 different genera(!) With only leaves to go on, I can't tell them apart (nor can iNaturalist!) Either way, both are native species that produce a white flower in late summer or early fall (when many other flowers are beginning to fade), and thrive in very similar conditions (partial shade with medium to medium-dry soil). Until they flower, benefit from my mistake!
+- _Symphyotrichum cordifolium (blue wood aster; heart leaved aster) or Eurybia divaricata? (white wood aster)_ These are from seeds I collected last year, but I didn't key out the plant when it was flowering. All I know they are asters, i.e. from one of the genera that used to be lumped into genus _Aster_, before it was split into 10 different genera(!) With only leaves to go on, I can't tell them apart (nor can iNaturalist!) Either way, both are native species that produce a white or whitish-blue flower in late summer or early fall (when many other flowers are beginning to fade), and thrive in very similar conditions (partial shade with medium to medium-dry soil). Until they flower, benefit from my mistake!
 
-### Non-native perennials - $4 each
+### Non-native perennials - <strike>$4 each</strike> $3 each or 2 for $5
 - Lavender ('Munstead')
 - Oregano
-- Lemon Balm - 'Limoncello' and 'Mandarina' cultivars
+- Lemon Balm - only the 'Mandarina' cultivar left
 - Sage - Broadleaf
 - Peppermint
 - Catnip
@@ -54,13 +55,13 @@ What does this have to do with native plants? Well, we have some plants that did
 - Rosemary
 - Lavender
 
-### Non-native annuals - $3 each, or 2 for $5
+### Non-native annuals - <strike>$3 each, or 2 for $5</strike> $2 each, or 3 for $5
 - Tomatoes (slicing) - Super Beefsteak
 - Tomatoes (sauce/cooking) - San Marzano, Roma
-- Tomatoes (cherry) - Super Snow White (white at maturity), Bicolor Cherry (red and yellow at maturity), Sweetie (red), Chocolate Cherry (red/brown)
+- Tomatoes (cherry) - Bicolor Cherry (pink/white at maturity), Sweetie (red), Chocolate Cherry (red/brown)
 - Bell Peppers - Grand Bell Mix and California Wonder varieties
 - Habaneros
-- Jalapeños - Early Jalapeño, Jalapeño M
+- Jalapeños - Early Jalapeño, Jalapeño M (only 1 left!)
 - Basil
 
 ## "What will you have available later in the year?"
@@ -69,7 +70,6 @@ Please refer to our ["What We're Growing for 2024"](/posts/whats-growing-2024/) 
 
 Plants that are likely to be **available soon** include:
 
-- [White snakeroot - Ageratina altissima](https://redtrilliumgardens.com/posts/native-plants/ageratina-altissima/)
 - Common milkweed - Asclepias syriaca (🤞; this one has fought us)
 - Butterfly milkweed - Asclepias tuberosa (same)
 - Spotted Joe-pye weed - Eutrochium maculatum
