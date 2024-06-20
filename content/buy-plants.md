@@ -7,7 +7,7 @@ menu:
     name: "Buy Plants!"
 ---
 
-_(Updated: June 19, 2024)_
+_(Updated: June 20, 2024)_
 
 Since we are so new, buying plants from us is a little different! Please **read the full details** before emailing us your order/reservation. 
 
@@ -21,6 +21,7 @@ Here's the list. Note that these are mostly **plug-sized plants**, in ~3.5"-4" (
 - Cardinal flower - Lobelia cardinalis 🆕
 - Common bur sedge - Carex grayi
 - Common evening primrose - Oenothera biennis
+- Common milkweed - Asclepias syriaca  🆕❣️
 - Golden alexanders - Zizia aurea
 - Heart leaved/blue wood aster - Symphyotrichum cordifolium
 - Smooth blue aster - Symphyotrichum laeve
@@ -30,6 +31,7 @@ Here's the list. Note that these are mostly **plug-sized plants**, in ~3.5"-4" (
 - Wild bergamot/bee-balm - Monarda fistulosa
 - Wild mint - Mentha arvensis
 - Yarrow (multi-hued cultivar) - Achillea millefolium
+- Pasture thistle - Cirsium discolor 🆕
 
 ### Native annuals
 - [Partridge pea](/info-sheets/cha-fas/) - Chamaecrista fasciculata - $7 for 2 plants in a quart pot. Only 1 left!
