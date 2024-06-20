@@ -26,7 +26,7 @@ In case you missed it, the following plants just became available:
 
 We also newly have 1 or 2 quart pots of **yarrow** (Achillea millefolium) and **wild bergamot** (Monarda fistulosa), available for $9/each. 
 
-We also have of other native plants, tomatoes, hot (and not-so-spicy) peppers, and herbs. [Full availability list here]({{% relref "/buy-plants/" %}}).
+We also have other native plants, tomatoes, hot (and not-so-spicy) peppers, and herbs. [Full availability list here]({{% relref "/buy-plants/" %}}).
 
 And if you're looking for discounted plants, may I point you to our  ["zoigls?"]({{% relref "/buy-plants" %}}) We also have our [pot rebate program]({{% relref "/buy-plants#pot-rebate-program" %}}) -- you'll receive 10 cents off your purchase for each pot in good condition that you return to the nursery (down to a minimum purchase of $5; must be applied on that purchase). One pint, one quart, and two quart pots are especially in demand right now. 
 
@@ -34,7 +34,7 @@ Please see our instructions for buying plants right [here]({{% relref "/buy-plan
 
 ## Next Market(s)
 
-So, this is awkward. We have applied to the Fitchburg and Leominster Farmers Markets, but have not yet heard back from them (despite repeated follow-ups). But the next markets are fast approaching -- July 6th for Leominster and July 7th for Fitchburg!
+So, this is awkward. We have applied to the Fitchburg and Leominster Farmers Markets, but have not yet heard back from them (despite repeated follow-ups). But the next markets are fast approaching -- July 6th for Leominster and July 13th for Fitchburg!
 
 Worst case scenario, I'm just going to show up the day of and see if they let me set-up 🤣 If not, I'll plan to be at Montuori Fleamarket July 20th.
 
