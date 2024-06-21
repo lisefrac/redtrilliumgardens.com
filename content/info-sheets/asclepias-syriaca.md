@@ -1,6 +1,6 @@
 ---
 title: "Common Milkweed"
-description: "Information and care for Asclepias exaltata (poke milkweed), sold at Red Trillium Gardens"
+description: "Information and care for Asclepias syriaca (common milkweed), sold at Red Trillium Gardens"
 featured_image: 'images/asclepias-syriaca-featured.jpeg'
 ---
 
