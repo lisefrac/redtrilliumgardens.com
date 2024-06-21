@@ -36,4 +36,8 @@ featured_image: 'images/lobelia-cardinalis-1.jpeg'
 > 
 > --Native Plant Trust
 
-{{< figure src="../lobelia-cardinalis-2.jpg" alt="Lobelia cardinalis (cardinal flower), with spikes of showy red flowers" title="Lobelia cardinalis (cardinal flower)">}}
+{{< figure src="/images/lobelia-cardinalis-2.jpg" alt="Lobelia cardinalis (cardinal flower), with spikes of showy red flowers" title="Lobelia cardinalis (cardinal flower). Photo by Lise Fracalossi, August 31, 2019, Large Town Forest, Lunenburg, MA.">}}
+
+___
+
+_Featured image:_ Cardinal flower, photographed August 22, 2021, in Ausable Marsh WMA, Peru, NY, by Lise Fracalossi
