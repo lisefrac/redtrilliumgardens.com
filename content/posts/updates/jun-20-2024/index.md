@@ -24,7 +24,7 @@ In case you missed it, the following plants just became available:
 - **Symphyotrichum laeve** - Smooth blue aster
 - **Symphyotrichum cordifolium** - Blue wood aster/heart-leaved aster
 
-We also newly have 1 or 2 quart pots of **yarrow** (Achillea millefolium) and **wild bergamot** (Monarda fistulosa), available for $9/each. 
+We also newly have 1 or 2 quart pots of **yarrow** (Achillea millefolium) and **wild bergamot** (Monarda fistulosa), available for $10/each. 
 
 We also have other native plants, tomatoes, hot (and not-so-spicy) peppers, and herbs. [Full availability list here]({{% relref "/buy-plants/" %}}).
 

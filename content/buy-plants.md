@@ -15,7 +15,7 @@ Since we are so new, buying plants from us is a little different! Please **read 
 
 Here's the list. Note that these are mostly **plug-sized plants**, in ~3.5"-4" (1 pint) containers. We also have a few quart-sized containers available at this time.
 
-### Native perennials - $5/pint or $9/quart (quart selection limited)
+### Native perennials - $5/pint or $10/quart (quart selection limited)
 
 - Broad-leaved mountain mint - Pycnanthemum muticum
 - Cardinal flower - Lobelia cardinalis 🆕

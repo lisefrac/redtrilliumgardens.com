@@ -14,7 +14,7 @@ Our next scheduled market is **Saturday, June 15, 2024, from 9am - 2pm, at Montu
 
 Some of the plants we plan to have available there include:
 - Yarrow (multi-hued cultivar) - Achillea millefolium - $5/plug
-- Wild bergamot/bee-balm - Monarda fistulosa - $5 per plug; $9 for a quart
+- Wild bergamot/bee-balm - Monarda fistulosa - $5 per plug; 10 for a quart
 - Spotted bee-balm - Monarda punctata - $5/plug
 - Swamp/rose milkweed - Asclepias incarnata - $5/plug
 - Broad-leaved mountain mint - Pycnanthemum muticum  - $5/plug
