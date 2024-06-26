@@ -96,13 +96,15 @@ We do not currently have a storefront. Currently we are selling plants in two wa
 
 ## "Okay, so what's your next event?"
 
-Generally speaking, from June-October we plan to be at two markets a month. Our next scheduled market is **Saturday, June 15, 2024, from 9am - 2pm, at Montuori Fleamarket at 186 Massachusetts Ave, Lunenburg, MA.**
+Generally speaking, from June-October we plan to be at 2-3 markets a month. Unfortunately, right now we're in a holding pattern as we wait for local farmers' markets to respond to our applications. 
 
-We have applied to both the Leominster and Fitchburg Farmer's Markets for the 2024 season (both organized by [Growing Places](https://growingplaces.org/)), but have not yet heard back. These are held on the first and second Saturday of each month respectively, from June-October. If we are accepted, July 6th at the Leominster market would be our first market with that organization. More info as we know it.
+We have applied to both the Leominster and Fitchburg Farmer's Markets for the 2024 season (both organized by [Growing Places](https://growingplaces.org/)), but have not yet heard back. These are held on the first and second Saturday of each month respectively, from June-October. If we are accepted, July 6th at the Leominster market would be our first market with that organization. 
+
+We've also applied to the Ashby Farmers' Market, whose next market is Sunday, July 14th. More info as we know it.
 
 (Sadly it seems the Lunenburg Farmer's Market is probably not happening this year).
 
-As we move into the fall months, we are hoping to do more markets with [Grow Native Massachusetts](https://grownativemass.org/), as well. 
+As we move into the fall months, we will probably do more markets with [Grow Native Massachusetts](https://grownativemass.org/), as well. 
 
 ## "How do I order for pickup?"
 
