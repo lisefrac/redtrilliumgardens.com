@@ -7,7 +7,7 @@ menu:
     name: "Buy Plants!"
 ---
 
-_(Updated: June 20, 2024)_
+_(Updated: June 26, 2024)_
 
 Since we are so new, buying plants from us is a little different! Please **read the full details** before emailing us your order/reservation. 
 
@@ -18,20 +18,27 @@ Here's the list. Note that these are mostly **plug-sized plants**, in ~3.5"-4" (
 ### Native perennials - $5/pint or $10/quart (quart selection limited)
 
 - Broad-leaved mountain mint - Pycnanthemum muticum
-- Cardinal flower - Lobelia cardinalis 🆕
+- Butterfly milkweed - Asclepias tuberosa 🆕
+- [Cardinal flower - Lobelia cardinalis]({{% relref "/info-sheets/lobelia-cardinalis/" %}})
 - Common bur sedge - Carex grayi
 - Common evening primrose - Oenothera biennis
-- Common milkweed - Asclepias syriaca  🆕❣️
+- [Common milkweed - Asclepias syriaca]({{% relref "/info-sheets/asclepias-syriaca/" %}}) ❣️
+- Doellingeria umbellata - tall white aster 🆕
 - Golden alexanders - Zizia aurea
 - Heart leaved/blue wood aster - Symphyotrichum cordifolium
+- New York ironweed - Vernonia noveboracensis 🆕
+- Red Columbine - Aquilegia canadensis 🆕
 - Smooth blue aster - Symphyotrichum laeve
-- Swamp/rose milkweed - Asclepias incarnata
+- Spotted Joe-Pye Weed - Eutrochium maculatum  🆕
+- [Swamp/rose milkweed - Asclepias incarnata]({{% relref "/info-sheets/asclepias-incarnata/" %}})
+- Virgin's Bower Clematis - Clematis virginiana 🆕
 - Virginia mountain-mint - Pycnanthemum virginianum
-- [White snakeroot - Ageratina altissima](/posts/native-plants/ageratina-altissima/)
-- Wild bergamot/bee-balm - Monarda fistulosa
+- [White snakeroot - Ageratina altissima]({{% relref "posts/native-plants/ageratina-altissima/" %}})
+- [Wild bee-balm - Monarda fistulosa]({{% relref "/info-sheets/monarda-fistulosa/" %}})
 - Wild mint - Mentha arvensis
+- Wreath goldenrod - Solidago caesia 🆕
 - Yarrow (multi-hued cultivar) - Achillea millefolium
-- Pasture thistle - Cirsium discolor 🆕
+- Pasture thistle - Cirsium discolor
 
 ### Native annuals
 - [Partridge pea](/info-sheets/cha-fas/) - Chamaecrista fasciculata - $7 for 2 plants in a quart pot. Only 1 left!
@@ -61,7 +68,7 @@ What does this have to do with native plants? Well, we have some plants that did
 - Bell Peppers - Grand Bell Mix and California Wonder varieties
 - Tomatoes (slicing) - Super Beefsteak
 - Tomatoes (sauce/cooking) - San Marzano, Roma
-- Tomatoes (cherry) - Bicolor Cherry (pink/white at maturity), Sweetie (red), Chocolate Cherry (red/brown)
+- Tomatoes (cherry) - Bicolor Cherry (pink/white at maturity), Sweetie (red), Chocolate Cherry (red/brown), Green Grape (green at maturity... and back in stock!)
 - Habaneros
 - Jalapeños - Early
 - Basil
@@ -72,19 +79,16 @@ Please refer to our ["What We're Growing for 2024"](/posts/whats-growing-2024/) 
 
 Plants that are likely to be **available soon** include:
 
-- Butterfly milkweed - Asclepias tuberosa (same)
-- Common milkweed - Asclepias syriaca (🤞; this one has fought us)
-- Spotted Joe-pye weed - Eutrochium maculatum
-- Virgin's bower - Clematis virginiana
-- Wreath or blue-stem goldenrod - Solidago caesia
-- Goat's rue - Tephrosia virginiana
+- Coastal Plain Joe-Pye Weed (Eutrochium dubium)
+- Foxglove beardtongue (Penstemon digitalis)
+- Goat's rue (Tephrosia virginiana)
+- Large-leaved wood aster - Eurybia divaricata
+- Northern beardtongue (Penstemon hirsutus)
 
 - Solidago sp. (zoigl)
 - Oenothera sp. (zoigl)
 
-- Dill, Fernleaf
-- Cilantro, 'Slow Bolt' and straight species
-- Additional 'Green Grape' tomatoes
+(Sadly our dill and cilantro has basically failed... so none of them this year).
 
 ## "Where is your nursery located? When can I visit?"
 
