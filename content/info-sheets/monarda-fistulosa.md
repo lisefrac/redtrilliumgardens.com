@@ -1,6 +1,6 @@
 ---
 title: "Wild Bee-Balm (Wild Bergamot)"
-description: "Information and care for wild bee-balm or bergamot (Achillea millefolium), sold at Red Trillium Gardens"
+description: "Information and care for wild bee-balm or bergamot (Monarda fistulosa), sold at Red Trillium Gardens"
 featured_image: '/images/Monarda_fistulosa_Arkansas.jpg'
 ---
 
@@ -32,4 +32,4 @@ featured_image: '/images/Monarda_fistulosa_Arkansas.jpg'
 > 
 > --Wild Seed Project
 
-{{< figure src="/images/Monarda_fistulosa_Arkansas.jpg" alt="A mass of tall plants with simple leaves and  pinkish-purple flowers with many petals. It is identified as Monarda fistulosa, or wild bee-balm" title="Monarda fistulosa (wild bee-balm or bergamot)" attr="Photo of wild bergamot in bloom by Eric Hunt - Own work, CC BY-SA 4.0" attrlink="https://commons.wikimedia.org/w/index.php?curid=91403406">}}
+{{< figure src="/images/Monarda_fistulosa_Arkansas.jpg" alt="A mass of tall plants with simple leaves and  pinkish-purple flowers with many petals. It is identified as Monarda fistulosa, or wild bee-balm" title="Monarda fistulosa (wild bee-balm or bergamot)" attr="Photo (and featured image) of wild bergamot in bloom by Eric Hunt - Own work, CC BY-SA 4.0" attrlink="https://commons.wikimedia.org/w/index.php?curid=91403406">}}
