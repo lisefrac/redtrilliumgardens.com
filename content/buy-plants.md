@@ -7,7 +7,7 @@ menu:
     name: "Buy Plants!"
 ---
 
-_(Updated: June 26, 2024)_
+_(Updated: June 27, 2024)_
 
 Since we are so new, buying plants from us is a little different! Please **read the full details** before emailing us your order/reservation. 
 
@@ -28,6 +28,7 @@ Here's the list. Note that these are mostly **plug-sized plants**, in ~3.5"-4" (
 - Heart leaved/blue wood aster - Symphyotrichum cordifolium
 - New York ironweed - Vernonia noveboracensis 🆕
 - Red Columbine - Aquilegia canadensis 🆕
+- Seaside Goldenrod - Solidago sempervirens 🆕
 - Smooth blue aster - Symphyotrichum laeve
 - Spotted Joe-Pye Weed - Eutrochium maculatum  🆕
 - [Swamp/rose milkweed - Asclepias incarnata]({{% relref "/info-sheets/asclepias-incarnata/" %}})
@@ -96,11 +97,11 @@ We do not currently have a storefront. Currently we are selling plants in two wa
 
 ## "Okay, so what's your next event?"
 
-Generally speaking, from June-October we plan to be at 2-3 markets a month. Unfortunately, right now we're in a holding pattern as we wait for local farmers' markets to respond to our applications. 
+Generally speaking, from June-October we plan to be at 2-3 markets a month.
+
+We've been accepted to the Ashby Farmer's Market, so that will be our next *confirmed* market: **Sunday, July 14th from 9am to noon on the Ashby Town Common (1 South Rd, Ashby, MA).** It's held on the 2nd and 4th Sunday of each month through October, and we're hoping to be there for as many as possible!
 
 We have applied to both the Leominster and Fitchburg Farmer's Markets for the 2024 season (both organized by [Growing Places](https://growingplaces.org/)), but have not yet heard back. These are held on the first and second Saturday of each month respectively, from June-October. If we are accepted, July 6th at the Leominster market would be our first market with that organization. 
-
-We've also applied to the Ashby Farmers' Market, whose next market is Sunday, July 14th. More info as we know it.
 
 (Sadly it seems the Lunenburg Farmer's Market is probably not happening this year).
 
@@ -108,7 +109,7 @@ As we move into the fall months, we will probably do more markets with [Grow Nat
 
 ## "How do I order for pickup?"
 
-If you're interested in purchasing any available plants (see below), please email [lise@redtrilliumgardens.com](mailto:lise@redtrilliumgardens.com) with your requests. At this time, quantities are very limited. 
+If you're interested in purchasing any available plants (see above), please email [lise@redtrilliumgardens.com](mailto:lise@redtrilliumgardens.com) with your requests. At this time, quantities are very limited. 
 
 You can pickup at one of our markets, or at our home in Lunenburg. 
 
