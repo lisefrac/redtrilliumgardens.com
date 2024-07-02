@@ -20,18 +20,23 @@ Here's the list. Note that these are mostly **plug-sized plants**, in ~3.5"-4" (
 - Broad-leaved mountain mint - Pycnanthemum muticum
 - Butterfly milkweed - Asclepias tuberosa 🆕
 - [Cardinal flower - Lobelia cardinalis]({{% relref "/info-sheets/lobelia-cardinalis/" %}})
+- Coastal plain Joe-Pye Weed (Eutrochium dubium)
 - Common bur sedge - Carex grayi
 - Common evening primrose - Oenothera biennis
 - [Common milkweed - Asclepias syriaca]({{% relref "/info-sheets/asclepias-syriaca/" %}}) ❣️
-- Doellingeria umbellata - tall white aster 🆕
+- Foxglove beardtongue (Penstemon digitalis)
 - Golden alexanders - Zizia aurea
 - [Heart leaved/blue wood aster - Symphyotrichum cordifolium]({{% relref "/info-sheets/symphyotrichum-cordifolium/" %}})
+- Large-leaved wood aster (Eurybia macrophylla) 🆕
 - New York ironweed - Vernonia noveboracensis 🆕
+- Northern beardtongue (Penstemon hirsutus)  🆕
+- Poke milkweed (Asclepias exaltata) 🆕
 - Red Columbine - Aquilegia canadensis 🆕
 - Seaside Goldenrod - Solidago sempervirens 🆕
 - Smooth blue aster - Symphyotrichum laeve
 - Spotted Joe-Pye Weed - Eutrochium maculatum  🆕
 - [Swamp/rose milkweed - Asclepias incarnata]({{% relref "/info-sheets/asclepias-incarnata/" %}})
+- Tall white aster (Doellingeria umbellata) 🆕
 - Virgin's Bower Clematis - Clematis virginiana 🆕
 - Virginia mountain-mint - Pycnanthemum virginianum
 - [White snakeroot - Ageratina altissima]({{% relref "posts/native-plants/ageratina-altissima/" %}})
@@ -40,6 +45,7 @@ Here's the list. Note that these are mostly **plug-sized plants**, in ~3.5"-4" (
 - Wreath goldenrod - Solidago caesia 🆕
 - Yarrow (multi-hued cultivar) - Achillea millefolium
 - Pasture thistle - Cirsium discolor
+
 
 ### Native annuals
 - [Partridge pea](/info-sheets/cha-fas/) - Chamaecrista fasciculata - $7 for 2 plants in a quart pot. Only 1 left!
@@ -56,7 +62,6 @@ What does this have to do with native plants? Well, we have some plants that did
 
 ### Non-native perennials - <strike>$4 each</strike> $3 each or 2 for $5
 - Lavender ('Munstead')
-- Oregano
 - Lemon Balm - 'Mandarina' (it really smells like oranges!)
 - Sage - Broadleaf
 - Peppermint
@@ -80,11 +85,10 @@ Please refer to our ["What We're Growing for 2024"](/posts/whats-growing-2024/) 
 
 Plants that are likely to be **available soon** include:
 
-- Coastal Plain Joe-Pye Weed (Eutrochium dubium)
-- Foxglove beardtongue (Penstemon digitalis)
+- Pearly everlasting (Anaphalis margaritacea)
+- Flax-leaved stiff aster (Ionactis linariifolia)
 - Goat's rue (Tephrosia virginiana)
-- Large-leaved wood aster - Eurybia divaricata
-- Northern beardtongue (Penstemon hirsutus)
+- Whorled milkweed (Asclepias verticillata)
 
 - Solidago sp. (zoigl)
 - Oenothera sp. (zoigl)
