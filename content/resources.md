@@ -4,7 +4,7 @@ description: "Resources recommended by Red Trillium Gardens of Lunenburg, MA"
 featured_image: "/images/wooden-gate-gitw-2023.JPG"
 menu:
   main:
-    weight: 4
+    weight: 5
     name: "Resources"
 ---
 

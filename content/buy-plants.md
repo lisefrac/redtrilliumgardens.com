@@ -3,11 +3,11 @@ title: "How to Buy Plants from Us"
 description: "How to Buy Plants from Red Trillium Gardens of Lunenburg, MA"
 menu:
   main:
-    weight: 5
+    weight: 99
     name: "Buy Plants!"
 ---
 
-_(Updated: June 27, 2024)_
+_(Updated: July 2, 2024)_
 
 Since we are so new, buying plants from us is a little different! Please **read the full details** before emailing us your order/reservation. 
 
@@ -25,7 +25,7 @@ Here's the list. Note that these are mostly **plug-sized plants**, in ~3.5"-4" (
 - [Common milkweed - Asclepias syriaca]({{% relref "/info-sheets/asclepias-syriaca/" %}}) ❣️
 - Doellingeria umbellata - tall white aster 🆕
 - Golden alexanders - Zizia aurea
-- Heart leaved/blue wood aster - Symphyotrichum cordifolium
+- [Heart leaved/blue wood aster - Symphyotrichum cordifolium]({{% relref "/info-sheets/symphyotrichum-cordifolium/" %}})
 - New York ironweed - Vernonia noveboracensis 🆕
 - Red Columbine - Aquilegia canadensis 🆕
 - Seaside Goldenrod - Solidago sempervirens 🆕
@@ -97,13 +97,15 @@ We do not currently have a storefront. Currently we are selling plants in two wa
 
 ## "Okay, so what's your next event?"
 
-Generally speaking, from June-October we plan to be at 2-3 markets a month.
+Generally speaking, during the season (May-October) season we plan to be at 2-4 markets a month -- primarily the Leominster, Fitchburg, and Ashby, MA Farmers' Markets. Look for the bright red popup tent!
 
-We've been accepted to the Ashby Farmer's Market, so that will be our next *confirmed* market: **Sunday, July 14th from 9am to noon on the Ashby Town Common (1 South Rd, Ashby, MA).** It's held on the 2nd and 4th Sunday of each month through October, and we're hoping to be there for as many as possible!
+Individual Market Details:
 
-We have applied to both the Leominster and Fitchburg Farmer's Markets for the 2024 season (both organized by [Growing Places](https://growingplaces.org/)), but have not yet heard back. These are held on the first and second Saturday of each month respectively, from June-October. If we are accepted, July 6th at the Leominster market would be our first market with that organization. 
+- **[Leominster Farmers' Market](https://www.facebook.com/share/grDesndrVVMieN63/)**: 1st Saturday of the month through October, in Monument Square, Leominster, MA, from 11am to 2pm. We plan to be there 7/6, 8/3, 9/7, and 10/5 of 2024.
+- **[Fitchburg Farmers' Market](https://www.facebook.com/share/r7U6z7u5CSRHxWam/):** 2nd Saturday of the month through October, in the Upper Common, Fitchburg, MA, from 10am to 1pm. I plan to be there 7/13, 8/10, 9/14, and 10/12.
+- **[Ashby Farmers' Market](https://www.facebook.com/share/SnB5rWmko16gFejE/):** 2nd and 4th Sundays of the month through October, on the Ashby Town Common (1 South Rd), Ashby, MA, from 9am to noon. I plan to be there 7/14, 7/28 (tentative due to a possible family commitment), 8/11, 8/25, 9/8, 9/22, 10/13, and 10/27 of 2024.
 
-(Sadly it seems the Lunenburg Farmer's Market is probably not happening this year).
+If you use Facebook, you can indicate your interest in the events using the links above.
 
 As we move into the fall months, we will probably do more markets with [Grow Native Massachusetts](https://grownativemass.org/), as well. 
 
@@ -118,6 +120,10 @@ You can pickup at one of our markets, or at our home in Lunenburg.
 If the plant is on our ["What We're Growing for 2024"](/posts/whats-growing-2024/) list, then you may **reserve** plants. Please note, as always, that everything depends on the vagaries of growing plants, and we cannot 100% guarantee that we can get you that plant this year.
 
 Given this, we don't require payment until we actually deliver the plant. It just wouldn't be fair to you otherwise!
+
+## "What forms of payment do you accept?"
+
+I accept cash, Venmo, and now credit cards! (via Square).
 
 ## "Why so few plants?"
 
