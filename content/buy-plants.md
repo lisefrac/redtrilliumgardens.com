@@ -7,7 +7,7 @@ menu:
     name: "Buy Plants!"
 ---
 
-_(Updated: July 2, 2024)_
+_(Updated: July 4, 2024)_
 
 Since we are so new, buying plants from us is a little different! Please **read the full details** before emailing us your order/reservation. 
 
@@ -40,7 +40,6 @@ Here's the list. Note that these are mostly **plug-sized plants**, in ~3.5"-4" (
 - Virgin's Bower Clematis - Clematis virginiana 🆕
 - Virginia mountain-mint - Pycnanthemum virginianum
 - [White snakeroot - Ageratina altissima]({{% relref "posts/native-plants/ageratina-altissima/" %}})
-- [Wild bee-balm - Monarda fistulosa]({{% relref "/info-sheets/monarda-fistulosa/" %}})
 - Wild mint - Mentha arvensis
 - Wreath goldenrod - Solidago caesia 🆕
 - Yarrow (multi-hued cultivar) - Achillea millefolium
