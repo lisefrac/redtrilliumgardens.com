@@ -3,7 +3,7 @@
 It uses Hugo with the Ananke theme.
 
 ## To Dos
-- [ ] Resources page
+
 - [ ] Canonical links/permalinks - esp. re: imported articles
 - [ ] target blank and correct rel values on links for SEO - is there a shortcode for these?
 - [ ] RSS feed with featured images
@@ -11,12 +11,16 @@ It uses Hugo with the Ananke theme.
 - [ ] image gallery shortcode that works like I want it
 - [ ] figure and image gallery styling
 - [ ] Set up Sass
-- [ ] Create a Ko-fi account
 - [ ] Free native garden bed plan for signing up for newsletter
 - [ ] Set up "Welcome to the newsletter" email (with garden bed plan)
 - [ ] proper authorship of git commits
 - [ ] remove transferred posts from lisefrac.net
 - [ ] maps of NY + New England by county showing plant's native range
+
+## Perpetual to-dos
+- [ ] Fact sheets for plants we sell
+- [ ] Native plant showcases
+- [ ] Invasive reports
 
 ## Blog post ideas
 - [ ] contrasting invasives of NA to natives of UK
@@ -27,6 +31,10 @@ It uses Hugo with the Ananke theme.
 - [ ] How we grow our natives (i.e. winter sowing)
 - [ ] What is stratification?
 - [ ] "So why don't you actually offer red trilliums for sale?" The sloooow life cycle of trilliums.
+- [ ] Finish ChaFas native plant showcase
+- [ ] My opinions on no-mow may
+- [ ] great groundcovers (based on email I wrote)
+- [ ] something about jumping worms and how we avoid the spread of them
 
 
 ## Done
@@ -44,4 +52,5 @@ It uses Hugo with the Ananke theme.
 - [x] Create socials - Facebook, Insta.
 - [x] Social sharing links
 - [x] Logo (professional)
+- [x] Resources page
 
