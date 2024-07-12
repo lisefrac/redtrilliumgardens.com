@@ -40,21 +40,23 @@ So I am also applying to the **Ashby Farmer's Market** in Ashby, MA, another nea
 
 ## Bookkeeping Change as of July 1
 
-As you may know, decorative plants -- most of what I sell -- are subject to sales tax. Thus I'm required by Massachusetts law to collect the 6.25% sales tax. 
+ETA: we are reversing course on this decision! [See this update](/posts/updates/jul-12-2024/).
 
-Until now I've been including this in the cost, just to keep things simple for you. So if I charge $5 for a plant, technically the cost is $4.71 with 29 cents of tax. Then I submit all of those amounts to Massachusetts at the end of each month. 
+<strike>As you may know, decorative plants -- most of what I sell -- are subject to sales tax. Thus I'm required by Massachusetts law to collect the 6.25% sales tax. </strike>
 
-The problem is... it's a nightmare to keep track of, and very much does not match how the MA Tax Connect website wants you to submit your information. So I need to do a lot of math (or create a Google Sheet to do the math) to even get the numbers the state wants... when their portal could be doing the math for me. 
+<strike>Until now I've been including this in the cost, just to keep things simple for you. So if I charge $5 for a plant, technically the cost is $4.71 with 29 cents of tax. Then I submit all of those amounts to Massachusetts at the end of each month. </strike>
 
-... nobody said there would be math in running a native plant nursery!
+<strike>The problem is... it's a nightmare to keep track of, and very much does not match how the MA Tax Connect website wants you to submit your information. So I need to do a lot of math (or create a Google Sheet to do the math) to even get the numbers the state wants... when their portal could be doing the math for me. </strike>
 
-This will also make it easier to accept payment with credit cards through Square, since their software will also calculate tax automatically.
+<strike>... nobody said there would be math in running a native plant nursery!</strike>
 
-(Btw I accept credit cards now... or I will as soon as I set up the doohickey!)
+<strike>This will also make it easier to accept payment with credit cards through Square, since their software will also calculate tax automatically.</strike>
 
-So yes, in essence this means that I'm increasing the cost of my decorative plants by 6.25%. But this is consistent with how other native plant nurseries, like Native Plant Trust, charge for plants. And like before, that extra 6.25% is basically just going to the state of Massachusetts. Just consider it a charitable donation to maintain your roads and public libraries! 
+<strike>(Btw I accept credit cards now... or I will as soon as I set up the doohickey!)</strike>
 
-Note that food plants (i.e. my non-native garden plants) are tax-exempt in Massachusetts, so the cost on those will remain the sticker cost. 
+<strike>So yes, in essence this means that I'm increasing the cost of my decorative plants by 6.25%. But this is consistent with how other native plant nurseries, like Native Plant Trust, charge for plants. And like before, that extra 6.25% is basically just going to the state of Massachusetts. Just consider it a charitable donation to maintain your roads and public libraries! </strike>
+
+<strike>Note that food plants (i.e. my non-native garden plants) are tax-exempt in Massachusetts, so the cost on those will remain the sticker cost. </strike>
 
 __
 

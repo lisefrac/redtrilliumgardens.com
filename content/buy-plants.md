@@ -7,7 +7,7 @@ menu:
     name: "Buy Plants!"
 ---
 
-_(Updated: July 4, 2024)_
+_(Updated: July 12, 2024)_
 
 Since we are so new, buying plants from us is a little different! Please **read the full details** before emailing us your order/reservation. 
 
@@ -18,36 +18,35 @@ Here's the list. Note that these are mostly **plug-sized plants**, in ~3.5"-4" (
 ### Native perennials - $5/pint or $10/quart (quart selection limited)
 
 - Broad-leaved mountain mint - Pycnanthemum muticum
-- Butterfly milkweed - Asclepias tuberosa 🆕
+- Butterfly milkweed - Asclepias tuberosa 
 - [Cardinal flower - Lobelia cardinalis]({{% relref "/info-sheets/lobelia-cardinalis/" %}})
 - Coastal plain Joe-Pye Weed (Eutrochium dubium)
 - Common bur sedge - Carex grayi
 - Common evening primrose - Oenothera biennis
 - [Common milkweed - Asclepias syriaca]({{% relref "/info-sheets/asclepias-syriaca/" %}}) ❣️
-- Foxglove beardtongue (Penstemon digitalis)
+- Foxglove beardtongue (Penstemon digitalis)  🆕
 - Golden alexanders - Zizia aurea
 - [Heart leaved/blue wood aster - Symphyotrichum cordifolium]({{% relref "/info-sheets/symphyotrichum-cordifolium/" %}})
-- Large-leaved wood aster (Eurybia macrophylla) 🆕
-- New York ironweed - Vernonia noveboracensis 🆕
+- Large-leaved wood aster (Eurybia macrophylla)
+- New York ironweed - Vernonia noveboracensis
 - Northern beardtongue (Penstemon hirsutus)  🆕
-- Poke milkweed (Asclepias exaltata) 🆕
-- Red Columbine - Aquilegia canadensis 🆕
-- Seaside Goldenrod - Solidago sempervirens 🆕
+- Poke milkweed (Asclepias exaltata) 
+- Red Columbine - Aquilegia canadensis 
+- Seaside Goldenrod - Solidago sempervirens 
 - Smooth blue aster - Symphyotrichum laeve
-- Spotted Joe-Pye Weed - Eutrochium maculatum  🆕
+- Spotted Joe-Pye Weed - Eutrochium maculatum  
 - [Swamp/rose milkweed - Asclepias incarnata]({{% relref "/info-sheets/asclepias-incarnata/" %}})
-- Tall white aster (Doellingeria umbellata) 🆕
-- Virgin's Bower Clematis - Clematis virginiana 🆕
+- Tall white aster (Doellingeria umbellata) 
+- Virgin's Bower Clematis - Clematis virginiana 
 - Virginia mountain-mint - Pycnanthemum virginianum
 - [White snakeroot - Ageratina altissima]({{% relref "posts/native-plants/ageratina-altissima/" %}})
 - Wild mint - Mentha arvensis
-- Wreath goldenrod - Solidago caesia 🆕
+- Whorled milkweed (Asclepias verticillata)
+- Wreath goldenrod - Solidago caesia 
 - Yarrow (multi-hued cultivar) - Achillea millefolium
-- Pasture thistle - Cirsium discolor
-
 
 ### Native annuals
-- [Partridge pea](/info-sheets/cha-fas/) - Chamaecrista fasciculata - $7 for 2 plants in a quart pot. Only 1 left!
+- [Partridge pea](/info-sheets/cha-fas/) - Chamaecrista fasciculata - $7 for 2 plants in a quart pot. 
 
 ### "Zoigls" - $3 pint or 2 for $5
 
@@ -87,7 +86,7 @@ Plants that are likely to be **available soon** include:
 - Pearly everlasting (Anaphalis margaritacea)
 - Flax-leaved stiff aster (Ionactis linariifolia)
 - Goat's rue (Tephrosia virginiana)
-- Whorled milkweed (Asclepias verticillata)
+- White Wood Aster (Eurybia divaricata)
 
 - Solidago sp. (zoigl)
 - Oenothera sp. (zoigl)
