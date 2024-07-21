@@ -86,9 +86,11 @@ Please refer to our ["What We're Growing for 2024"](/posts/whats-growing-2024/) 
 
 Plants that are likely to be **available soon** include:
 
+- Boneset (Eupatorium perfoliatum)
 - Flax-leaved stiff aster (Ionactis linariifolia)
+- New England aster (Symphyotrichum novae-angliae)
 - Pearly everlasting (Anaphalis margaritacea)
-- Slender false foxglove (Agalinis tenuifolia) + little bluestem grass (Schizachyrium scoparium) - this plant is hemiparasitic on grasses (see [this native plant showcase](/posts/native-plants/agalinis-tenuifolia/)), hence the companion planting
+- Slender false foxglove (Agalinis tenuifolia) + little bluestem (Schizachyrium scoparium) - this plant is hemiparasitic on grasses (see [this native plant showcase](/posts/native-plants/agalinis-tenuifolia/)), hence the companion planting.
 - White Wood Aster (Eurybia divaricata)
 - Wild strawberry (Fragaria virginiana)
 
