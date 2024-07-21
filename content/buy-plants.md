@@ -100,7 +100,7 @@ We do not currently have a storefront. Currently we are selling plants in two wa
 
 ## "Okay, so what's your next event?"
 
-The next event is the **Ashby Farmers' Market: Sunday, June 28, 2024, from 9am to noon in the Ashby Town Common (1 South Road), Ashby, MA.**
+The next event is the **Ashby Farmers' Market: Sunday, July 28, 2024, from 9am to noon in the Ashby Town Common (1 South Road), Ashby, MA.**
 
 Generally speaking, during the season (May-October) season we plan to be at 2-4 markets a month -- primarily the Leominster and Ashby, MA Farmers' Markets. Look for the bright red popup tent!
 
