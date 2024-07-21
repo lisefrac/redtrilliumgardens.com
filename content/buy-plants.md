@@ -7,7 +7,7 @@ menu:
     name: "Buy Plants!"
 ---
 
-_(Updated: July 12, 2024)_
+_(Updated: July 20, 2024)_
 
 Since we are so new, buying plants from us is a little different! Please **read the full details** before emailing us your order/reservation. 
 
@@ -17,19 +17,21 @@ Here's the list. Note that these are mostly **plug-sized plants**, in ~3.5"-4" (
 
 ### Native perennials - $5/pint or $10/quart (quart selection limited)
 
-- Broad-leaved mountain mint - Pycnanthemum muticum
-- Butterfly milkweed - Asclepias tuberosa 
-- [Cardinal flower - Lobelia cardinalis]({{% relref "/info-sheets/lobelia-cardinalis/" %}})
+- Broad-leaved mountain mint (Pycnanthemum muticum)
+- Butterfly milkweed (Asclepias tuberosa) - only 1️⃣ one plant left!
+- [Cardinal flower (Lobelia cardinalis)]({{% relref "/info-sheets/lobelia-cardinalis/" %}})
 - Coastal plain Joe-Pye Weed (Eutrochium dubium)
-- Common bur sedge - Carex grayi
-- Common evening primrose - Oenothera biennis
+- Common bur sedge (Carex grayi)
+- Common evening primrose (Oenothera biennis)
+- Common ninebark (Physocarpus opulifolius) - this is a first year seedling of a small tree 🆕
 - [Common milkweed - Asclepias syriaca]({{% relref "/info-sheets/asclepias-syriaca/" %}}) ❣️
-- Foxglove beardtongue (Penstemon digitalis)  🆕
-- Golden alexanders - Zizia aurea
-- [Heart leaved/blue wood aster - Symphyotrichum cordifolium]({{% relref "/info-sheets/symphyotrichum-cordifolium/" %}})
+- Foxglove beardtongue (Penstemon digitalis)
+- Goat's Rue (Tephrosia virginiana)  🆕
+- Golden alexanders (Zizia aurea)
+- [Heart leaved/blue wood aster (Symphyotrichum cordifolium)]({{% relref "/info-sheets/symphyotrichum-cordifolium/" %}})
 - Large-leaved wood aster (Eurybia macrophylla)
-- New York ironweed - Vernonia noveboracensis
-- Northern beardtongue (Penstemon hirsutus)  🆕
+- New York ironweed (Vernonia noveboracensis)
+- Northern beardtongue (Penstemon hirsutus)
 - Poke milkweed (Asclepias exaltata) 
 - Red Columbine - Aquilegia canadensis 
 - Seaside Goldenrod - Solidago sempervirens 
@@ -38,14 +40,15 @@ Here's the list. Note that these are mostly **plug-sized plants**, in ~3.5"-4" (
 - [Swamp/rose milkweed - Asclepias incarnata]({{% relref "/info-sheets/asclepias-incarnata/" %}})
 - Tall white aster (Doellingeria umbellata) 
 - Virgin's Bower Clematis - Clematis virginiana 
-- Virginia mountain-mint - Pycnanthemum virginianum
+- Virginia mountain-mint (Pycnanthemum virginianum)
 - [White snakeroot - Ageratina altissima]({{% relref "posts/native-plants/ageratina-altissima/" %}})
-- Wild mint - Mentha arvensis
+- Wild mint (Mentha arvensis)
 - Whorled milkweed (Asclepias verticillata)
-- Wreath goldenrod - Solidago caesia 
+- Wreath goldenrod (Solidago caesia)
 - Yarrow (multi-hued cultivar) - Achillea millefolium
 
 ### Native annuals
+- American black nightshade (Solanum ptycanthum or americanum or whatever they're calling it these days!) - $4 for a pint pot with 1-3 plants (depending on individual seedling size)  🆕
 - [Partridge pea](/info-sheets/cha-fas/) - Chamaecrista fasciculata - $7 for 2 plants in a quart pot. 
 
 ### "Zoigls" - $3 pint or 2 for $5
@@ -71,8 +74,8 @@ What does this have to do with native plants? Well, we have some plants that did
 ### Non-native annuals - <strike>$3 each, or 2 for $5</strike> $2 each, or 3 for $5
 - Bell Peppers - Grand Bell Mix and California Wonder varieties
 - Tomatoes (slicing) - Super Beefsteak
-- Tomatoes (sauce/cooking) - San Marzano, Roma
-- Tomatoes (cherry) - Bicolor Cherry (pink/white at maturity), Sweetie (red), Chocolate Cherry (red/brown), Green Grape (green at maturity... and back in stock!)
+- Tomatoes (sauce/cooking) - San Marzano
+- Tomatoes (cherry) - Bicolor Cherry (pink/white at maturity), Sweetie (red), Green Grape (green at maturity... and just one left!)
 - Habaneros
 - Jalapeños - Early
 - Basil
@@ -83,15 +86,11 @@ Please refer to our ["What We're Growing for 2024"](/posts/whats-growing-2024/) 
 
 Plants that are likely to be **available soon** include:
 
-- Pearly everlasting (Anaphalis margaritacea)
 - Flax-leaved stiff aster (Ionactis linariifolia)
-- Goat's rue (Tephrosia virginiana)
+- Pearly everlasting (Anaphalis margaritacea)
+- Slender false foxglove (Agalinis tenuifolia) + little bluestem grass (Schizachyrium scoparium) - this plant is hemiparasitic on grasses (see [this native plant showcase](/posts/native-plants/agalinis-tenuifolia/)), hence the companion planting
 - White Wood Aster (Eurybia divaricata)
-
-- Solidago sp. (zoigl)
-- Oenothera sp. (zoigl)
-
-(Sadly our dill and cilantro has basically failed... so none of them this year).
+- Wild strawberry (Fragaria virginiana)
 
 ## "Where is your nursery located? When can I visit?"
 
@@ -99,15 +98,18 @@ We do not currently have a storefront. Currently we are selling plants in two wa
 
 ## "Okay, so what's your next event?"
 
-Generally speaking, during the season (May-October) season we plan to be at 2-4 markets a month -- primarily the Leominster, Fitchburg, and Ashby, MA Farmers' Markets. Look for the bright red popup tent!
+The next event is the **Ashby Farmers' Market: Sunday, June 28, 2024, from 9am to noon in the Ashby Town Common (1 South Road), Ashby, MA.**
+
+Generally speaking, during the season (May-October) season we plan to be at 2-4 markets a month -- primarily the Leominster and Ashby, MA Farmers' Markets. Look for the bright red popup tent!
 
 Individual Market Details:
 
 - **[Leominster Farmers' Market](https://www.facebook.com/share/grDesndrVVMieN63/)**: 1st Saturday of the month through October, in Monument Square, Leominster, MA, from 11am to 2pm. We plan to be there 7/6, 8/3, 9/7, and 10/5 of 2024.
-- **[Fitchburg Farmers' Market](https://www.facebook.com/share/r7U6z7u5CSRHxWam/):** 2nd Saturday of the month through October, in the Upper Common, Fitchburg, MA, from 10am to 1pm. I plan to be there 7/13, 8/10, 9/14, and 10/12.
 - **[Ashby Farmers' Market](https://www.facebook.com/share/SnB5rWmko16gFejE/):** 2nd and 4th Sundays of the month through October, on the Ashby Town Common (1 South Rd), Ashby, MA, from 9am to noon. I plan to be there 7/14, 7/28 (tentative due to a possible family commitment), 8/11, 8/25, 9/8, 9/22, 10/13, and 10/27 of 2024.
 
 If you use Facebook, you can indicate your interest in the events using the links above.
+
+We have decided to no longer do the Fitchburg Farmers' Market due audience/market misalignment. 
 
 As we move into the fall months, we will probably do more markets with [Grow Native Massachusetts](https://grownativemass.org/), as well. 
 
