@@ -7,7 +7,7 @@ menu:
     name: "Buy Plants!"
 ---
 
-_(Updated: July 23, 2024)_
+_(Updated: July 25, 2024)_
 
 Since we are so new, buying plants from us is a little different! Please **read the full details** before emailing us your order/reservation. 
 
@@ -44,7 +44,6 @@ List below. Note that these are mostly **plug-sized plants**, in ~3.5"-4" (1 pin
 - Virginia mountain-mint (Pycnanthemum virginianum)
 - [White snakeroot (Ageratina altissima)]({{% relref "posts/native-plants/ageratina-altissima/" %}})
 - Wild mint (Mentha arvensis)
-- Wild strawberry (Fragaria virginiana) 🆕
 - Whorled milkweed (Asclepias verticillata)
 - Wreath goldenrod (Solidago caesia)
 - Yarrow, multi-hued cultivar (Achillea millefolium) - only available in 1-2 quart pots for $10
@@ -101,6 +100,7 @@ Plants that are likely to be **available soon** include:
 - Pennsylvania sedge (Carex pensylvanica)
 - Slender false foxglove (Agalinis tenuifolia) + little bluestem (Schizachyrium scoparium) - this plant is hemiparasitic on grasses (see [this native plant showcase](/posts/native-plants/agalinis-tenuifolia/)), hence the companion planting.
 - White Wood Aster (Eurybia divaricata)
+- Wild strawberry (Fragaria virginiana)
 
 ## "Where is your nursery located? When can I visit?"
 
