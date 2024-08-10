@@ -7,7 +7,7 @@ menu:
     name: "Buy Plants!"
 ---
 
-_(Updated: July 25, 2024)_
+_(Updated: August 9, 2024)_
 
 Since we are so new, buying plants from us is a little different! Please **read the full details** before emailing us your order/reservation. 
 
@@ -17,33 +17,32 @@ List below. Note that these are mostly **plug-sized plants**, in ~3.5"-4" (1 pin
 
 ### Native perennials - $5/pint or $10/quart (quart selection limited)
 
-- Boneset (Eupatorium perfoliatum) 🆕
+- Boneset (Eupatorium perfoliatum)
 - Broad-leaved mountain-mint (Pycnanthemum muticum)
-- Butterfly milkweed (Asclepias tuberosa) - only 1️⃣ one plant left!
 - [Cardinal flower (Lobelia cardinalis)]({{% relref "/info-sheets/lobelia-cardinalis/" %}})
 - Coastal plain Joe-Pye Weed (Eutrochium dubium)
 - Common bur sedge (Carex grayi)
 - [Common evening primrose (Oenothera biennis)]({{% relref "/info-sheets/oenothera-biennis/" %}})
-- Common ninebark (Physocarpus opulifolius) - this is a first year seedling of a small tree 🆕
-- [Common milkweed (Asclepias syriaca)]({{% relref "/info-sheets/asclepias-syriaca/" %}})
+- Common ninebark (Physocarpus opulifolius) - this is a first year seedling of a small tree
+- Flax-leaved stiff aster (Ionactis linariifolia)  🆕
 - Foxglove beardtongue (Penstemon digitalis)
-- Goat's Rue (Tephrosia virginiana) 🆕
+- Goat's Rue (Tephrosia virginiana)
 - Golden alexanders (Zizia aurea)
 - [Heart leaved/blue wood aster (Symphyotrichum cordifolium)]({{% relref "/info-sheets/symphyotrichum-cordifolium/" %}})
+- Kalm's St. John's Wort (Hypericum kalmianum) 🆕
 - Large-leaved wood aster (Eurybia macrophylla)
 - New York ironweed (Vernonia noveboracensis)
 - Northern beardtongue (Penstemon hirsutus)
-- [Poke milkweed (Asclepias exaltata)]({{% relref "/info-sheets/asclepias-exaltata/" %}})
-- Red Columbine (Aquilegia canadensis)
+- Pennsylvania sedge (Carex pensylvanica) 🆕
 - Seaside Goldenrod (Solidago sempervirens)
 - Smooth blue aster (Symphyotrichum laeve)
 - Spotted Joe-Pye Weed (Eutrochium maculatum) - only 1️⃣ one plant left! 
-- [Swamp/rose milkweed (Asclepias incarnata)]({{% relref "/info-sheets/asclepias-incarnata/" %}})
 - Tall white aster (Doellingeria umbellata) 
-- Virgin's-bower Clematis (Clematis virginiana)
-- Virginia mountain-mint (Pycnanthemum virginianum)
+- Virginia mountain-mint (Pycnanthemum virginianum) - only 1️⃣ one plant left! 
 - [White snakeroot (Ageratina altissima)]({{% relref "posts/native-plants/ageratina-altissima/" %}})
+- White Wood Aster (Eurybia divaricata)
 - Wild mint (Mentha arvensis)
+- Wild strawberry (Fragaria virginiana)
 - Whorled milkweed (Asclepias verticillata)
 - Wreath goldenrod (Solidago caesia)
 - Yarrow, multi-hued cultivar (Achillea millefolium) - only available in 1-2 quart pots for $10
@@ -77,9 +76,7 @@ As we come to the end of the planting season, we are marking down many of our no
 - Thyme (English)
 
 ### Non-native annuals - <strike>$3 each, or 2 for $5</strike> $1 each, or 6 for $5
-- Bell Peppers - Grand Bell Mix and California Wonder varieties
 - Tomatoes (sauce/cooking) - San Marzano
-- Tomatoes (cherry) - Bicolor Cherry (pink/white at maturity), Sweetie (red)
 - Habaneros
 - Jalapeños - Early
 - Basil
@@ -93,14 +90,9 @@ Please refer to our ["What We're Growing for 2024"](/posts/whats-growing-2024/) 
 
 Plants that are likely to be **available soon** include:
 
-- Flax-leaved stiff aster (Ionactis linariifolia)
-- Kalm's St. John's Wort (Hypericum kalmianum)
 - New England aster (Symphyotrichum novae-angliae)
-- Pearly everlasting (Anaphalis margaritacea)
-- Pennsylvania sedge (Carex pensylvanica)
 - Slender false foxglove (Agalinis tenuifolia) + little bluestem (Schizachyrium scoparium) - this plant is hemiparasitic on grasses (see [this native plant showcase](/posts/native-plants/agalinis-tenuifolia/)), hence the companion planting.
-- White Wood Aster (Eurybia divaricata)
-- Wild strawberry (Fragaria virginiana)
+- More red columbine (Aquilegia canadensis)
 
 ## "Where is your nursery located? When can I visit?"
 

@@ -3,6 +3,7 @@ title: "Plans derailed by injury!"
 date: 2024-07-30
 tags:
   - updates
+featured_image: 'images/monarch-butterfly-on-milkweed.jpeg'
 ---
 
 As some of you may already be aware, I sprained my ankle this past Saturday. It's minor -- x-rays confirmed there's no fracture -- but it's making it difficult to get around, especially to the level I need for gardening and doing markets. As a result, I had to cancel my market on Sunday (Ashby Farmers' Market).
