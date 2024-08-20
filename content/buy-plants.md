@@ -7,7 +7,7 @@ menu:
     name: "Buy Plants!"
 ---
 
-_(Updated: August 9, 2024)_
+_(Updated: August 20, 2024)_
 
 Since we are so new, buying plants from us is a little different! Please **read the full details** before emailing us your order/reservation. 
 
@@ -15,7 +15,7 @@ Since we are so new, buying plants from us is a little different! Please **read 
 
 List below. Note that these are mostly **plug-sized plants**, in ~3.5"-4" (1 pint) containers. We also have a few quart-sized containers available at this time.
 
-### Native perennials - $5/pint or $10/quart (quart selection limited)
+### Native perennials - $5/pint or $10/quart (if available)
 
 - Boneset (Eupatorium perfoliatum)
 - Broad-leaved mountain-mint (Pycnanthemum muticum)
@@ -23,7 +23,7 @@ List below. Note that these are mostly **plug-sized plants**, in ~3.5"-4" (1 pin
 - Coastal plain Joe-Pye Weed (Eutrochium dubium)
 - Common bur sedge (Carex grayi)
 - [Common evening primrose (Oenothera biennis)]({{% relref "/info-sheets/oenothera-biennis/" %}})
-- Common ninebark (Physocarpus opulifolius) - this is a first year seedling of a small tree
+- Common ninebark (Physocarpus opulifolius) - this is a first year seedling of a small tree.
 - Flax-leaved stiff aster (Ionactis linariifolia)  🆕
 - Foxglove beardtongue (Penstemon digitalis)
 - Goat's Rue (Tephrosia virginiana)
@@ -31,15 +31,17 @@ List below. Note that these are mostly **plug-sized plants**, in ~3.5"-4" (1 pin
 - [Heart leaved/blue wood aster (Symphyotrichum cordifolium)]({{% relref "/info-sheets/symphyotrichum-cordifolium/" %}})
 - Kalm's St. John's Wort (Hypericum kalmianum) 🆕
 - Large-leaved wood aster (Eurybia macrophylla)
+- New England aster (Symphyotrichum novae-angliae) 🆕
 - New York ironweed (Vernonia noveboracensis)
 - Northern beardtongue (Penstemon hirsutus)
 - Pennsylvania sedge (Carex pensylvanica) 🆕
+- Red columbine (Aquilegia canadensis) - back in stock!
 - Seaside Goldenrod (Solidago sempervirens)
 - Smooth blue aster (Symphyotrichum laeve)
 - Spotted Joe-Pye Weed (Eutrochium maculatum) - only 1️⃣ one plant left! 
 - Tall white aster (Doellingeria umbellata) 
 - Virginia mountain-mint (Pycnanthemum virginianum) - only 1️⃣ one plant left! 
-- [White snakeroot (Ageratina altissima)]({{% relref "posts/native-plants/ageratina-altissima/" %}})
+- [White snakeroot (Ageratina altissima)]({{% relref "posts/native-plants/ageratina-altissima/" %}}) - also available in quarts
 - White Wood Aster (Eurybia divaricata)
 - Wild mint (Mentha arvensis)
 - Wild strawberry (Fragaria virginiana)
@@ -48,7 +50,7 @@ List below. Note that these are mostly **plug-sized plants**, in ~3.5"-4" (1 pin
 - Yarrow, multi-hued cultivar (Achillea millefolium) - only available in 1-2 quart pots for $10
 
 ### Native annuals
-- American black nightshade (Solanum ptycanthum or americanum or whatever they're calling it these days!) - $4 for a pint pot with 1-3 plants (depending on individual seedling size)  🆕
+- American black nightshade (Solanum ptycanthum or S. americanum or S. emulans or whatever they're calling it these days!) - $4 for a pint pot with 1-3 plants (depending on individual seedling size)  🆕
 - [Partridge pea](/info-sheets/cha-fas/) - Chamaecrista fasciculata - $7 for 2 plants in a quart pot. 
 
 ### "Zoigls" - $3 pint or 2 for $5
@@ -90,9 +92,9 @@ Please refer to our ["What We're Growing for 2024"](/posts/whats-growing-2024/) 
 
 Plants that are likely to be **available soon** include:
 
-- New England aster (Symphyotrichum novae-angliae)
-- Slender false foxglove (Agalinis tenuifolia) + little bluestem (Schizachyrium scoparium) - this plant is hemiparasitic on grasses (see [this native plant showcase](/posts/native-plants/agalinis-tenuifolia/)), hence the companion planting.
-- More red columbine (Aquilegia canadensis)
+- American spikenard (Aralia racemosa)
+- Black-eyed Susan (Rudbeckia hirta var. pulcherrima)
+- Field pussytoes (Antennaria neglecta)
 
 ## "Where is your nursery located? When can I visit?"
 
@@ -113,7 +115,9 @@ If you use Facebook, you can indicate your interest in the events using the link
 
 We have decided to no longer do the Fitchburg Farmers' Market due audience/market misalignment. 
 
-As we move into the fall months, we will probably do more markets with [Grow Native Massachusetts](https://grownativemass.org/), as well. 
+Moving into the fall, we are scheduled to do the following popup markets with [Grow Native Massachusetts](https://grownativemass.org/): 
+- **Lexington Farmers' Market:** Tuesday. October 1, 2024, from 2pm to 6:30pm, at Worthen Road Practice Field, Lexington, MA.
+- **Newton Farmers' Market,** Tuesday, September 17, 2024, from 1:30pm to 6:30pm, in Cold Spring Park, Newton MA.
 
 ## "How do I order for pickup?"
 
