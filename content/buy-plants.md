@@ -7,7 +7,7 @@ menu:
     name: "Buy Plants!"
 ---
 
-_(Updated: August 20, 2024)_
+_(Updated: September 5, 2024)_
 
 Since we are so new, buying plants from us is a little different! Please **read the full details** before emailing us your order/reservation. 
 
@@ -24,34 +24,34 @@ List below. Note that these are mostly **plug-sized plants**, in ~3.5"-4" (1 pin
 - Common bur sedge (Carex grayi)
 - [Common evening primrose (Oenothera biennis)]({{% relref "/info-sheets/oenothera-biennis/" %}})
 - Common ninebark (Physocarpus opulifolius) - this is a first year seedling of a small tree.
-- Flax-leaved stiff aster (Ionactis linariifolia)  🆕
+- Flax-leaved stiff aster (Ionactis linariifolia)
 - Foxglove beardtongue (Penstemon digitalis)
 - Goat's Rue (Tephrosia virginiana)
 - Golden alexanders (Zizia aurea)
 - [Heart leaved/blue wood aster (Symphyotrichum cordifolium)]({{% relref "/info-sheets/symphyotrichum-cordifolium/" %}})
-- Kalm's St. John's Wort (Hypericum kalmianum) 🆕
+- Kalm's St. John's Wort (Hypericum kalmianum)
 - Large-leaved wood aster (Eurybia macrophylla)
-- New England aster (Symphyotrichum novae-angliae) 🆕
+- New England aster (Symphyotrichum novae-angliae)
 - New York ironweed (Vernonia noveboracensis)
 - Northern beardtongue (Penstemon hirsutus)
-- Pennsylvania sedge (Carex pensylvanica) 🆕
+- Pennsylvania sedge (Carex pensylvanica)
 - Red columbine (Aquilegia canadensis) - back in stock!
 - Seaside Goldenrod (Solidago sempervirens)
 - Smooth blue aster (Symphyotrichum laeve)
-- Spotted Joe-Pye Weed (Eutrochium maculatum) - only 1️⃣ one plant left! 
 - Tall white aster (Doellingeria umbellata) 
-- Virginia mountain-mint (Pycnanthemum virginianum) - only 1️⃣ one plant left! 
-- [White snakeroot (Ageratina altissima)]({{% relref "posts/native-plants/ageratina-altissima/" %}}) - also available in quarts
+- Virginia mountain-mint (Pycnanthemum virginianum) - only 1️⃣ one plant left! (more on the way)
+- [White snakeroot (Ageratina altissima)]({{% relref "posts/native-plants/ageratina-altissima/" %}}) - also available in 2 quart pots for $10
 - White Wood Aster (Eurybia divaricata)
 - Wild mint (Mentha arvensis)
-- Wild strawberry (Fragaria virginiana)
-- Whorled milkweed (Asclepias verticillata)
 - Wreath goldenrod (Solidago caesia)
 - Yarrow, multi-hued cultivar (Achillea millefolium) - only available in 1-2 quart pots for $10
 
-### Native annuals
-- American black nightshade (Solanum ptycanthum or S. americanum or S. emulans or whatever they're calling it these days!) - $4 for a pint pot with 1-3 plants (depending on individual seedling size)  🆕
-- [Partridge pea](/info-sheets/cha-fas/) - Chamaecrista fasciculata - $7 for 2 plants in a quart pot. 
+### Native annuals - on sale!
+
+We are marking these plants down as the season is coming to an end. At this point, the partridge pea has flowered, and the black nightshade is in fruit, so they are mostly going to be useful for seed collection.
+
+- American black nightshade (Solanum ptycanthum or S. americanum or S. emulans or whatever they're calling it these days!) - <strike>$4</strike> $2 for a pint pot with 1-3 plants (depending on individual seedling size)
+- [Partridge pea](/info-sheets/cha-fas/) - Chamaecrista fasciculata - <strike>$7</strike> $4 for 2 plants in a quart pot.
 
 ### "Zoigls" - $3 pint or 2 for $5
 
@@ -67,7 +67,6 @@ What does this have to do with native plants? Well, we have some plants that did
 
 As we come to the end of the planting season, we are marking down many of our non-natives so that we can focus on our natives.
 
-- Catnip
 - Chives
 - Lavender ('Munstead')
 - Lemon Balm - 'Mandarina' (smells like oranges!)
@@ -78,7 +77,6 @@ As we come to the end of the planting season, we are marking down many of our no
 - Thyme (English)
 
 ### Non-native annuals - <strike>$3 each, or 2 for $5</strike> $1 each, or 6 for $5
-- Tomatoes (sauce/cooking) - San Marzano
 - Habaneros
 - Jalapeños - Early
 - Basil
@@ -92,9 +90,11 @@ Please refer to our ["What We're Growing for 2024"](/posts/whats-growing-2024/) 
 
 Plants that are likely to be **available soon** include:
 
-- American spikenard (Aralia racemosa)
 - Black-eyed Susan (Rudbeckia hirta var. pulcherrima)
+- Culver's root (Veronicastrum virginicum)
 - Field pussytoes (Antennaria neglecta)
+- (more) Virginia mountain-mint (Pycnanthemum virginianum)
+- (more) Wild bergamot (Monarda fistulosa)
 
 ## "Where is your nursery located? When can I visit?"
 
@@ -102,7 +102,9 @@ We do not currently have a storefront. Currently we are selling plants in two wa
 
 ## "Okay, so what's your next event?"
 
-The next event is the **Ashby Farmers' Market: Sunday, July 28, 2024, from 9am to noon in the Ashby Town Common (1 South Road), Ashby, MA.**
+The next event is the **Leominster Farmers' Market: Saturday, September 7, 2024, from 11am to 2pm in Monument Square in Leominster, MA.**
+
+The Ashby Farmers Market will follow on Sunday, September 8, 2024, from 9am to noon on the Ashby Town Common (1 South Rd) in Ashby, MA. 
 
 Generally speaking, during the season (May-October) season we plan to be at 2-4 markets a month -- primarily the Leominster and Ashby, MA Farmers' Markets. Look for the bright red popup tent!
 
@@ -133,7 +135,7 @@ Given this, we don't require payment until we actually deliver the plant. It jus
 
 ## "What forms of payment do you accept?"
 
-I accept cash, Venmo, and now credit cards! (via Square).
+I accept cash, Venmo, and credit card (via Square).
 
 ## "Can I suggest plants for you to grow?"
 
