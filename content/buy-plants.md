@@ -7,7 +7,7 @@ menu:
     name: "Buy Plants!"
 ---
 
-_(Updated: September 5, 2024)_
+_(Updated: September 14, 2024)_
 
 Since we are so new, buying plants from us is a little different! Please **read the full details** before emailing us your order/reservation. 
 
@@ -15,43 +15,45 @@ Since we are so new, buying plants from us is a little different! Please **read 
 
 List below. Note that these are mostly **plug-sized plants**, in ~3.5"-4" (1 pint) containers. We also have a few quart-sized containers available at this time.
 
-### Native perennials - $5/pint or $10/quart (if available)
+### Native perennials - $5/pint, or $10/quart (if available)
 
+- Black-eyed Susan (Rudbeckia hirta var. pulcherrima) 🆕
+- Bluestem/wreath goldenrod (Solidago caesia) - now in 🌸!
 - Boneset (Eupatorium perfoliatum)
 - Broad-leaved mountain-mint (Pycnanthemum muticum)
 - [Cardinal flower (Lobelia cardinalis)]({{% relref "/info-sheets/lobelia-cardinalis/" %}})
 - Coastal plain Joe-Pye Weed (Eutrochium dubium)
 - Common bur sedge (Carex grayi)
-- [Common evening primrose (Oenothera biennis)]({{% relref "/info-sheets/oenothera-biennis/" %}})
+- [Common evening primrose (Oenothera biennis)]({{% relref "/info-sheets/oenothera-biennis/" %}}) - marked down to **$3** due to overstock!
 - Common ninebark (Physocarpus opulifolius) - this is a first year seedling of a small tree.
 - Flax-leaved stiff aster (Ionactis linariifolia)
 - Foxglove beardtongue (Penstemon digitalis)
 - Goat's Rue (Tephrosia virginiana)
 - Golden alexanders (Zizia aurea)
-- [Heart leaved/blue wood aster (Symphyotrichum cordifolium)]({{% relref "/info-sheets/symphyotrichum-cordifolium/" %}})
+- Hairy/Northern beardtongue (Penstemon hirsutus)
+- [Heart-leaved/blue wood aster (Symphyotrichum cordifolium)]({{% relref "/info-sheets/symphyotrichum-cordifolium/" %}})
 - Kalm's St. John's Wort (Hypericum kalmianum)
 - Large-leaved wood aster (Eurybia macrophylla)
 - New England aster (Symphyotrichum novae-angliae)
 - New York ironweed (Vernonia noveboracensis)
-- Northern beardtongue (Penstemon hirsutus)
 - Pennsylvania sedge (Carex pensylvanica)
 - Red columbine (Aquilegia canadensis) - back in stock!
 - Seaside Goldenrod (Solidago sempervirens)
-- Smooth blue aster (Symphyotrichum laeve)
+- Smooth blue aster (Symphyotrichum laeve) - now in 🌸!
 - Tall white aster (Doellingeria umbellata) 
-- Virginia mountain-mint (Pycnanthemum virginianum) - only 1️⃣ one plant left! (more on the way)
-- [White snakeroot (Ageratina altissima)]({{% relref "posts/native-plants/ageratina-altissima/" %}}) - also available in 2 quart pots for $10
+- Virginia mountain-mint (Pycnanthemum virginianum)
+- [White snakeroot (Ageratina altissima)]({{% relref "posts/native-plants/ageratina-altissima/" %}}) - also available in 2 quart pots for $10 - now in 🌸!
 - White Wood Aster (Eurybia divaricata)
+- Wild bergamot (Monarda fistulosa) - back in stock!
 - Wild mint (Mentha arvensis)
-- Wreath goldenrod (Solidago caesia)
-- Yarrow, multi-hued cultivar (Achillea millefolium) - only available in 1-2 quart pots for $10
+- Yarrow, multi-hued cultivar (Achillea millefolium) - only 1️⃣ available in 1-2 quart pots for $10
 
 ### Native annuals - on sale!
 
 We are marking these plants down as the season is coming to an end. At this point, the partridge pea has flowered, and the black nightshade is in fruit, so they are mostly going to be useful for seed collection.
 
 - American black nightshade (Solanum ptycanthum or S. americanum or S. emulans or whatever they're calling it these days!) - <strike>$4</strike> $2 for a pint pot with 1-3 plants (depending on individual seedling size)
-- [Partridge pea](/info-sheets/cha-fas/) - Chamaecrista fasciculata - <strike>$7</strike> $4 for 2 plants in a quart pot.
+- [Partridge pea](/info-sheets/cha-fas/) - Chamaecrista fasciculata - <strike>$7</strike> $4 for a quart pot.
 
 ### "Zoigls" - $3 pint or 2 for $5
 
@@ -62,6 +64,7 @@ What does this have to do with native plants? Well, we have some plants that did
 - _Monarda?_ These seeds were labeled Monarda punctata (spotted bee-balm), but have produced plants that look more like Monarda fistulosa (wild bee-balm or wild bergamot). I'll know when they flower, but in the meantime, you can get a discount on a lovely native that -- regardless of species -- has sweet-scented leaves and flowers.
 - _Symphyotrichum cordifolium (blue wood aster; heart leaved aster) or Eurybia divaricata? (white wood aster)_ These are from seeds I collected last year, but I didn't key out the plant when it was flowering. All I know they are asters, i.e. from one of the genera that used to be lumped into genus _Aster_, before it was split into 10 different genera(!) With only leaves to go on, I can't tell them apart (nor can iNaturalist!) Either way, both are native species that produce a white or whitish-blue flower in late summer or early fall (when many other flowers are beginning to fade), and thrive in very similar conditions (partial shade with medium to medium-dry soil). Until they flower, benefit from my mistake!
 - _Milkweeds (Asclepias)_. These were given to me to sell, with the caveat that they were either swamp milkweed (A. incarnata) or common milkweed (A. syriaca), but the person didn't know which.
+-_Black-eyed Susan (Rudbeckia) F2 hybrid_. I grew these from seed collected from my own 'Goldsturm' Rudbeckia, a no-longer-under-patent cultivar which crosses Rudbeckia fulgida (orange coneflower) with Rudbeckia hirta (what is most commonly called black-eyed Susan). The offspring of an first-generation hybrid is called an F2, and they are generally less vigorous than F1s. But if you are looking for a discount, or we're out of the straight species, this is a good choice! 
 
 ### Non-native perennials - <strike>$4 each</strike> $2 each or 3 for $5
 
@@ -90,11 +93,11 @@ Please refer to our ["What We're Growing for 2024"](/posts/whats-growing-2024/) 
 
 Plants that are likely to be **available soon** include:
 
-- Black-eyed Susan (Rudbeckia hirta var. pulcherrima)
 - Culver's root (Veronicastrum virginicum)
 - Field pussytoes (Antennaria neglecta)
-- (more) Virginia mountain-mint (Pycnanthemum virginianum)
-- (more) Wild bergamot (Monarda fistulosa)
+- Grass-leaved goldenrod (Euthamia graminifolia)
+- Harebell/Scotch bellflower (Campanula rotundifolia)
+- Indian grass (Sorghastrum nutans)
 
 ## "Where is your nursery located? When can I visit?"
 
@@ -102,9 +105,9 @@ We do not currently have a storefront. Currently we are selling plants in two wa
 
 ## "Okay, so what's your next event?"
 
-The next event is the **Leominster Farmers' Market: Saturday, September 7, 2024, from 11am to 2pm in Monument Square in Leominster, MA.**
+The next event is the **Newton Farmers' Market: Tuesday, September 17, 2024, from 1:30pm to 6pm in Cold Spring Park (1094 Beacon St.) in Newton, MA.** This market is part of the Grow Native Massachusetts' popup market series, and we'll be joined by three other native plant nurseries.
 
-The Ashby Farmers Market will follow on Sunday, September 8, 2024, from 9am to noon on the Ashby Town Common (1 South Rd) in Ashby, MA. 
+The Ashby Farmers Market will follow on Sunday, September 22, 2024, from 9am to noon on the Ashby Town Common (1 South Rd) in Ashby, MA. 
 
 Generally speaking, during the season (May-October) season we plan to be at 2-4 markets a month -- primarily the Leominster and Ashby, MA Farmers' Markets. Look for the bright red popup tent!
 
@@ -118,8 +121,8 @@ If you use Facebook, you can indicate your interest in the events using the link
 We have decided to no longer do the Fitchburg Farmers' Market due audience/market misalignment. 
 
 Moving into the fall, we are scheduled to do the following popup markets with [Grow Native Massachusetts](https://grownativemass.org/): 
-- **Lexington Farmers' Market:** Tuesday. October 1, 2024, from 2pm to 6:30pm, at Worthen Road Practice Field, Lexington, MA.
 - **Newton Farmers' Market,** Tuesday, September 17, 2024, from 1:30pm to 6:30pm, in Cold Spring Park, Newton MA.
+- **Lexington Farmers' Market:** Tuesday. October 1, 2024, from 2pm to 6:30pm, at Worthen Road Practice Field, Lexington, MA.
 
 ## "How do I order for pickup?"
 
