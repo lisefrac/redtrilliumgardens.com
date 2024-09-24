@@ -7,7 +7,7 @@ menu:
     name: "Buy Plants!"
 ---
 
-_(Updated: September 19, 2024)_
+_(Updated: September 24, 2024)_
 
 Since we are so new, buying plants from us is a little different! Please **read the full details** before emailing us your order/reservation. 
 
@@ -102,16 +102,16 @@ We do not currently have a storefront. Currently we are selling plants in two wa
 
 ## "Okay, so what's your next event?"
 
-The next event is the **Ashby Farmers' Market: Sunday, September 22, 2024, from 9am to noon on the Ashby MA Town Common.** 
+The next event is another Grow Native Massachusetts popup market: **Lexington, MA Farmers' Market on Tuesday, October 1st, 2024 from 2pm to 6:30pm, at Worthen Road Practice Field.**
 
-After that, we'll be doing another Grow Native Massachusetts popup market: **Lexington, MA Farmers' Market on Tuesday, October 1st, 2024 from 2pm to 6:30pm, at Worthen Road Practice Field.**
+Our final market of the season will the **Leominster Farmers' Market, Saturday, October 5th, 2024, from 11am to 2pm in Monument Square in Leominster, MA.**
 
 Generally speaking, during the season (May-October) season we plan to be at 2-4 markets a month -- primarily the Leominster and Ashby, MA Farmers' Markets. Look for the bright red popup tent!
 
 Individual Market Details:
 
 - **[Leominster Farmers' Market](https://www.facebook.com/share/grDesndrVVMieN63/)**: 1st Saturday of the month through October, in Monument Square, Leominster, MA, from 11am to 2pm. We plan to be there 7/6, 8/3, 9/7, and 10/5 of 2024.
-- **[Ashby Farmers' Market](https://www.facebook.com/share/SnB5rWmko16gFejE/):** 2nd and 4th Sundays of the month through October, on the Ashby Town Common (1 South Rd), Ashby, MA, from 9am to noon. I plan to be there 7/14, 7/28, 8/11, 8/25, 9/8, 9/22, 10/13, and 10/27 of 2024.
+- **[Ashby Farmers' Market](https://www.facebook.com/share/SnB5rWmko16gFejE/):** 2nd and 4th Sundays of the month through October, on the Ashby Town Common (1 South Rd), Ashby, MA, from 9am to noon. I plan to be there 7/14, 7/28, 8/11, 8/25, 9/8, and 9/22.
 
 If you use Facebook, you can indicate your interest in the events using the links above.
 
