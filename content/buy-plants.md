@@ -7,34 +7,36 @@ menu:
     name: "Buy Plants!"
 ---
 
-_(Updated: September 24, 2024)_
+_(Updated: October 3, 2024)_
 
 Since we are so new, buying plants from us is a little different! Please **read the full details** before emailing us your order/reservation. 
 
 ## "What do you currently have available?"
 
-List below. Note that these are mostly **plug-sized plants**, in ~3.5"-4" (1 pint) containers. We also have a few quart-sized containers available at this time.
+List below. Note that these are mostly **plug-sized plants**, in 1 pint containers. We also have a few quart-sized containers available.
+
+At this time (Oct 3, 2024), stock is getting very low!
 
 ### Native perennials - $5/pint, or $10/quart or 2 quart pot (if available)
 
-- Bluestem/wreath goldenrod (Solidago caesia) - now in 🌸!
+- Bluestem/wreath goldenrod (Solidago caesia)
+- [Blue wood aster (Symphyotrichum cordifolium)]({{% relref "/info-sheets/symphyotrichum-cordifolium/" %}}) -  only 1 left!
 - Boneset (Eupatorium perfoliatum)
 - Broad-leaved mountain-mint (Pycnanthemum muticum)
 - [Cardinal flower (Lobelia cardinalis)]({{% relref "/info-sheets/lobelia-cardinalis/" %}})
+- Coastal plain Joe-Pye Weed (Eutrochium dubium)
 - Common bur sedge (Carex grayi)
 - [Common evening primrose (Oenothera biennis)]({{% relref "/info-sheets/oenothera-biennis/" %}}) - marked down to **$3** due to overstock!
-- Common ninebark (Physocarpus opulifolius) - this is a first year seedling of a small tree.
 - Foxglove beardtongue (Penstemon digitalis)
-- Golden alexanders (Zizia aurea)
+- Golden alexanders (Zizia aurea) - only 1 left!
 - Grass-leaved goldenrod (Euthamia graminifolia)
 - Hairy/Northern beardtongue (Penstemon hirsutus)
-- [Heart-leaved/blue wood aster (Symphyotrichum cordifolium)]({{% relref "/info-sheets/symphyotrichum-cordifolium/" %}})
+- Harebell/Scotch bellflower (Campanula rotundifolia)
 - Kalm's St. John's Wort (Hypericum kalmianum)
-- Large-leaved wood aster (Eurybia macrophylla)
+- Large-leaved wood aster (Eurybia macrophylla) - only 1 left!
 - New England aster (Symphyotrichum novae-angliae)
 - New York ironweed (Vernonia noveboracensis)
-- Pennsylvania sedge (Carex pensylvanica)
-- Red columbine (Aquilegia canadensis) - back in stock!
+- Red columbine (Aquilegia canadensis) - only 1 left!
 - Seaside Goldenrod (Solidago sempervirens)
 - Smooth blue aster (Symphyotrichum laeve) - now in 🌸!
 - Tall white aster (Doellingeria umbellata) 
@@ -83,30 +85,15 @@ As we come to the end of the planting season, we are marking down many of our no
 ## Non-native houseplants
 - Christmas/Thanksgiving cactus (genus Schlumbergera)
 
-## "What will you have available later in the year?"
-
-Please refer to our ["What We're Growing for 2024"](/posts/whats-growing-2024/) post. Note that none of these are guarantees, because after a certain point, Mother Nature takes the wheel 🤣
-
-Plants that are likely to be **available soon** include:
-
-- Culver's root (Veronicastrum virginicum)
-- Field pussytoes (Antennaria neglecta)
-- Harebell/Scotch bellflower (Campanula rotundifolia)
-- Indian grass (Sorghastrum nutans)
-- (additional) Coastal plain Joe-Pye Weed (Eutrochium dubium)
-- (additional) Flax-leaved stiff aster (Ionactis linariifolia)
-
 ## "Where is your nursery located? When can I visit?"
 
 We do not currently have a storefront. Currently we are selling plants in two ways: 1) at markets and events, and 2) by order for pickup. 
 
 ## "Okay, so what's your next event?"
 
-The next event is another Grow Native Massachusetts popup market: **Lexington, MA Farmers' Market on Tuesday, October 1st, 2024 from 2pm to 6:30pm, at Worthen Road Practice Field.**
+The next event -- and our last market of the season! -- is the **Leominster Farmers' Market, Saturday, October 5th, 2024, from 11am to 2pm in Monument Square in Leominster, MA.**
 
-Our final market of the season will the **Leominster Farmers' Market, Saturday, October 5th, 2024, from 11am to 2pm in Monument Square in Leominster, MA.**
-
-Generally speaking, during the season (May-October) season we plan to be at 2-4 markets a month -- primarily the Leominster and Ashby, MA Farmers' Markets. Look for the bright red popup tent!
+We are also doing an open house on **Sunday, October 6th from 11am-5pm at our house/nursery in Lunenburg, MA.** Please email [lise@redtrilliumgardens.com](mailto:lise@redtrilliumgardens.com) for the address so I know you're a real person.
 
 Individual Market Details:
 
@@ -116,10 +103,6 @@ Individual Market Details:
 If you use Facebook, you can indicate your interest in the events using the links above.
 
 We have decided to no longer do the Fitchburg Farmers' Market due audience/market misalignment. 
-
-Moving into the fall, we are scheduled to do the following popup markets with [Grow Native Massachusetts](https://grownativemass.org/): 
-- **Newton Farmers' Market,** Tuesday, September 17, 2024, from 1:30pm to 6:30pm, in Cold Spring Park, Newton MA.
-- **Lexington Farmers' Market:** Tuesday. October 1, 2024, from 2pm to 6:30pm, at Worthen Road Practice Field, Lexington, MA.
 
 ## "How do I order for pickup?"
 
@@ -135,17 +118,24 @@ Given this, we don't require payment until we actually deliver the plant. It jus
 
 ## "What plants are out of stock/unavailable for the year?"
 
-The following plants from the "what we're growing" list are unavailable at the time of writing (Sep 18, 2024). This could be because they sold out, they had poor germination, or I killed them ☹️. Sometimes, if I had limited numbers of a species, I decided to keep them for seed collection in subsequent years. 
+The following plants from the ["What We're Growing for 2024"](/posts/whats-growing-2024/) list are unavailable at the time of writing (Oct 3, 2024). This could be because they sold out, they had poor germination, or I killed them ☹️. Sometimes, if I had limited numbers of a species, I decided to keep them for seed collection in subsequent years. 
 
+- Bitternut hickory (Carya cordiformis)
 - Black-eyed Susan, black-eyed coneflower (Rudbeckia hirta v. pulcherrima)
 - Blue toadflax (Linaria canadensis)
+- Butterfly milkweed (Asclepias tuberosa)
 - Common milkweed (Asclepias syriaca)
+- Common ninebark (Physocarpus opulifolius)
 - False lily-of-the-valley/Canada mayflower (Maianthemum canadense)
 - Goat's rue (Tephrosia virginiana)
+- Flax-leaved stiff aster (Ionactis linariifolia)
+- Field pussytoes (Antennaria neglecta)
 - Hemp dogbane (Apocynum cannabinum) 
 - Indian cucumber root (Medeola virginiana)
+- Maple-leaf viburnum (Viburnum acerifolium)
 - Partridge pea (Chamaecrista fasciculata)
 - Pearly everlasting (Anaphalis margaritacea)
+- Pennsylvania sedge (Carex pensylvanica)
 - Plantain-leaved pussytoes (Antennaria plantaginifolia)
 - Poke milkweed (Asclepias exaltata)
 - Roadside agrimony (Agrimonia striata - roadside agrimony)
@@ -159,16 +149,16 @@ The following plants from the "what we're growing" list are unavailable at the t
 - Whorled milkweed (Asclepias verticillata)
 - Wild cucumber (Echinocystis lobata)
 - Wild strawberry (Fragaria virginiana)
+- Winterberry holly (Ilex verticillata)
 - Yarrow, multi-hued cultivar (Achillea millefolium)
-
 
 ## "What forms of payment do you accept?"
 
 I accept cash, Venmo, and credit card (via Square).
 
-## "Can I suggest plants for you to grow?"
+## "Can I suggest plants for you to grow next year?"
 
-Please do! We can't guarantee we'll grow them this year, but we'll definitely look into it for next.
+Please do! 
 
 __
 

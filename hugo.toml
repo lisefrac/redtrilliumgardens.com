@@ -13,7 +13,7 @@ title = 'Red Trillium Gardens'
   text_color = ""
   author = "Lise Fracalossi"
   favicon = "images/favicon.ico"
-  description = "Red Trillium Gardens is a native plant nursery opening for business in Lunenburg, MA in Spring 2024."
+  description = "Red Trillium Gardens is a native plant nursery in Lunenburg, MA"
   # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
   background_color_class = "bg-black"
   recent_posts_number = 5
