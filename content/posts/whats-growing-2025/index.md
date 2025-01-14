@@ -6,7 +6,7 @@ featured_image: images/rhus-typhina-gilchrest-st-2020.jpg
 
 It's been a crazy couple of months for me -- I've had a death in the family and a broken arm! -- so my apologies for radio silence. 
 
-But I haven't been entirely idle! With help from friends (because: broken arm), I managed to put my plants to bed (in contact with the ground, covered with heavy duty row cover) and have started winter sowing. This is where we plant seeds outdoors at this time of year to emulate the cold moist conditions many native seeds require to grow.
+But I haven't been entirely idle! With help from friends (because: broken arm), I managed to put my 2024 plants to bed (in contact with the ground, covered with heavy duty row cover) and have started winter sowing. This is where we plant seeds outdoors at this time of year to emulate the cold moist conditions many native seeds require to grow.
 
 As I'm finally able to do nursery stuff without assistance, I present: **my (hopefully final) list of seeds we'll be sowing this year.** 
 
@@ -25,7 +25,7 @@ Priority 4 seeds will likely not get planted<br>
 🔁 May have leftover from last year.<br>
 🜁 Grown primarily as a host for hemiparasitic plants; unlikely to be available by itself.
 
-*I have sorted these by Latin name, since it is easier for me. Apologies; if you are looking for a particular species and only know the common name, I recommend searching this page with "Ctrl+F".
+*I have sorted these by Latin name, since it is easier for me. Apologies; if you are looking for a particular species and only know the common name, I recommend searching this page with "Ctrl+F".*
 
 | Latin Name                                | Common Name                                         | Priority | Symbols |
 | ----------------------------------------- | --------------------------------------------------- | ---------------------- | ------- |
