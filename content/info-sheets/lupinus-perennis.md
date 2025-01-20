@@ -9,7 +9,7 @@ description: "Information and care for sundial lupine (Lupinus perennis), sold a
 
 **Life cycle:** Perennial
 
-**Seed source(s):** Wild Seed Project, Cumberland County, ME
+**Seed source(s):** Wild Seed Project, North Yarmouth, ME
 
 **Light:** Full/Partial Sun
 

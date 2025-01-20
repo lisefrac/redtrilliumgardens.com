@@ -10,7 +10,11 @@ featured_image: '/images/Monarda_fistulosa_Arkansas.jpg'
 
 **Life cycle:** Perennial
 
-**Seed source(s):** Garden-collected from plants sourced from Native Plant Trust (Framingham, MA)
+**Seed source(s):** 
+
+- Garden-collected from plants sourced from Native Plant Trust (Framingham, MA)
+- Wild Seed Project, North Yarmouth, ME
+- Blue Stem Natives, Norwell, MA
 
 **Light:** Full/Partial Sun
 

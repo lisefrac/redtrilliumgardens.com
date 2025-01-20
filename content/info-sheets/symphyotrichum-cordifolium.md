@@ -10,7 +10,7 @@ featured_image: '/images/symphyotrichium-cordifolium-willsboro-oct2022.jpg'
 
 **Life cycle:** Perennial
 
-**Seed source(s):** Wild Seed Project, Cumberland County, ME
+**Seed source(s):** Wild Seed Project, North Yarmouth, ME
 
 **Light:** Partial/Full Shade
 
