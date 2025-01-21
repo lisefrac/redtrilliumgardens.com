@@ -12,7 +12,7 @@ featured_image: 'images/chamaecrista-fasciculata.jpeg'
 
 **Seed source(s):** 
 
-- Wild Seed Project, Cumberland County, ME
+- Wild Seed Project, North Yarmouth, ME
 - Garden collected in Lunenburg, MA
 
 **Light:** Full/Partial Sun

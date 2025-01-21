@@ -41,6 +41,8 @@ featured_image: 'images/echinocystis-lobata-featured.jpg'
 
 {{< figure src="/images/echinocystis-lobata-framingham-ma-aug-2019.jpeg" alt="Echinocystis lobata (wild cucumber). A spike of white white flowers stands above a vine with palm-shaped, cucumber-like leaves." title="Echinocystis lobata (wild cucumber). Photo taken August 2019 in Framingham, MA by Lise Fracalossi">}}
 
+{{< figure src="/images/Echinocystis_lobata_10.jpg" alt="Fruit of Echinocystis lobata (wild cucumber). A green, oval, squash-like fruit with spines on it." title="Echinocystis lobata; unripe fruit (August); Slovakia"  attr="By Hladac - Own work, CC BY-SA 4.0" attrlink="https://commons.wikimedia.org/w/index.php?curid=122369218">}}
+
 ___
 
 _Featured image: leaf and bud of Echinocystis lobata. Photo by Lise Fracalossi in August 2020 in Plattsburgh, NY._

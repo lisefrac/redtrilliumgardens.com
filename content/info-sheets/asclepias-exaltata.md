@@ -28,4 +28,4 @@ featured_image: 'images/poke-milkweed-featured.jpeg'
 >
 > --Wild Seed Project
 
-{{< figure src="../poke-milkweed-2.jpeg" alt="Asclepias exaltata (poke milkweed), a cluster of white flowers with green, reflexed sepals and large, simple, opposite leaves" title="Asclepias exaltata (poke milkweed). Photo taken July 17, 2021 in Lunenburg, MA by Lise Fracalossi">}}
+{{< figure src="/images/poke-milkweed-2.jpeg" alt="Asclepias exaltata (poke milkweed), a cluster of white flowers with green, reflexed sepals and large, simple, opposite leaves" title="Asclepias exaltata (poke milkweed). Photo taken July 17, 2021 in Lunenburg, MA by Lise Fracalossi">}}
