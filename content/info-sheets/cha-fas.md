@@ -33,4 +33,4 @@ featured_image: 'images/chamaecrista-fasciculata.jpeg'
 > 
 > --Wild Seed Project
 
-{{< figure src="../cha-fas-npt-aug-2022-2.jpeg" alt="Chamaecrista fasciculata (partridge pea), a yellow flower with a red center, with frilly compound leaves." title="Chamaecrista fasciculata (partridge pea). Photo taken August 19, 2022 at Garden in the Woods, Framingham, MA by Lise Fracalossi">}}
+{{< figure src="/images/cha-fas-npt-aug-2022-2.jpeg" alt="Chamaecrista fasciculata (partridge pea), a yellow flower with a red center, with frilly compound leaves." title="Chamaecrista fasciculata (partridge pea). Photo taken August 19, 2022 at Garden in the Woods, Framingham, MA by Lise Fracalossi">}}
