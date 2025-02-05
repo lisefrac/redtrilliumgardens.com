@@ -1,6 +1,7 @@
 ---
 title: "Virginia Mountain-Mint"
 description: "Information and care for Virgina mountain mint (Pycnanthemum virginianum), sold at Red Trillium Gardens"
+featured_image: "/images/pycnanthemum-virginianum.jpeg"
 ---
 
 ## _Pycnanthemum virginianum_
