@@ -12,27 +12,42 @@ To this end, we commit to...
 
 ### Growing our plants sustainably.
 
-Unlike most conventional nurseries, we know the "provenance" of our plants, because we grow them ourselves, in our own backyard. 
+Unlike most conventional nurseries, we know the **"provenance"** of our plants, because we grow them ourselves, in our own backyard. 
 
-We start with seeds we have either collected in the wild or from our own plants, or purchased from reputable third parties (eg. Wild Seed Project, Prairie Moon Nursery). We only grow things we can ID to species level, and we list them by scientific name. (Sometimes a species epithet is the difference between a valuable native and a dangerous non-native/invasive!)
+We start with seeds we have either **collected ethically or purchased from reputable third parties** (eg. Wild Seed Project, Prairie Moon Nursery). We only grow things we can ID by scientific name, ideally to species level. Sometimes a species epithet is the difference between a valuable native and a dangerous non-native/invasive!
 
-As much as possible we source seeds from New England, to encourage local biodiversity. This isn't possible for everything, however, so sometimes we use seeds sourced different ecoregions (eg. Prairie Moon's stock) of otherwise native plants. We also use cuttings from plants for some species that are difficult or slow to propagate from seed (eg. things in the blueberry family Ericaceae). All cuttings are collected in small amounts on my own property, or places I've been given permission to collect.
+As much as possible **we grow from seed**, to encourage biodiversity. We also prefer seeds with a local-to-New-England ecotype, which may be better adapted to the growing conditions here. This isn't possible for everything, however, so sometimes we use seeds sourced from different ecoregions (eg. Prairie Moon's stock) of otherwise native plants. 
 
-No neonicotinoids or pyrethroids are used in growing our plants. In general we try to reduce pesticide usage -- both "natural" and synthetic substances. 
+We do propagate from cuttings some species that are difficult to propagate from seed. All cuttings are collected in small amounts on my own property, or places I've explicitly been given permission to collect.
+
+**We absolutely *do not* collect plants from the wild**. (Unless it's from our seed beds in the "wilds" of our property). 
+
+**No neonicotinoids or pyrethroids** are used in growing our plants. In general we try to **reduce pesticide usage** -- both "natural" and synthetic substances. We do occasionally use products like sulfur or neem oil, but generally we prefer avoid to creating the conditions where harmful organisms thrive.
  
-We are also reducing our usage of peat, which is a non-renewable resource. We are currently using only the peat or peat-containing potting mixes that we already had on hand or that were given to us via our local Buy Nothing group. After that, we will transition to using a more sustainable material, such as coconut coir.
+**We limit our usage of peat moss**, which is a non-renewable resource (in human lifetimes, at least). Instead we favor products like coconut coir or (renewable) sphagnum moss. 
 
-In general, too, we aim to keep a low environmental profile, operating with reused materials where we can. What we must buy we try to source at local businesses. 
+We aim to keep a low environmental profile, operating with **reused materials** where we can. When we buy, we try to source at local businesses. (And hey, our local cannabis grower's supply has the best prices on potting soil, after all!)
 
-We also plan to sell garden vegetable and herb starts our first year or so, but are hoping to eventually transition to only native plants. 
-
-## Charging affordable prices for our plants.
+### Charging affordable prices for our plants.
 
 As our goal is to get as many people to grow native plants as possible, it behooves us to make them affordable! 
 
-We haven't finalized our pricing scheme yet; we're still doing some market research. Note that our prices will be based off similar plants at native plant nurseries in the like. This still may be higher than prices you're used to at conventional nurseries and big box stores. These are indie, artisanal plants! 
+We are in close contact with other native plant nurseries in Massachusetts, and try to peg our prices to theirs, as we often do markets beside them. To that end our pricing in 2024 was:
 
-## Providing education about native species of New England
+- $5 pint pot of a perennial
+- $3 pint pot of an annual
+- $7 half quart or quart pot of an annual
+- $10 for a 1-2 quart pot of a perennial
+
+Prices for 2025 are still TBD, but are likely to increase by a small amount. We are also likely to discontinue or decrease usage of pint pots, to make our sizing more consistent with other nurseries and to reduce how many times we have to up-pot.
+
+We will also change how we sell annuals in 2025 -- more details TBD.
+
+Note that these prices may be higher than prices you're used to at conventional nurseries and big box stores. These are indie, artisanal plants! 
+
+Finally, we offer several ways to receive a discount on our plants-- see [How to Help](/how-to-help/) for more details. 
+
+### Providing education about native species of New England
 
 Mostly via this blog! Some of the topics I (Lise) hope to write about are:
 
@@ -45,14 +60,16 @@ Mostly via this blog! Some of the topics I (Lise) hope to write about are:
 - business announcements
 - foraging
 
-(I'll be creating a newsletter you can subscribe to keep up to date with all these posts, as well as a social media presence. More soon).
+If you want to be updated as soon as we post a new article, [subscribe to our email newsletter](/newsletter/)! 
 
 ## About the Owner
 
 Red Trillium Gardens is the work of love of [Lise Fracalossi](http://lisefrac.net) (aka, me) of Lunenburg, MA.
 
-While I've always enjoyed the natural world in general, and plants in particular, during the pandemic, I became invested in the importance of native plants to the entire ecosystem. I began pursuing my Native Plant Studies certificate from Native Plant Trust in late 2022. 
+While I've always enjoyed the natural world in general, and plants in particular, during the pandemic I came to understand the importance of native plants as the basis of the entire ecosystem. I began pursuing my Native Plant Studies certificate from Native Plant Trust in late 2022. 
 
-When I lost my corporate job recently, I decided it was a good time to try something new. I'm using this as an opportunity to learn more about native plants, to teach about native plants, and to advocate for native plants. 
+When I lost my corporate job in 2023, I decided it was a good time to try something new. The nursery is thus an opportunity to learn more about native plants, to teach folks about native plants, and to advocate for native plants. 
 
-I am currently in the process of winter sowing seeds for sale in Spring 2024. I plan to sell these at Montuori Flea Market in Lunenburg and local farmer's markets (pending application approval). Direct sales from my house may also be possible. 
+Of course, as part of this, I enjoy taking long, slow hikes where I take tons of pictures to upload to iNaturalist!
+
+Other than native plants, I enjoy all kinds of geekery, including Dungeons & Dragons, LARPing, writing/reading fantasy, and video games. 
