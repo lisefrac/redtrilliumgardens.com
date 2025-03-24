@@ -41,8 +41,8 @@ For example: we have applied for a biweekly spot at the **Groton Farmers' Market
 
 We have also signed up for a number of **Grow Native Massachusetts' pop-up markets**. The ones in italics are (more) *tentative* -- either we're on the fence about attending (mostly due to distance), or details are still being worked out. I also don't know street addresses yet for most of these. 
 
- - ***Fitchburg Celebrates Earth Day.*** Tuesday, April 2 from 2pm-5pm in Fitchburg MA. This was actually the first market we ever attended! The event seems like it is being scaled back from last year, with it being held inside town hall instead of outside at Riverfront Park. That said, if it's as cold and windy as it was last year, I might not mind that!
-- ***Newburyport Green Expo.*** Newburyport, MA, Sunday, May 18 from 1-4pm in Newburyport MA
+ - **Fitchburg Celebrates Earth Day.** Tuesday, April 22 from 2pm-5pm in Fitchburg MA. This was actually the first market we ever attended! The event seems like it is being scaled back from last year, with it being held inside town hall instead of outside at Riverfront Park. That said, if it's as cold and windy as it was last year, I might not mind that!
+- ***Newburyport Green Expo.*** Newburyport, MA, Sunday, May 18 from 1-4pm
 - ***Davis Square Farmers Market***, Somerville, MA, Sunday, May 21, 1-4pm
 - ***West Roxbury Evening Garden Club @ West Roxbury Library Book Sale.*** West Roxbury, MA, Saturday, June 7, 10am-2pm
 - **Newton Farmers' Market.** Newton, MA, Tues June 17, 1:30pm-6pm. This was our best market last year, so we definitely plan to be there again!
