@@ -6,7 +6,7 @@ tags:
 featured_image: 'images/native-plant-poetry-canva-grid.png'
 ---
 
-*Wonder what Native Plant Poetry Month is? [See my explanation here.](updates/mar-28-2025)* 
+*Wonder what Native Plant Poetry Month is? [See my explanation here.](/posts/updates/mar-28-2025/)* 
 
 We wrapped up week one of Native Plant Poetry month with three poems from poets past and present on three different native plants!
 
