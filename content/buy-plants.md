@@ -7,13 +7,13 @@ menu:
     name: "Buy Plants"
 ---
 
-_(Updated: May 7, 2025)_
+_(Updated: May 8, 2025)_
 
 As we do not have a storefront, the best way to purchase plants is to email us at [lise@redtrilliumgardens.com](mailto:lise@redtrilliumgardens.com) to arrange pickup at a local market or at our home in Lunenburg, MA. 
 
 ## Available Now
 
-The following plants are currently available for purchase in the sizes noted after the dash. [Please email us at lise@redtrilliumgardens.com](mailto:lise@redtrilliumgardens.com) if you are interested in purchasing any. They are available for pickup at our home or at one of the markets we attend.
+The following plants are currently available for purchase in the sizes noted after the dash. [Please email us at lise@redtrilliumgardens.com](mailto:lise@redtrilliumgardens.com) if you are interested in purchasing any.
 
 ### Perennial Natives
 
@@ -29,7 +29,6 @@ Pricing - pint $6, 1.5 pint $8, 1-quart $10, 2-quart $14
 - New England aster (Symphyotrichum novae-angliae) - 2-quarts and pints
 - Purple coneflower (Echinacea purpurea) - quarts
 - Seaside goldenrod (Solidago sempervirens) - quarts and pints
-- Showy tick-trefoil (Desmodium canadense) - quarts
 - Smooth blue aster (Symphyotrichum laeve) - quarts
 - Spotted bee-balm (Monarda punctata) - pints
 - Tall white aster (Doellingeria umbellata) - pints
@@ -74,9 +73,8 @@ $2 for a small plant (8oz cup to 1.5-pint); $6 for a large (2 quarts)
 
 The following plants are (imho) too small to sell yet, but will be available soon. If you are interested regardless -- or wish to reserve them for later -- you can email me at lise@redtrilliumgardens.com.
 
-- Common milkweed (Asclepias syriaca) - pints
 - Goat's rue (Tephrosia virginiana) - quarts
-- New York ironweed (Vernonia noveboracensis)
+- New York ironweed (Vernonia noveboracensis) - pints
 - Poke milkweed (Asclepias exaltata) - pints
 - Rose (swamp) milkweed (Asclepias incarnata) - quarts and pints
 - Small-spiked false-nettle (Boehmeria cylindrica) - pints
@@ -85,16 +83,5 @@ The following plants are (imho) too small to sell yet, but will be available soo
 ## Upcoming Markets
 
 - **[Lunenburg Artisan Market](https://www.facebook.com/profile.php?id=61558079260325)**, May 11, 2025, from 9am to 2pm. This is the same location as the Montuori Fleamarket (186 Massachusetts Ave, Lunenburg, MA), but this in particular is a grouping of local artisans. 
-- **Leominster Farmers' Market (tentative)**, Thursday, May 15, 2025, at Leominster City Hall from 4-6pm. This is tentative pending vendor approval.
+- **Leominster Farmers' Market (tentative)**, Thursday, May 15, 2025, at Leominster City Hall from 4-6pm. 
 - **Davis Square Farmers Market**, Somerville, MA, Sunday, May 21, 1-4pm. This is another Grow Native Mass pop-up market, and we will be joined by [Green Blossom Painting](https://www.facebook.com/GreenBlossomPainting/), [Tree Talk Natives](https://www.treetalknatives.com/), [Checkerspot Farm](https://www.checkerspotfarm.com/), and possibly others!
-
-
-
-
-
-
-
-
-
-
-
