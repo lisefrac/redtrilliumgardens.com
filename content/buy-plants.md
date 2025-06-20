@@ -7,7 +7,7 @@ menu:
     name: "Buy Plants"
 ---
 
-_(Updated: June 4, 2025)_
+_(Updated: June 20, 2025)_
 
 As we do not have a storefront, the best way to purchase plants is to email us at [lise@redtrilliumgardens.com](mailto:lise@redtrilliumgardens.com) to arrange pickup at a local market or at our home in Lunenburg, MA. 
 
@@ -19,38 +19,39 @@ Curious how many we have of each size and species? [View our detailed inventory 
 
 ### Perennial Natives
 
-Pricing - pint $6, 1.5 pint $8, 1-quart $10, 2-quart $14
+Pricing - pint $6, 1.5 pint $8, 1-quart $10, 2-quart $14, or as otherwise marked.
 
-- Bluestem (wreath) goldenrod
+(Don't worry, for all the things marked "1 left," we have more coming soon!)
+
+- Bluestem/wreath goldenrod (Solidago caesia)
 - Boneset (Eupatorium perfoliatum) - only 1 left!
-- Canada mayflower (Maianthemum canadense)
-- Cardinal flower (Lobelia cardinalis)
-- Clustered (broad-leaved) mountain-mint
-- Eastern prickly pear (Opuntia humifusa)
+- Canada Mayflower (Maianthemum canadense) 🆕 - $10/1.5pt or 1 quart
+- Clustered/broad-leaved mountain-mint
+- Common evening primrose (2nd year) - only 1 left
+- Eastern prickly pear (Opuntia humifusa) 🆕 - $10/1.5pt
 - Foxglove beardtongue (Penstemon digitalis)
 - Grass-leaved goldenrod (Euthamia graminifolia)
-- Kalm's St. John's Wort (Hypericum kalmianum)
-- Purple coneflower (Echinacea purpurea) - only 1 left!
-- Seaside goldenrod (Solidago sempervirens)
-- Smooth blue aster (Symphyotrichum laeve)
-- Tall white aster (Doellingeria umbellata)
-- Virginia mountain-mint (Pycnanthemum virginianum)
-- Water Horehound (Lycopus americanus)
+- Harebell (Campanula rotundifolia) - only 1 left!
+- Kalm's St. John's Wort - only 1 left!
+- New York Ironweed - only 1 left!
+- Purple coneflower - only 1 left!
+- Rose/swamp milkweed (Asclepias incarnata)
+- Seaside Goldenrod (Solidago sempervirens)
+- Smallspike false-nettle (Boehmeria cylindrica)
+- Smooth blue aster - Symphyotrichum laeve
+- Tall white aster - Doellingeria umbellata
+- Virginia mountain-mint - Pycnanthemum virginianum
+- Water horehound (Lycopus americanus)
 - White snakeroot (Ageratina altissima)
-- Wild bergamot (Monarda fistulosa) - only 1 left!
-- Wild Mint (Mentha arvensis)
-- New York ironweed (Vernonia noveboracensis)
-- Poke milkweed (Asclepias exaltata)
-- Rose (swamp) milkweed (Asclepias incarnata)
-- Small-spiked false-nettle (Boehmeria cylindrica)
-- Whorled milkweed (Asclepias verticillata)
-- Coastal plain Joe-pye weed (Eutrochium dubium) - only 1 left!
+- Wild mint (Mentha arvensis)
+- Wild strawberry (Fragaria virginiana)
 
 ### Annual Natives
 
 Pints or 1.5 pints $4; quart or 2 quart $8
 
-- Rattlebox (Crotalaria sagittalis)
+- Rattlebox (Crotalaria sagittalis) - only 1 left!
+- Partridge pea (Chamaecrista fasciculata)
 
 ### "Zoigls" and Singletons
 
@@ -60,8 +61,6 @@ Singletons plants are 2024 plants where we only have one of a species left.
 
 - Black-eyed Susan F2 hybrid - grown from seed collected from 'Goldsturm' black-eyed Susan (Rudbeckia hirta x fulgida) - $3/pint
 - Mystery goldenrod (Solidago species; possibly wrinkled-leaved (S. rugosa) or giant (S. gigantea)) - pints at $3, quarts at $5
-- Mystery wood aster (either white wood aster (Eurybia divaricata) or blue wood aster (Symphyotrichum cordifolium)) - pints at $3
-- White wood aster (Eurybia divaricata) singleton - $4/pint
 
 ### Non-natives
 
@@ -77,16 +76,17 @@ $2 for a small plant (8oz cup to 1.5-pint); $6 for a large (2 quarts)
 
 ## Coming Soon 
 
-The following species are (imho) too small to sell yet, but will be available soon. If you are interested regardless -- or wish to reserve them for later -- you can email me at lise@redtrilliumgardens.com.
+The following plants are (imho) too small to sell yet, but will be available soon. If you are interested regardless -- or wish to reserve them for later -- you can email me at lise@redtrilliumgardens.com.
 
-- Goat's rue (Tephrosia virginiana)
-- Jacob's ladder (Polemonium reptans)
-- Pearly everlasting (Anaphalis margaritacea)
-- Wild senna (Senna hebecarpa)
+- Common milkweed	(Asclepias syriaca)
+- Goat's rue	(Tephrosia virginiana)
+- Jacob's ladder	(Polemonium reptans)
+- Poke milkweed	(Asclepias exaltata)
+- Sundial lupine (Lupinus perennis)
 
-... and restocks on various milkweeds!
+... and many more!
 
 ## Upcoming Markets
- 
-- **Newton Farmers' Market**, Tuesday, June 17, 1:30-6pm, in Cold Spring Park (1189 Beacon St), Newton, MA. This is another Grow Native Mass pop-up market, and we will be joined by [Tree Talk Natives](https://www.treetalknatives.com/), [Checkerspot Farm](https://www.checkerspotfarm.com/), [Lady Fern Farm](https://ladyfernfarm.com/), and [Blue Stem Natives](https://www.bluestemnatives.com/)
-- (tentative) **Lunenburg Artisan Market**, Sunday, June 22, 9am-2pm, at 186 Massachusetts Ave., Lunenburg, MA.
+
+- **Lunenburg Artisan Market**, Sunday, June 22, 9am-2pm, at 186 Massachusetts Ave., Lunenburg, MA.
+- **Leominster Farmers' Market**. First Saturday of the month, July-October, 11am to 2pm, in Monument Square in downtown Leominster, MA. Dates are: 7/5, 8/2, 9/6, 10/4.
