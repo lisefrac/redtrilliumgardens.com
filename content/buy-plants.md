@@ -48,7 +48,7 @@ Pricing - pint $6, 1.5 pint $8, 1-quart $10, 2-quart $14, or as otherwise marked
 
 ### Annual Natives
 
-Pints or 1.5 pints $4; quart or 2 quart $8
+Pints $4; 1.5 pint $7; quart or 2 quart $8
 
 - Rattlebox (Crotalaria sagittalis) - only 1 left!
 - Partridge pea (Chamaecrista fasciculata)
