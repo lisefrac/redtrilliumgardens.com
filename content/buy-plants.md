@@ -7,7 +7,7 @@ menu:
     name: "Buy Plants"
 ---
 
-_(Updated: June 20, 2025)_
+_(Updated: June 21, 2025)_
 
 As we do not have a storefront, the best way to purchase plants is to email us at [lise@redtrilliumgardens.com](mailto:lise@redtrilliumgardens.com) to arrange pickup at a local market or at our home in Lunenburg, MA. 
 
@@ -90,3 +90,4 @@ The following plants are (imho) too small to sell yet, but will be available soo
 
 - **Lunenburg Artisan Market**, Sunday, June 22, 9am-2pm, at 186 Massachusetts Ave., Lunenburg, MA.
 - **Leominster Farmers' Market**. First Saturday of the month, July-October, 11am to 2pm, in Monument Square in downtown Leominster, MA. Dates are: 7/5, 8/2, 9/6, 10/4.
+- **Groton Farmers' Market**. Fridays, starting July 11 and ending October 17, at the Williams Barn Property (160 Chicopee Row) in Groton, MA. We will not be attending every Friday, but we plan to attend 7/11 and 7/25 to assess the market (as we've not vended here before!)
