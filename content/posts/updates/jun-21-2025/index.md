@@ -12,11 +12,15 @@ Today we have some exciting news about our market schedule for the 2025 season.
 
 ## Lunenburg Artisan Market
 
-We will be vending **tomorrow**, Sunday, June 22, at the Lunenburg Artisan Market (186 Mass Ave in Lunenburg, MA), 9am-2pm. (This is the same location as the weekly Montuori fleamarket, across from White Thai restaurant). Look for us in the "fresh market" section! 
+**Update Sun Jun 22:** Sadly, due to thunderstorms and the extreme heat/humidity watch -- as well as most of the other vendors backing out -- we are canceling our attendance today. 
 
-In addition to our [usual selection of native plants](/buy-plants/), we will also be offering perennial herbs we grew last year. We no longer grow these for sale, so they will be at a steep discount ($2 for a small plant, $6 for a larger one).
+If you were interested in purchasing plants today, please drop me an email at [lise@redtrilliumgardens.com](mailto:lise@redtrilliumgardens.com) so we can arrange pickup.
 
-If you plan to attend, be sure to keep cool and hydrated! There's a heat warning in effect for tomorrow, with temps of 91 with a heat index of 109!
+~~We will be vending **tomorrow**, Sunday, June 22, at the Lunenburg Artisan Market (186 Mass Ave in Lunenburg, MA), 9am-2pm. (This is the same location as the weekly Montuori fleamarket, across from White Thai restaurant). Look for us in the "fresh market" section!~~
+
+~~In addition to our [usual selection of native plants](/buy-plants/), we will also be offering perennial herbs we grew last year. We no longer grow these for sale, so they will be at a steep discount ($2 for a small plant, $6 for a larger one).~~
+
+~~If you plan to attend, be sure to keep cool and hydrated! There's a heat warning in effect for tomorrow, with temps of 91 with a heat index of 109!~~
 
 (Sorry for the short notice! As always, if you're looking for the most up-to-date news, our [Facebook](https://www.facebook.com/redtrilliumgardens/) or [Instagram](https://www.instagram.com/redtrilliumgardens/) are the places to be).
 
