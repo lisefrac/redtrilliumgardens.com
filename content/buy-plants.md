@@ -77,7 +77,8 @@ $2 for a small plant (8oz cup to 1.5-pint); $6 for a large (2 quarts)
 
 The following plants are (imho) too small to sell yet, but will be back in stock soon. If you are interested regardless -- or wish to reserve them for later -- you can email me at lise@redtrilliumgardens.com.
 
-- Pale corydalis (Corydalis sempervirens; annual)
+- Clammy Weed (Polanisia dodecandra; annual)
+- Pale corydalis (Corydalis sempervirens; biennial)
 - Water horehound (Lycopus americanus)
 
 ... and many more to come!
