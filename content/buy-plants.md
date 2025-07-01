@@ -7,7 +7,7 @@ menu:
     name: "Buy Plants"
 ---
 
-_(Updated: June 21, 2025)_
+_(Updated: July 1, 2025)_
 
 As we do not have a storefront, the best way to purchase plants is to email us at [lise@redtrilliumgardens.com](mailto:lise@redtrilliumgardens.com) to arrange pickup at a local market or at our home in Lunenburg, MA. 
 
@@ -23,22 +23,21 @@ Pricing - pint $6, 1.5 pint $8, 1-quart $10, 2-quart $14, or as otherwise marked
 
 (Don't worry, for all the things marked "1 left," we have more coming soon!)
 
-- Bluestem/wreath goldenrod (Solidago caesia)
+- Bluestem/wreath goldenrod (Solidago caesia) - only 1 left!
 - Boneset (Eupatorium perfoliatum) - only 1 left!
-- Canada Mayflower (Maianthemum canadense) 🆕 - $10/1.5pt or 1 quart
 - Clustered/broad-leaved mountain-mint
 - Common evening primrose (2nd year) - only 1 left
+- Common milkweed	(Asclepias syriaca) 🆕
 - Eastern prickly pear (Opuntia humifusa) 🆕 - $10/1.5pt
-- Foxglove beardtongue (Penstemon digitalis)
 - Grass-leaved goldenrod (Euthamia graminifolia)
-- Harebell (Campanula rotundifolia) - only 1 left!
+- Jacob's ladder (Polemonium reptans) 🆕
 - Kalm's St. John's Wort - only 1 left!
-- New York Ironweed - only 1 left!
-- Purple coneflower - only 1 left!
+- Poke milkweed	(Asclepias exaltata) 🆕
 - Rose/swamp milkweed (Asclepias incarnata)
 - Seaside Goldenrod (Solidago sempervirens)
 - Smallspike false-nettle (Boehmeria cylindrica)
-- Smooth blue aster - Symphyotrichum laeve
+- Smooth blue aster - Symphyotrichum laeve - only 1 left!
+- Sundial lupine (Lupinus perennis) - back in stock!
 - Tall white aster - Doellingeria umbellata
 - Virginia mountain-mint - Pycnanthemum virginianum
 - Water horehound (Lycopus americanus)
@@ -74,20 +73,16 @@ $2 for a small plant (8oz cup to 1.5-pint); $6 for a large (2 quarts)
 - Peppermint - small
 - Sage, Broadleaf - small
 
-## Coming Soon 
+## Coming Soon
 
-The following plants are (imho) too small to sell yet, but will be available soon. If you are interested regardless -- or wish to reserve them for later -- you can email me at lise@redtrilliumgardens.com.
+The following plants are (imho) too small to sell yet, but will be back in stock soon. If you are interested regardless -- or wish to reserve them for later -- you can email me at lise@redtrilliumgardens.com.
 
-- Common milkweed	(Asclepias syriaca)
-- Goat's rue	(Tephrosia virginiana)
-- Jacob's ladder	(Polemonium reptans)
-- Poke milkweed	(Asclepias exaltata)
-- Sundial lupine (Lupinus perennis)
+- Pale corydalis (Corydalis sempervirens; annual)
+- Water horehound (Lycopus americanus)
 
-... and many more!
+... and many more to come!
 
 ## Upcoming Markets
 
-- **Lunenburg Artisan Market**, Sunday, June 22, 9am-2pm, at 186 Massachusetts Ave., Lunenburg, MA.
 - **Leominster Farmers' Market**. First Saturday of the month, July-October, 11am to 2pm, in Monument Square in downtown Leominster, MA. Dates are: 7/5, 8/2, 9/6, 10/4.
-- **Groton Farmers' Market**. Fridays, starting July 11 and ending October 17, at the Williams Barn Property (160 Chicopee Row) in Groton, MA. We will not be attending every Friday, but we plan to attend 7/11 and 7/25 to assess the market (as we've not vended here before!)
+- **Groton Farmers' Market**. Fridays, starting July 11 and ending October 17, at the Williams Barn Property (160 Chicopee Row) in Groton, MA. We will not be attending every Friday, but we plan to attend 7/11 to assess the market (as we've not vended here before!)
