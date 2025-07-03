@@ -7,7 +7,7 @@ menu:
     name: "Buy Plants"
 ---
 
-_(Updated: July 1, 2025)_
+_(Updated: July 3, 2025)_
 
 As we do not have a storefront, the best way to purchase plants is to email us at [lise@redtrilliumgardens.com](mailto:lise@redtrilliumgardens.com) to arrange pickup at a local market or at our home in Lunenburg, MA. 
 
@@ -26,12 +26,13 @@ Pricing - pint $6, 1.5 pint $8, 1-quart $10, 2-quart $14, or as otherwise marked
 - Bluestem/wreath goldenrod (Solidago caesia) - only 1 left!
 - Boneset (Eupatorium perfoliatum) - only 1 left!
 - Clustered/broad-leaved mountain-mint
-- Common evening primrose (2nd year) - only 1 left
+- Common evening primrose (2nd year biennial) - only 1 left
 - Common milkweed	(Asclepias syriaca) 🆕
 - Eastern prickly pear (Opuntia humifusa) 🆕 - $10/1.5pt
 - Grass-leaved goldenrod (Euthamia graminifolia)
 - Jacob's ladder (Polemonium reptans) 🆕
 - Kalm's St. John's Wort - only 1 left!
+- Pale corydalis (Corydalis sempervirens; 1st year biennial) 🆕
 - Poke milkweed	(Asclepias exaltata) 🆕
 - Rose/swamp milkweed (Asclepias incarnata)
 - Seaside Goldenrod (Solidago sempervirens)
@@ -77,9 +78,14 @@ $2 for a small plant (8oz cup to 1.5-pint); $6 for a large (2 quarts)
 
 The following plants are (imho) too small to sell yet, but will be back in stock soon. If you are interested regardless -- or wish to reserve them for later -- you can email me at lise@redtrilliumgardens.com.
 
-- Clammy Weed (Polanisia dodecandra; annual)
-- Pale corydalis (Corydalis sempervirens; biennial)
-- Water horehound (Lycopus americanus)
+- Blue wood aster (Symphyotrichum cordifolium)
+- Clammy weed (Polanisia dodecandra; annual)
+- Eastern black nightshade (Solanum ptycanthum)
+- Foxglove beardtongue (Penstemon digitalis)
+- Goat's rue (Tephrosia virginiana)
+- New Jersey tea (Ceanothus virginiana)
+- New York ironweed (Vernonia noveboracensis)
+- White turtlehead (Chelone glabra)
 
 ... and many more to come!
 
