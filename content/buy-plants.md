@@ -7,7 +7,7 @@ menu:
     name: "Buy Plants"
 ---
 
-_(Updated: July 3, 2025)_
+_(Updated: July 9, 2025)_
 
 As we do not have a storefront, the best way to purchase plants is to email us at [lise@redtrilliumgardens.com](mailto:lise@redtrilliumgardens.com) to arrange pickup at a local market or at our home in Lunenburg, MA. 
 
@@ -21,26 +21,25 @@ Curious how many we have of each size and species? [View our detailed inventory 
 
 Pricing - pint $6, 1.5 pint $8, 1-quart $10, 2-quart $14, or as otherwise marked.
 
-(Don't worry, for all the things marked "1 left," we have more coming soon!)
+(Don't worry, for most of the things marked "1 left," we have more coming soon!)
 
 - Bluestem/wreath goldenrod (Solidago caesia) - only 1 left!
 - Boneset (Eupatorium perfoliatum) - only 1 left!
-- Clustered/broad-leaved mountain-mint
-- Common evening primrose (2nd year biennial) - only 1 left
-- Common milkweed	(Asclepias syriaca) 🆕
-- Eastern prickly pear (Opuntia humifusa) 🆕 - $10/1.5pt
+- Clustered/broad-leaved mountain-mint (Pycnanthum muticum)
+- Common evening primrose (Oenothera biennis; 2nd year biennial) - only 1 left
+- Common milkweed	(Asclepias syriaca)
+- Eastern prickly pear (Opuntia humifusa) - $10/1.5pt
 - Grass-leaved goldenrod (Euthamia graminifolia)
 - Jacob's ladder (Polemonium reptans) 🆕
 - Kalm's St. John's Wort - only 1 left!
 - Pale corydalis (Corydalis sempervirens; 1st year biennial) 🆕
-- Poke milkweed	(Asclepias exaltata) 🆕
+- Poke milkweed	(Asclepias exaltata)
 - Rose/swamp milkweed (Asclepias incarnata)
 - Seaside Goldenrod (Solidago sempervirens)
 - Smallspike false-nettle (Boehmeria cylindrica)
 - Smooth blue aster - Symphyotrichum laeve - only 1 left!
 - Sundial lupine (Lupinus perennis) - back in stock!
 - Tall white aster - Doellingeria umbellata
-- Virginia mountain-mint - Pycnanthemum virginianum
 - Water horehound (Lycopus americanus)
 - White snakeroot (Ageratina altissima)
 - Wild mint (Mentha arvensis)
@@ -50,8 +49,10 @@ Pricing - pint $6, 1.5 pint $8, 1-quart $10, 2-quart $14, or as otherwise marked
 
 Pints $4; 1.5 pint $7; quart or 2 quart $8
 
+- Clammy weed (Polanisia dodecandra; annual) 🆕
 - Rattlebox (Crotalaria sagittalis) - only 1 left!
 - Partridge pea (Chamaecrista fasciculata)
+- Eastern black nightshade (Solanum emulans or ptycanthum) 🆕
 
 ### "Zoigls" and Singletons
 
@@ -79,17 +80,17 @@ $2 for a small plant (8oz cup to 1.5-pint); $6 for a large (2 quarts)
 The following plants are (imho) too small to sell yet, but will be back in stock soon. If you are interested regardless -- or wish to reserve them for later -- you can email me at lise@redtrilliumgardens.com.
 
 - Blue wood aster (Symphyotrichum cordifolium)
-- Clammy weed (Polanisia dodecandra; annual)
-- Eastern black nightshade (Solanum ptycanthum)
 - Foxglove beardtongue (Penstemon digitalis)
 - Goat's rue (Tephrosia virginiana)
 - New Jersey tea (Ceanothus virginiana)
 - New York ironweed (Vernonia noveboracensis)
+- Pale coneflower	Echinacea pallida
+- Red Columbine	Aquilegia canadensis
 - White turtlehead (Chelone glabra)
+- Many different grasses! (I've given up using them as hemiparasite hosts, because I've given up on my hemiparasites for this year)
 
 ... and many more to come!
 
 ## Upcoming Markets
 
-- **Leominster Farmers' Market**. First Saturday of the month, July-October, 11am to 2pm, in Monument Square in downtown Leominster, MA. Dates are: 7/5, 8/2, 9/6, 10/4.
 - **Groton Farmers' Market**. Fridays, starting July 11 and ending October 17, at the Williams Barn Property (160 Chicopee Row) in Groton, MA. We will not be attending every Friday, but we plan to attend 7/11 to assess the market (as we've not vended here before!)
