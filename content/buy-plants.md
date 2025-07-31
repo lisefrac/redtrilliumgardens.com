@@ -7,7 +7,7 @@ menu:
     name: "Buy Plants"
 ---
 
-_(Updated: July 9, 2025)_
+_(Updated: July 31, 2025)_
 
 As we do not have a storefront, the best way to purchase plants is to email us at [lise@redtrilliumgardens.com](mailto:lise@redtrilliumgardens.com) to arrange pickup at a local market or at our home in Lunenburg, MA. 
 
@@ -21,38 +21,53 @@ Curious how many we have of each size and species? [View our detailed inventory 
 
 Pricing - pint $6, 1.5 pint $8, 1-quart $10, 2-quart $14, or as otherwise marked.
 
-(Don't worry, for most of the things marked "1 left," we have more coming soon!)
+(For most things labeled "only 1 left," we have more coming soon)
 
 - Bluestem/wreath goldenrod (Solidago caesia) - only 1 left!
+- Blue wood aster	(Symphyotrichum cordifolium) 🆕
 - Boneset (Eupatorium perfoliatum) - only 1 left!
-- Clustered/broad-leaved mountain-mint (Pycnanthum muticum)
-- Common evening primrose (Oenothera biennis; 2nd year biennial) - only 1 left
+- Clustered/broad-leaved mountain-mint (Pycnanthum muticum) - only 1 left!
 - Common milkweed	(Asclepias syriaca)
 - Eastern prickly pear (Opuntia humifusa) - $10/1.5pt
+- Foxglove beardtongue	Penstemon digitalis - back in stock!
+- Goat's rue	Tephrosia virginiana 🆕
 - Grass-leaved goldenrod (Euthamia graminifolia)
 - Jacob's ladder (Polemonium reptans) 🆕
-- Kalm's St. John's Wort - only 1 left!
+- Kalm's St. John's Wort - only 1 left! 
+- New England aster	(Symphyotrichum novae-angliae) 🆕
+- New Jersey tea (Ceanothus virginiana) 🆕
+- New York ironweed (Vernonia noveboracensis) - back in stock
+- Obedient Plant	(Physostegia virginiana) 🆕
+- Pale coneflower	(Echinacea pallida) 🆕
 - Pale corydalis (Corydalis sempervirens; 1st year biennial) 🆕
 - Poke milkweed	(Asclepias exaltata)
+- Purple Coneflower	(Echinacea purpurea) - back in stock
+- Red Columbine	(Aquilegia canadensis) 🆕
 - Rose/swamp milkweed (Asclepias incarnata)
 - Seaside Goldenrod (Solidago sempervirens)
 - Smallspike false-nettle (Boehmeria cylindrica)
 - Smooth blue aster - Symphyotrichum laeve - only 1 left!
+- Spotted bee-balm (Monarda punctata) - back in stock
 - Sundial lupine (Lupinus perennis) - back in stock!
 - Tall white aster - Doellingeria umbellata
+- Virginia mountain-mint	(Pycnanthemum virginianum)
 - Water horehound (Lycopus americanus)
 - White snakeroot (Ageratina altissima)
+- White turtlehead (Chelone glabra) 🆕
+- Whorled milkweed	(Asclepias verticillata) 🆕
 - Wild mint (Mentha arvensis)
+- Wild senna (Senna hebecarpa) 🆕
 - Wild strawberry (Fragaria virginiana)
 
 ### Annual Natives
 
 Pints $4; 1.5 pint $7; quart or 2 quart $8
 
-- Clammy weed (Polanisia dodecandra; annual) 🆕
+- Clammy weed (Polanisia dodecandra)
 - Rattlebox (Crotalaria sagittalis) - only 1 left!
 - Partridge pea (Chamaecrista fasciculata)
-- Eastern black nightshade (Solanum emulans or ptycanthum) 🆕
+- Eastern black nightshade (Solanum emulans or ptycanthum)
+- Pale corydalis (Corydalis sempervirens) 
 
 ### "Zoigls" and Singletons
 
@@ -75,22 +90,22 @@ $2 for a small plant (8oz cup to 1.5-pint); $6 for a large (2 quarts)
 - Peppermint - small
 - Sage, Broadleaf - small
 
+We also have three small Christmas/Thanksgiving cacti available for sale at $2. 
+
 ## Coming Soon
 
 The following plants are (imho) too small to sell yet, but will be back in stock soon. If you are interested regardless -- or wish to reserve them for later -- you can email me at lise@redtrilliumgardens.com.
 
-- Blue wood aster (Symphyotrichum cordifolium)
-- Foxglove beardtongue (Penstemon digitalis)
-- Goat's rue (Tephrosia virginiana)
-- New Jersey tea (Ceanothus virginiana)
-- New York ironweed (Vernonia noveboracensis)
-- Pale coneflower	Echinacea pallida
-- Red Columbine	Aquilegia canadensis
-- White turtlehead (Chelone glabra)
-- Many different grasses! (I've given up using them as hemiparasite hosts, because I've given up on my hemiparasites for this year)
+- Indian Grass (Sorghastrum nutans)
+- Little bluestem	(Schizachyrium scoparium)
+- Path Rush	(Juncus tenuis)
+- Side Oats Grama	(Bouteloua curtipendula)
+- New England blazing star ( Liatris novae-angliae)
 
-... and many more to come!
+... and more
 
 ## Upcoming Markets
 
-- **Groton Farmers' Market**. Fridays, starting July 11 and ending October 17, at the Williams Barn Property (160 Chicopee Row) in Groton, MA. We will not be attending every Friday, but we plan to attend 7/11 to assess the market (as we've not vended here before!)
+- **Groton Farmers' Market**. Friday 8/1/25, 3-7pm, at the Williams Barn Property (160 Chicopee Row) in Groton, MA. 
+- **Leominster Farmers' Market**. First Saturday of the month through October 2025, usually 11am-2pm. Next market is August 2, with a different time of 10am-1pm. Monument Square, Leominster, MA. 
+- **Lunenburg Artisan Market**. Sunday, 8/3/2025, 9am-2pm, 186 Massachusetts Ave, Lunenburg, MA.
