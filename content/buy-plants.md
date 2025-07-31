@@ -39,7 +39,6 @@ Pricing - pint $6, 1.5 pint $8, 1-quart $10, 2-quart $14, or as otherwise marked
 - New York ironweed (Vernonia noveboracensis) - back in stock
 - Obedient Plant	(Physostegia virginiana) 🆕
 - Pale coneflower	(Echinacea pallida) 🆕
-- Pale corydalis (Corydalis sempervirens; 1st year biennial) 🆕
 - Poke milkweed	(Asclepias exaltata)
 - Purple Coneflower	(Echinacea purpurea) - back in stock
 - Red Columbine	(Aquilegia canadensis) 🆕
