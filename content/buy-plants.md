@@ -7,7 +7,7 @@ menu:
     name: "Buy Plants"
 ---
 
-_(Updated: July 31, 2025)_
+_(Updated: Aug 4, 2025)_
 
 As we do not have a storefront, the best way to purchase plants is to email us at [lise@redtrilliumgardens.com](mailto:lise@redtrilliumgardens.com) to arrange pickup at a local market or at our home in Lunenburg, MA. 
 
@@ -23,17 +23,13 @@ Pricing - pint $6, 1.5 pint $8, 1-quart $10, 2-quart $14, or as otherwise marked
 
 (For most things labeled "only 1 left," we have more coming soon)
 
-- Bluestem/wreath goldenrod (Solidago caesia) - only 1 left!
 - Blue wood aster	(Symphyotrichum cordifolium) 🆕
-- Boneset (Eupatorium perfoliatum) - only 1 left!
 - Clustered/broad-leaved mountain-mint (Pycnanthum muticum) - only 1 left!
 - Common milkweed	(Asclepias syriaca)
-- Eastern prickly pear (Opuntia humifusa) - $10/1.5pt
+- Eastern prickly pear (Opuntia humifusa) - $10/1.5pt - only 1 left!
 - Foxglove beardtongue	Penstemon digitalis - back in stock!
-- Goat's rue	Tephrosia virginiana 🆕
 - Grass-leaved goldenrod (Euthamia graminifolia)
 - Jacob's ladder (Polemonium reptans) 🆕
-- Kalm's St. John's Wort - only 1 left! 
 - New England aster	(Symphyotrichum novae-angliae) 🆕
 - New Jersey tea (Ceanothus virginiana) 🆕
 - New York ironweed (Vernonia noveboracensis) - back in stock
@@ -48,10 +44,10 @@ Pricing - pint $6, 1.5 pint $8, 1-quart $10, 2-quart $14, or as otherwise marked
 - Smooth blue aster - Symphyotrichum laeve - only 1 left!
 - Spotted bee-balm (Monarda punctata) - back in stock
 - Sundial lupine (Lupinus perennis) - back in stock!
-- Tall white aster - Doellingeria umbellata
+- Tall white aster (Doellingeria umbellata)
 - Virginia mountain-mint	(Pycnanthemum virginianum)
 - Water horehound (Lycopus americanus)
-- White snakeroot (Ageratina altissima)
+- White snakeroot (Ageratina altissima) - only 1 left!
 - White turtlehead (Chelone glabra) 🆕
 - Whorled milkweed	(Asclepias verticillata) 🆕
 - Wild mint (Mentha arvensis)
@@ -63,7 +59,6 @@ Pricing - pint $6, 1.5 pint $8, 1-quart $10, 2-quart $14, or as otherwise marked
 Pints $4; 1.5 pint $7; quart or 2 quart $8
 
 - Clammy weed (Polanisia dodecandra)
-- Rattlebox (Crotalaria sagittalis) - only 1 left!
 - Partridge pea (Chamaecrista fasciculata)
 - Eastern black nightshade (Solanum emulans or ptycanthum)
 - Pale corydalis (Corydalis sempervirens) 
@@ -83,7 +78,6 @@ We no longer grow non-natives for sale, but we have some perennial herbs left ov
 
 $2 for a small plant (8oz cup to 1.5-pint); $6 for a large (2 quarts)
 
-- Chives - small
 - Lavender 'Munstead' - small
 - Lemon Balm 'Mandarina' - large
 - Peppermint - small
@@ -95,16 +89,18 @@ We also have three small Christmas/Thanksgiving cacti available for sale at $2.
 
 The following plants are (imho) too small to sell yet, but will be back in stock soon. If you are interested regardless -- or wish to reserve them for later -- you can email me at lise@redtrilliumgardens.com.
 
+- Common bur sedge (Carex grayi)
 - Indian Grass (Sorghastrum nutans)
 - Little bluestem	(Schizachyrium scoparium)
+- New England blazing star (Liatris novae-angliae)
 - Path Rush	(Juncus tenuis)
+- Pennsylvania sedge (Carex pensylvanica)
 - Side Oats Grama	(Bouteloua curtipendula)
-- New England blazing star ( Liatris novae-angliae)
 
 ... and more
 
 ## Upcoming Markets
 
-- **Groton Farmers' Market**. Friday 8/1/25, 3-7pm, at the Williams Barn Property (160 Chicopee Row) in Groton, MA. 
+- **Lexington Farmers' Market**. With Grow Native Massachusetts. Tuesday, August 26th, 2025, from 2pm-6:30pm, Practice Field, Worthen Rd, Lexington, MA. 
+- **Groton Farmers' Market**. Fridays, 3-7pm, at the Williams Barn Property (160 Chicopee Row) in Groton, MA. We will not attend every market, however -- we'll update here when we know specific dates.
 - **Leominster Farmers' Market**. First Saturday of the month through October 2025, usually 11am-2pm. Next market is August 2, with a different time of 10am-1pm. Monument Square, Leominster, MA. 
-- **Lunenburg Artisan Market**. Sunday, 8/3/2025, 9am-2pm, 186 Massachusetts Ave, Lunenburg, MA.
