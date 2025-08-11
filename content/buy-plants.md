@@ -7,7 +7,7 @@ menu:
     name: "Buy Plants"
 ---
 
-_(Updated: Aug 4, 2025)_
+_(Updated: Aug 11, 2025)_
 
 As we do not have a storefront, the best way to purchase plants is to email us at [lise@redtrilliumgardens.com](mailto:lise@redtrilliumgardens.com) to arrange pickup at a local market or at our home in Lunenburg, MA. 
 
@@ -23,18 +23,18 @@ Pricing - pint $6, 1.5 pint $8, 1-quart $10, 2-quart $14, or as otherwise marked
 
 (For most things labeled "only 1 left," we have more coming soon)
 
-- Blue wood aster	(Symphyotrichum cordifolium) 🆕
+- Blue wood aster	(Symphyotrichum cordifolium)
 - Clustered/broad-leaved mountain-mint (Pycnanthum muticum) - only 1 left!
 - Common milkweed	(Asclepias syriaca)
-- Eastern prickly pear (Opuntia humifusa) - $10/1.5pt - only 1 left!
-- Foxglove beardtongue	Penstemon digitalis - back in stock!
+- Foxglove beardtongue (Penstemon digitalis) - back in stock!
 - Grass-leaved goldenrod (Euthamia graminifolia)
-- Jacob's ladder (Polemonium reptans) 🆕
-- New England aster	(Symphyotrichum novae-angliae) 🆕
-- New Jersey tea (Ceanothus virginiana) 🆕
+- Jacob's ladder (Polemonium reptans)
+- Little bluestem	(Schizachyrium scoparium) 🆕
+- New England aster	(Symphyotrichum novae-angliae)
+- New Jersey tea (Ceanothus virginiana)
 - New York ironweed (Vernonia noveboracensis) - back in stock
-- Obedient Plant	(Physostegia virginiana) 🆕
-- Pale coneflower	(Echinacea pallida) 🆕
+- Obedient Plant (Physostegia virginiana) 
+- Pale coneflower	(Echinacea pallida) 
 - Poke milkweed	(Asclepias exaltata)
 - Purple Coneflower	(Echinacea purpurea) - back in stock
 - Red Columbine	(Aquilegia canadensis) 🆕
@@ -48,11 +48,12 @@ Pricing - pint $6, 1.5 pint $8, 1-quart $10, 2-quart $14, or as otherwise marked
 - Virginia mountain-mint	(Pycnanthemum virginianum)
 - Water horehound (Lycopus americanus)
 - White snakeroot (Ageratina altissima) - only 1 left!
-- White turtlehead (Chelone glabra) 🆕
-- Whorled milkweed	(Asclepias verticillata) 🆕
+- White turtlehead (Chelone glabra)
+- Whorled milkweed	(Asclepias verticillata)
 - Wild mint (Mentha arvensis)
-- Wild senna (Senna hebecarpa) 🆕
+- Wild senna (Senna hebecarpa)
 - Wild strawberry (Fragaria virginiana)
+- Yellow Prairie/Indian grass (Sorghastrum nutans) 🆕
 
 ### Annual Natives
 
@@ -69,7 +70,6 @@ Pints $4; 1.5 pint $7; quart or 2 quart $8
 
 Singletons plants are 2024 plants where we only have one of a species left.
 
-- Black-eyed Susan F2 hybrid - grown from seed collected from 'Goldsturm' black-eyed Susan (Rudbeckia hirta x fulgida) - $3/pint
 - Mystery goldenrod (Solidago species; possibly wrinkled-leaved (S. rugosa) or giant (S. gigantea)) - pints at $3, quarts at $5
 
 ### Non-natives
@@ -89,18 +89,28 @@ We also have three small Christmas/Thanksgiving cacti available for sale at $2.
 
 The following plants are (imho) too small to sell yet, but will be back in stock soon. If you are interested regardless -- or wish to reserve them for later -- you can email me at lise@redtrilliumgardens.com.
 
-- Common bur sedge (Carex grayi)
-- Indian Grass (Sorghastrum nutans)
-- Little bluestem	(Schizachyrium scoparium)
-- New England blazing star (Liatris novae-angliae)
-- Path Rush	(Juncus tenuis)
-- Pennsylvania sedge (Carex pensylvanica)
-- Side Oats Grama	(Bouteloua curtipendula)
+- Black chokeberry
+- Blue lobelia
+- Common bur sedge
+- Common ninebark
+- Downy goldenrod
+- Goat's rue
+- Golden alexanders
+- Heart leaved alexanders
+- New England blazing star
+- Path Rush
+- Pennsylvania sedge
+- Showy tick-trefoil
+- Side Oats Grama
+- Virgin's bower clematis
 
-... and more
+... and more, as we pot them up!
 
 ## Upcoming Markets
 
+- **Gardner Farmers' Market**, third Saturdays through October, 9:30am to 1pm, at Waterford Street School in Gardner, MA. We will be attending the August 16th and October 18th events. 
 - **Lexington Farmers' Market**. With Grow Native Massachusetts. Tuesday, August 26th, 2025, from 2pm-6:30pm, Practice Field, Worthen Rd, Lexington, MA. 
-- **Groton Farmers' Market**. Fridays, 3-7pm, at the Williams Barn Property (160 Chicopee Row) in Groton, MA. We will not attend every market, however -- we'll update here when we know specific dates.
-- **Leominster Farmers' Market**. First Saturday of the month through October 2025, usually 11am-2pm. Next market is August 2, with a different time of 10am-1pm. Monument Square, Leominster, MA. 
+- **Groton Farmers' Market**. Fridays through October 17th, 3-7pm, at the Williams Barn Property (160 Chicopee Row) in Groton, MA. We will not attend every market, however -- we'll update here when we know specific dates.
+- **Brookline Farmers' Market**. With Grow Native Massachusetts. Thursday, September 4, 1:30-6:30pm, in the Centre St. West Parking Lot in Brookline, MA. 
+- **Leominster Farmers' Market**. First Saturday of the month through October 2025, usually 11am-2pm. Next dates are September 6 and October 4.
+- **The Farmers' Market at Forest Park**. With Grow Native Massachusetts. Tuesday, September 30th, 12:30pm to 6pm, at 300 Sumner Avenue in Springfield, MA.
