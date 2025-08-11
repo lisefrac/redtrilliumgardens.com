@@ -68,8 +68,6 @@ Pints $4; 1.5 pint $7; quart or 2 quart $8
 
 "Zoigls" are imperfect, "factory second" plants. Usually this means that we can't identify them to species level. (This is what happens when you don't label your seeds well!)
 
-Singletons plants are 2024 plants where we only have one of a species left.
-
 - Mystery goldenrod (Solidago species; possibly wrinkled-leaved (S. rugosa) or giant (S. gigantea)) - pints at $3, quarts at $5
 
 ### Non-natives
