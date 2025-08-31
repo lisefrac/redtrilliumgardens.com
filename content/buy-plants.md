@@ -7,7 +7,7 @@ menu:
     name: "Buy Plants"
 ---
 
-_(Updated: Aug 11, 2025)_
+_(Updated: Aug 31, 2025)_
 
 As we do not have a storefront, the best way to purchase plants is to email us at [lise@redtrilliumgardens.com](mailto:lise@redtrilliumgardens.com) to arrange pickup at a local market or at our home in Lunenburg, MA. 
 
@@ -23,37 +23,44 @@ Pricing - pint $6, 1.5 pint $8, 1-quart $10, 2-quart $14, or as otherwise marked
 
 (For most things labeled "only 1 left," we have more coming soon)
 
-- Blue wood aster	(Symphyotrichum cordifolium)
-- Clustered/broad-leaved mountain-mint (Pycnanthum muticum) - only 1 left!
-- Common milkweed	(Asclepias syriaca)
-- Foxglove beardtongue (Penstemon digitalis) - back in stock!
+- Blue wood aster (Symphyotrichum cordifolium)
+- Clustered/broad-leaved mountain-mint (Pycnanthemum muticum)- only 1 left! (more soon)
+- Coastal plain Joe-pye weed (Eutrochium dubium) 🆕
+- Common milkweed (Asclepias syriaca)
+- Common ninebark (Physocarpus opulifolius) - 1st year shrub/tree 🆕
+- Downy goldenrod (Solidago puberula) 🆕
+- Foxglove beardtongue (Penstemon digitalis)
+- Golden alexanders (Zizia aurea)  🆕
 - Grass-leaved goldenrod (Euthamia graminifolia)
+- Heart leaved alexanders (Zizia aptera)  🆕
 - Jacob's ladder (Polemonium reptans)
-- Little bluestem	(Schizachyrium scoparium) 🆕
-- New England aster	(Symphyotrichum novae-angliae)
-- New Jersey tea (Ceanothus virginiana)
-- New York ironweed (Vernonia noveboracensis) - back in stock
-- Obedient Plant (Physostegia virginiana) 
-- Pale coneflower	(Echinacea pallida) 
-- Poke milkweed	(Asclepias exaltata)
-- Purple Coneflower	(Echinacea purpurea) - back in stock
-- Red Columbine	(Aquilegia canadensis) 🆕
+- Little bluestem (Schizachyrium scoparium)
+- New England aster (Symphyotrichum novae-angliae)
+- New England blazing star (Liatris novae-angliae)  🆕
+- New Jersey tea (Ceanothus americanus) - 1st year shrub
+- New York Ironweed (Vernonia noveboracensis)
+- Obedient Plant (Physostegia virginiana)
+- Path Rush (Juncus tenuis)
+- Pale coneflower (Echinacea pallida)
+- Purple Coneflower (Echinacea purpurea)
+- Red Chokeberry (Aronia arbutifolia) - 1st year shrub/tree 🆕
+- Red Columbine (Aquilegia canadensis) - beginning to go dormant
 - Rose/swamp milkweed (Asclepias incarnata)
 - Seaside Goldenrod (Solidago sempervirens)
+- Showy tick-trefoil (Desmodium canadense)
 - Smallspike false-nettle (Boehmeria cylindrica)
-- Smooth blue aster - Symphyotrichum laeve - only 1 left!
-- Spotted bee-balm (Monarda punctata) - back in stock
-- Sundial lupine (Lupinus perennis) - back in stock!
+- Smooth blue aster (Symphyotrichum laeve)
+- Spotted bee-balm (Monarda punctata)
 - Tall white aster (Doellingeria umbellata)
-- Virginia mountain-mint	(Pycnanthemum virginianum)
+- Virgin's bower clematis (Clematis virginiana) 🆕
+- Virginia mountain-mint (Pycnanthemum virginianum)
 - Water horehound (Lycopus americanus)
-- White snakeroot (Ageratina altissima) - only 1 left!
+- White snakeroot (Ageratina altissima) - only 1 left! (more soon)
 - White turtlehead (Chelone glabra)
-- Whorled milkweed	(Asclepias verticillata)
+- Whorled milkweed (Asclepias verticillata)
 - Wild mint (Mentha arvensis)
 - Wild senna (Senna hebecarpa)
-- Wild strawberry (Fragaria virginiana)
-- Yellow Prairie/Indian grass (Sorghastrum nutans) 🆕
+- Yellow prairie grass (Indian grass) (Sorghastrum nutans)
 
 ### Annual Natives
 
@@ -63,12 +70,14 @@ Pints $4; 1.5 pint $7; quart or 2 quart $8
 - Partridge pea (Chamaecrista fasciculata)
 - Eastern black nightshade (Solanum emulans or ptycanthum)
 - Pale corydalis (Corydalis sempervirens) 
+- Indian tobacco (Lobelia inflata)
 
 ### "Zoigls" and Singletons
 
 "Zoigls" are imperfect, "factory second" plants. Usually this means that we can't identify them to species level. (This is what happens when you don't label your seeds well!)
 
 - Mystery goldenrod (Solidago species; possibly wrinkled-leaved (S. rugosa) or giant (S. gigantea)) - pints at $3, quarts at $5
+- Black Eyed Susan 'Goldsturm' F2 hybrid (Rudbeckia hirta x fulgida F2) - grown from seeds collected from the 'Goldsturm' cultivar.  Pints at $3, quarts at $5
 
 ### Non-natives
 
@@ -85,29 +94,26 @@ We also have three small Christmas/Thanksgiving cacti available for sale at $2.
 
 ## Coming Soon
 
-The following plants are (imho) too small to sell yet, but will be back in stock soon. If you are interested regardless -- or wish to reserve them for later -- you can email me at lise@redtrilliumgardens.com.
+The following plants are (imho) not ready to sell yet, but will be available soon. If you are interested regardless -- or wish to reserve them for later -- you can email me at lise@redtrilliumgardens.com.
 
-- Black chokeberry
-- Blue lobelia
-- Common bur sedge
-- Common ninebark
-- Downy goldenrod
-- Goat's rue
-- Golden alexanders
-- Heart leaved alexanders
-- New England blazing star
-- Path Rush
-- Pennsylvania sedge
-- Showy tick-trefoil
-- Side Oats Grama
-- Virgin's bower clematis
+**Note:** at this point in the season (August 31, 2025), many species are beginning to go dormant. Thus I can't guarantee that all of these will be available this year.
+
+- Blue flag iris (Iris versicolor)
+- Blue lobelia (Lobelia siphilitica)
+- Calico aster (Symphyotrichum lateriflorum)
+- Common bur sedge (Carex grayi)
+- Goat's rue (Tephrosia virginiana)
+- Hemp dogbane (Apocynum cannabinum)
+- Pearly everlasting (Anaphalis margaritacea)
+- Pennsylvania sedge (Carex pensylvanica)
+- Roundheaded bush clover (Lespedeza capitata)
+- Small yellow wild indigo (Baptisia tinctoria)
+- Wild strawberry (Fragaria virginiana)
 
 ... and more, as we pot them up!
 
 ## Upcoming Markets
 
-- **Gardner Farmers' Market**, third Saturdays through October, 9:30am to 1pm, at Waterford Street School in Gardner, MA. We will be attending the August 16th and October 18th events. 
-- **Lexington Farmers' Market**. With Grow Native Massachusetts. Tuesday, August 26th, 2025, from 2pm-6:30pm, Practice Field, Worthen Rd, Lexington, MA. 
 - **Groton Farmers' Market**. Fridays through October 17th, 3-7pm, at the Williams Barn Property (160 Chicopee Row) in Groton, MA. We will not attend every market, however -- we'll update here when we know specific dates.
 - **Brookline Farmers' Market**. With Grow Native Massachusetts. Thursday, September 4, 1:30-6:30pm, in the Centre St. West Parking Lot in Brookline, MA. 
 - **Leominster Farmers' Market**. First Saturday of the month through October 2025, usually 11am-2pm. Next dates are September 6 and October 4.
