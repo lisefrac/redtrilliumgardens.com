@@ -7,7 +7,7 @@ menu:
     name: "Buy Plants"
 ---
 
-_(Updated: Aug 31, 2025)_
+_(Updated: September 1, 2025)_
 
 As we do not have a storefront, the best way to purchase plants is to email us at [lise@redtrilliumgardens.com](mailto:lise@redtrilliumgardens.com) to arrange pickup at a local market or at our home in Lunenburg, MA. 
 
@@ -116,5 +116,6 @@ The following plants are (imho) not ready to sell yet, but will be available soo
 
 - **Groton Farmers' Market**. Fridays through October 17th, 3-7pm, at the Williams Barn Property (160 Chicopee Row) in Groton, MA. We will not attend every market, however -- we'll update here when we know specific dates.
 - **Brookline Farmers' Market**. With Grow Native Massachusetts. Thursday, September 4, 1:30-6:30pm, in the Centre St. West Parking Lot in Brookline, MA. 
-- **Leominster Farmers' Market**. First Saturday of the month through October 2025, usually 11am-2pm. Next dates are September 6 and October 4.
+- **Leominster Farmers' Market**. First Saturday of the month through October 2025, usually 11am-2pm, in Monument Square. Next dates are September 6 and October 4.
 - **The Farmers' Market at Forest Park**. With Grow Native Massachusetts. Tuesday, September 30th, 12:30pm to 6pm, at 300 Sumner Avenue in Springfield, MA.
+- **Gardner Farmers' Market**. Saturday, October 18, 2025, from 9:30am to 1pm at the Waterford Street School in Gardner, MA.
