@@ -7,7 +7,7 @@ menu:
     name: "Buy Plants"
 ---
 
-_(Updated: September 8, 2025)_
+_(Updated: September 23, 2025)_
 
 As we do not have a storefront, the best way to purchase plants is to email us at [lise@redtrilliumgardens.com](mailto:lise@redtrilliumgardens.com) to arrange pickup at a local market or at our home in Lunenburg, MA. 
 
@@ -19,56 +19,81 @@ Curious how many we have of each size and species? [View our detailed inventory 
 
 ### Perennial Natives
 
+*Italicized* plants are going dormant, and may not be in a desirable state for purchase.
+
+
 Pricing - pint $6, 1.5 pint $8, 1-quart $10, 2-quart $14, or as otherwise marked.
 
-- Blue lobelia (Lobelia siphilitica) 🆕
+- Black elderberry (Sambucus canadensis) 🆕
+- Blue flag iris (Iris versicolor) 🆕
+- Blue lobelia (Lobelia siphilitica)
+- Blue vervain (Verbena hastata) 🆕
 - Blue wood aster (Symphyotrichum cordifolium)
-- Buttonbush (Cephalanthus occidentalis) - 1st year shrub/tree 🆕
-- Coastal plain Joe-pye weed (Eutrochium dubium)
-- Common milkweed (Asclepias syriaca)
-- Common ninebark (Physocarpus opulifolius) - 1st year shrub/tree
-- Cutleaf coneflower (Rudbeckia laciniata) 🆕
+- Boneset (Eupatorium perfoliatum) - back in stock!
+- Bottlebrush grass (Elymus histrix) 🆕
+- Buttonbush (Cephalanthus occidentalis) - 1st year shrub
+- Calico aster (Symphyotrichum lateriflorum) 🆕
+- Cardinal flower (Lobelia cardinalis) - back in stock!
+- Clustered mountain-mint (Pycnanthemum muticum) - back in stock!
+- *Coastal plain Joe-pye weed (Eutrochium dubium)*
+- Common bur sedge (Carex grayi) 🆕
+- *Common milkweed (Asclepias syriaca)*
+- *Common ninebark (Physocarpus opulifolius) - 1st year shrub/tree*
+- Culver's root (Veronicastrum virginicum) - only 1 available!
+- Cutleaf coneflower (Rudbeckia laciniata)
 - Downy goldenrod (Solidago puberula) 🆕
 - Flowering raspberry (Rubus odoratus) - 1st year shrub
 - Foxglove beardtongue (Penstemon digitalis)
 - Goat's Rue (Tephrosia virginiana) - only 1 left for the season!
-- Golden alexanders (Zizia aurea) 🆕
+- Golden alexanders (Zizia aurea)
 - Grass-leaved goldenrod (Euthamia graminifolia)
-- Heart leaved alexanders (Zizia aptera) 🆕
-- Hemp dogbane (Apocynum cannabinum) 🆕
+- Heart leaved alexanders (Zizia aptera)
+- Hemp dogbane (Apocynum cannabinum)
 - Little bluestem (Schizachyrium scoparium)
 - New England aster (Symphyotrichum novae-angliae)
-- New England blazing star (Liatris novae-angliae)
 - New Jersey tea (Ceanothus americanus) - 1st year shrub
-- Obedient Plant (Physostegia virginiana) - only 1 left!
+- Northern bush honeysuckle (Diervilla lonicera) - only 1 available! 🆕
+- Northern/hairy beardtongue (Penstemon hirsutus) 🆕
+- Obedient Plant (Physostegia virginiana)
 - Pale coneflower (Echinacea pallida)
-- Path Rush (Juncus tenuis) - only 1 (more soon)
+- Path Rush (Juncus tenuis)
 - Purple Coneflower (Echinacea purpurea)
+- Purple lovegrass (Eragrostis spectabilis)
 - Red Chokeberry (Aronia arbutifolia) - 1st year shrub/tree
-- Red Columbine (Aquilegia canadensis) - beginning to go dormant
-- Rose/swamp milkweed (Asclepias incarnata)
-- Roundheaded bush clover (Lespedeza capitata) 🆕 - only 1 left for the season!
+- *Red Columbine (Aquilegia canadensis)*
+- *Rose/swamp milkweed (Asclepias incarnata)*
+- Roundheaded bush clover (Lespedeza capitata)  - only 1 left for the season!
 - Seaside Goldenrod (Solidago sempervirens)
+- Showy goldenrod (Solidago speciosa) 🆕 - only 1 available
 - Showy tick-trefoil (Desmodium canadense)
-- Side Oats Grama (Bouteloua curtipendula) 🆕
-- Small yellow wild indigo (Baptisia tinctoria) 🆕 - only one left for the season!
+- Side Oats Grama (Bouteloua curtipendula)
+- Smallspike false-nettle (Boehmeria cylindrica)
 - Smooth blue aster (Symphyotrichum laeve)
 - Spotted bee-balm (Monarda punctata)
+- Spotted Joe-pye weed (Eutrochium maculatum) 🆕
+- Steeplebush (Spiraea tomentosa) 🆕 - 1st year shrub
+- Sweet goldenrod (Solidago odora) 🆕 - only 1 available
 - Tall white aster (Doellingeria umbellata)
-- Water horehound (Lycopus americanus)
+- Virgin's bower clematis (Clematis virginiana) - back in stock!
+- Virginia mountain-mint (Pycnanthemum virginianum) - back in stock
+- *Water horehound (Lycopus americanus)*
 - White turtlehead (Chelone glabra)
+- White vervain (Verbena urticifolia) 🆕
 - White wood aster (Eurybia divaricata) 🆕
-- Whorled milkweed (Asclepias verticillata)
+- *Whorled milkweed (Asclepias verticillata)*
 - Wild mint (Mentha arvensis)
 - Wild strawberry (Fragaria virginiana) - back in stock!
+- Wreath/bluestem goldenrod (Solidago caesia)
 - Yellow prairie grass (Indian grass) (Sorghastrum nutans)
 
 ### Annual Natives
 
 Pints $4; 1.5 pint $7; quart or 2 quart $8
 
-- Clammy weed (Polanisia dodecandra)
-- Partridge pea (Chamaecrista fasciculata)
+*Italicized* plants are discounted because the blooms have passed.
+
+- *Clammy weed (Polanisia dodecandra)*
+- *Partridge pea (Chamaecrista fasciculata)*
 - Eastern black nightshade (Solanum emulans or ptycanthum)
 - Indian tobacco (Lobelia inflata)
 
@@ -96,19 +121,12 @@ We also have three small Christmas/Thanksgiving cacti available for sale at $2.
 
 The following plants are (imho) not ready to sell yet, but will be available soon. If you are interested regardless -- or wish to reserve them for later -- you can email me at lise@redtrilliumgardens.com.
 
-**Note:** at this point in the season (September 8, 2025), many species are beginning to go dormant. Thus I can't guarantee that all of these will be available this year.
+**Note:** at this point in the season, I can't guarantee that all of these will be available this year.
 
-- Black elderberry (Sambucus canadensis)
-- Blue flag iris (Iris versicolor)
-- Bottlebrush grass (Elymus histrix)
-- Calico aster (Symphyotrichum lateriflorum)
-- Cardinal flower (Lobelia cardinalis)
-- Clustered mountain-mint (Pycnanthemum muticum)
-- Common bur sedge (Carex grayi)
+- Field pussytoes (Antennaria neglecta)
+- Harebell (Campanula rotundifolia)
 - Pearly everlasting (Anaphalis margaritacea)
 - Pennsylvania sedge (Carex pensylvanica)
-- Smallspike false nettle (Boehmeria cylindrica)
-- Virginia mountain-mint (Pycnanthemum virginianum)
 
 ... and more, as we pot them up!
 
@@ -117,3 +135,4 @@ The following plants are (imho) not ready to sell yet, but will be available soo
 - **Groton Farmers' Market**. Fridays through October 17th, 3-7pm, at the Williams Barn Property (160 Chicopee Row) in Groton, MA. We will not attend every market, however -- we'll update here when we know specific dates.
 - **Leominster Farmers' Market**. First Saturday of the month through October 2025, usually 11am-2pm, in Monument Square. Next and final date is October 4.
 - **The Farmers' Market at Forest Park**. With Grow Native Massachusetts. Tuesday, September 30th, 12:30pm to 6pm, at 300 Sumner Avenue in Springfield, MA.
+- **Fall Native Plant Sale**. Sunday, October 5, 2025, from 10am to 4pm, at my home/nursery in Lunenburg, MA. [Email lise@redtrilliumgardens.com](mailto:lise@redtrilliumgardens.com) for the exact address (so we know that you're a real person and not an internet weirdo!)
