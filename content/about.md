@@ -20,7 +20,7 @@ As much as possible **we grow from seed**, to encourage biodiversity. We also pr
 
 We do propagate from cuttings some species that are difficult to propagate from seed. All cuttings are collected in small amounts on my own property, or places I've explicitly been given permission to collect.
 
-**We absolutely *do not* collect plants from the wild**. (Unless it's from our seed beds in the "wilds" of our property). 
+**We absolutely *do not* collect whole plants from the wild**. (Unless it's from the "wilds" of our property). 
 
 **No neonicotinoids or pyrethroids** are used in growing our plants. In general we try to **reduce pesticide usage** -- both "natural" and synthetic substances. We do occasionally use products like sulfur or neem oil, but generally we prefer avoid to creating the conditions where harmful organisms thrive.
  
@@ -32,18 +32,9 @@ We aim to keep a low environmental profile, operating with **reused materials** 
 
 As our goal is to get as many people to grow native plants as possible, it behooves us to make them affordable! 
 
-We are in close contact with other native plant nurseries in Massachusetts, and try to peg our prices to theirs, as we often do markets beside them. To that end our pricing in 2024 was:
+We are in close contact with other native plant nurseries in Massachusetts, and try to peg our prices to theirs. These prices may still be higher than prices you're used to at conventional nurseries and big box stores, however. These are indie, artisanal plants! 
 
-- $5 pint pot of a perennial
-- $3 pint pot of an annual
-- $7 half quart or quart pot of an annual
-- $10 for a 1-2 quart pot of a perennial
-
-Prices for 2025 are still TBD, but are likely to increase by a small amount. We are also likely to discontinue or decrease usage of pint pots, to make our sizing more consistent with other nurseries and to reduce how many times we have to up-pot.
-
-We will also change how we sell annuals in 2025 -- more details TBD.
-
-Note that these prices may be higher than prices you're used to at conventional nurseries and big box stores. These are indie, artisanal plants! 
+Prices for 2026 are still TBD, but it is likely they will increase from 2025, especially for smaller sizes, which we have been underpricing in the last two years.
 
 Finally, we offer several ways to receive a discount on our plants-- see [How to Help](/how-to-help/) for more details. 
 
@@ -66,7 +57,7 @@ If you want to be updated as soon as we post a new article, [subscribe to our em
 
 Red Trillium Gardens is the work of love of [Lise Fracalossi](http://lisefrac.net) (aka, me) of Lunenburg, MA.
 
-While I've always enjoyed the natural world in general, and plants in particular, during the pandemic I came to understand the importance of native plants as the basis of the entire ecosystem. I began pursuing my Native Plant Studies certificate from Native Plant Trust in late 2022. 
+While I've always enjoyed the natural world in general, and plants in particular, during the pandemic I came to understand the importance of native plants as the basis of the entire ecosystem. I began pursuing my Native Plant Studies certificate from Native Plant Trust in late 2022, and completed it in late 2025.
 
 When I lost my corporate job in 2023, I decided it was a good time to try something new. The nursery is thus an opportunity to learn more about native plants, to teach folks about native plants, and to advocate for native plants. 
 

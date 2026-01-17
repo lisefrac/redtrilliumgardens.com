@@ -5,6 +5,7 @@ menu:
   main:
     weight: 2
     name: "Buy Plants"
+headless: true
 ---
 
 _(Updated: October 6, 2025)_
