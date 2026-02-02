@@ -100,7 +100,7 @@ Without further ado: **our much anticipated list** of what we're sowing for the 
 | Polemonium reptans                   | Jacob’s Ladder                              |         |
 | Polygonatum biflorum                 | smooth Solomon's seal                       |         |
 | Prunella vulgaris var. lanceolata    | self heal, lance-leaved self-heal           |         |
-| Pseudognaphalium obtusifolium        | sweet everlasting                           | 🔁      |
+| Pseudognaphalium obtusifolium        | sweet everlasting                           | 🥀      |
 | Pycnanthemum incanum                 | hoary mountain-mint                         | 🔁      |
 | Pycnanthemum muticum                 | clustered mountain-mint                     | 🔁      |
 | Pycnanthemum virginianum             | Virginia mountain-mint                      | 🔁      |
