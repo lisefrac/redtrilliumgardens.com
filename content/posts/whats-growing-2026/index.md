@@ -178,7 +178,6 @@ The following is a list of what species we expect to have leftover from last yea
 | Penstemon hirsutus                       | Northern/hairy beardtongue                           |
 | Physocarpus opulifolius                  | Common ninebark                                      |
 | Physostegia virginiana                   | Obedient plant                                       |
-| Pseudognaphalium obtusifolium            | Sweet everlasting                                    |
 | Pycnanthemum incanum                     | Hoary mountain-mint                                  |
 | Pycnanthemum muticum                     | Clustered mountain-mint                              |
 | Pycnanthemum virginianum                 | Virginia mountain-mint                               |
