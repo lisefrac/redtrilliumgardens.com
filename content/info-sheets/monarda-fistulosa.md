@@ -10,20 +10,13 @@ featured_image: '/images/Monarda_fistulosa_Arkansas.jpg'
 
 **Life cycle:** Perennial
 
-**Seed source(s):** 
-
-- Garden-collected from plants sourced from Native Plant Trust (Framingham, MA)
-- Wild Seed Project, North Yarmouth, ME
-- Blue Stem Natives, Norwell, MA
-
 **Light:** Full/Partial Sun
 
 **Soil Moisture:** Medium-Wet to Dry
 
-**Height:** 2-4’  **Spread**: 12-18"  **Spacing**: 2-3’
+**Height:** 2-4’<br />**Spread**: 12-18"<br />**Spacing**: 2-3’
 
-**Blooms**: July-September
-
+**Blooms**: July-September<br />
 **Bloom Color:** purple
 
 **Natural Habitat:** Woodlands, edges, meadows, and disturbed areas

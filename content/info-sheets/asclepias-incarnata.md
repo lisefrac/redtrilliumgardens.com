@@ -10,15 +10,13 @@ featured_image: 'images/asclepias-incarnata-featured.jpg'
 
 **Life cycle:** Perennial
 
-**Seed source(s)**: Wild Seed Project, Cumberland County, ME
-
 **Light:** Full/Partial Sun
 
 **Soil Moisture:** Wet to Medium Soil
 
-**Height**: 3-4’ **Spread**: 12-24" **Spacing**: 18-36”
+**Height**: 3-4’<br />**Spread**: 12-24"<br />**Spacing**: 18-36”
 
-**Blooms**: June-August	**Bloom Color**: pink
+**Blooms**: June-August<br />**Bloom Color**: pink
 
 **Natural Habitat:** Moist meadows, ditches, and pond edges
 

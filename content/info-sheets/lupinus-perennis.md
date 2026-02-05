@@ -9,16 +9,13 @@ description: "Information and care for sundial lupine (Lupinus perennis), sold a
 
 **Life cycle:** Perennial
 
-**Seed source(s):** Wild Seed Project, North Yarmouth, ME
-
 **Light:** Full/Partial Sun
 
 **Soil Moisture:** Medium-Dry to Dry
 
-**Height**: 1-2’  **Spread**: 8-12"  **Spacing**: 10-18”
+**Height**: 1-2’<br />**Spread**: 8-12"<br />**Spacing**: 10-18”
 
-**Blooms:** May-July
-
+**Blooms:** May-July<br />
 **Bloom Color:** purple
 
 **Natural Habitat:** Pine barrens, woodlands, meadows, and roadsides with dry, sandy soils

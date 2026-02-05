@@ -11,16 +11,13 @@ featured_image: '/images/1620px-Pycnanthemum_muticum_heds_and_bracts_001.jpeg'
 
 **Life cycle:** Perennial
 
-**Seed source(s):** Wild Seed Project, North Yarmouth, ME
-
 **Light**: Full/Partial Sun
 
 **Soil Moisture:** Medium to Medium-Dry
 
-**Height:** 2-4’  **Spread**: 1-3’ **Spacing**: 18-24”
+**Height:** 2-4’<br />**Spread**: 1-3’<br />**Spacing**: 18-24”
 
-**Blooms**: July-September
-
+**Blooms**: July-September<br />
 **Bloom Color:** white
 
 **Natural Habitat:** Meadows and thickets with moist to dry soils

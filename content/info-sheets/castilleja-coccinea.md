@@ -13,15 +13,13 @@ featured_image: 'images/Castilleja_coccinea_9-eheep.jpg'
 
 **Life cycle:** Annual/Biennial
 
-**Seed source(s):** Prairie Moon Nursery, Winona, MN
-
 **Light:** Full/Partial Sun
 
 **Soil Moisture:** Medium-Wet to Medium-Dry
 
-**Height**: 2’ **Spacing**: 8-12”
+**Height**: 2’<br />**Spacing**: 8-12”
 
-**Blooms**: May-June  **Bloom Color:** Red	
+**Blooms**: May-June<br />**Bloom Color:** Red	
 
 **Natural Habitat:** Man-made or disturbed habitats, meadows and fields, swamps
 

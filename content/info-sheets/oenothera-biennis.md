@@ -10,16 +10,13 @@ featured_image: '/images/oenothera-biennis.jpg'
 
 **Life cycle:** Biennial
 
-**Seed source(s):** Prairie Moon Nursery, Winona, MN
-
 **Light:** Full/Partial Sun
 
 **Soil Moisture:** Medium-Wet to Dry
 
-**Height:** 6’ Spacing: 1-2’
+**Height:** 6’<br />**Spacing**: 1-2’
 
-**Blooms:** June-October
-
+**Blooms:** June-October<br />
 **Bloom Color:** Yellow
 
 **Natural Habitat:** Recently disturbed soils of prairies, old fields, roadsides and other sunny medium to dry sites.

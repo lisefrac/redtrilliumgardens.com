@@ -6,21 +6,17 @@ featured_image: '/images/Monarda_punctata.jpg'
 
 ## _Monarda punctata_
 
-
 **Native to:**  Connecticut, Massachusetts, Vermont
 
 **Life cycle:** Perennial/self-sowing Biennial
-
-**Seed source(s):** Wild Seed Project, Cumberland County, ME
 
 **Light:** Full/Partial Sun
 
 **Soil Moisture:** Medium-Dry to Dry
 
-**Height**: 2-3’  **Spread**: 12-24"  **Spacing**: 8-12”
+**Height**: 2-3’<br />**Spread**: 12-24"<br />**Spacing**: 8-12”
 
-**Blooms**: July-September
-
+**Blooms**: July-September<br />
 **Bloom Color:** pink/purple
 
 **Natural Habitat:** Dry sandy or gravelly soils of beaches, pine barrens, woodland edges, and roadsides.

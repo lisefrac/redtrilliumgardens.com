@@ -9,16 +9,15 @@ description: "Information and care for smooth blue aster (Symphyotrichum laeve),
 
 **Life cycle:** Perennial
 
-**Seed source(s):** Wild Seed Project, North Yarmouth, ME
-
 **Light:** Full/Partial Sun
 
 **Soil Moisture:** Medium-Wet to Medium-Dry
 
-**Height**: 1-4’  **Spread**: 12-18”  **Spacing**: 18-24”
+**Height**: 1-4’<br />
+**Spread**: 12-18”<br />
+**Spacing**: 18-24”
 
-**Blooms**: August-October
-
+**Blooms**: August-October<br />
 **Bloom Color:** Blue, purple
 
 **Natural Habitat:** Dry, open woods and fields; disturbed areas and roadsides

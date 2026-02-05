@@ -10,19 +10,13 @@ featured_image: 'images/echinocystis-lobata-featured.jpg'
 
 **Life cycle:** Annual
 
-**Seed source(s):**
-
-- Wild Seed Project, North Yarmouth, ME
-- Oakhaven Sanctuary, Woburn, MA
-
 **Light:** Full/Partial Sun
 
 **Soil Moisture:** Wet to Medium
 
-**Height:** 15-20’  **Spacing**: 3-10’
+**Height:** 15-20’<br />**Spacing**: 3-10’
 
-**Blooms**: July-September
-
+**Blooms**: July-September<br />
 **Bloom Color:** white
 
 **Natural Habitat**: Woodland edges, thickets, and roadsides

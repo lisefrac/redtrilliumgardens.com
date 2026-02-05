@@ -9,19 +9,13 @@ featured_image: '/images/ageratina-hellertown-pa-october-2023.jpeg'
 
 **Life cycle:** Short-Lived Perennial
 
-**Seed source(s):** 
-
-- Wild Seed Project, North Yarmouth, ME
-- Wild collected, Bethlehem, PA
-
 **Light**: Partial/Full Shade
 
 **Soil Moisture:** Medium-Wet to Medium-Dry
 
-**Height**: 2-3’  **Spread**: 2-3’  **Spacing**: 1-3’
+**Height**: 2-3’<br />**Spread**: 2-3’<br />**Spacing**: 1-3’
 
-**Blooms**: July to October
-
+**Blooms**: July to October<br />
 **Bloom Color:** White
 
 **Natural Habitat:** Deciduous woodland understories, shady roadside edges, and disturbed areas

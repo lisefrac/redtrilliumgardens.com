@@ -10,15 +10,13 @@ featured_image: 'images/asclepias-syriaca-featured.jpeg'
 
 **Life cycle:** Perennial
 
-**Seed source(s):** Wild-collected in Lunenburg, MA
-
 **Light:** Full/Partial Sun
 
 **Soil Moisture:** Medium-Wet to Dry
 
-**Height**: 24-42"  **Spread**: 36-60"  **Spacing**: 24-36"
+**Height**: 24-42"<br />**Spread**: 36-60"<br />**Spacing**: 24-36"
 
-**Blooms:** June-August	**Bloom Color:** pink
+**Blooms:** June-August<br />**Bloom Color:** pink
 
 **Natural Habitat:** farm fields, ditches, and disturbed sites
 

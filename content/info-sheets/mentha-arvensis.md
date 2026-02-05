@@ -9,16 +9,13 @@ description: "Information and care for wild mint (Mentha arvensis or canadensis)
 
 **Life cycle:** Perennial
 
-**Seed source(s):** Prairie Moon Nursery, Winona, MN
-
 **Light:** Full/Partial Sun
 
 **Soil Moisture:** Wet to Medium
 
-**Height**: 12-18”  **Spread**: 18-24” **Spacing**: 1-2’
+**Height**: 12-18”<br />**Spread**: 18-24”<br />**Spacing**: 1-2’
 
-**Blooms**: July-September
-
+**Blooms**: July-September<br />
 **Bloom Color:** White, purple
 
 **Natural Habitat:** Man-made/disturbed habitats, meadows and fields, shores of rivers or lakes, swamps, wetland margins

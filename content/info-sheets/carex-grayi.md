@@ -9,16 +9,13 @@ description: "Information and care for common bur sedge (Carex grayi), sold at R
 
 **Life cycle:** Perennial
 
-**Seed source(s):** Prairie Moon Nursery, Winona, MN
-
 **Light:** Full Sun to Full Shade
 
 **Soil Moisture:** Wet to Medium
 
-**Height:** 3’ Spacing: 1-2’
+**Height:** 3’<br />**Spacing**: 1-2’
 
-**Blooms**: May-August
-
+**Blooms**: May-August<br />
 **Bloom Color:** Nondescript
 
 **Natural Habitat:** Grows in moist environments as slowly-spreading colonies. It is an uncommon sedge because it thrives in both woodlands and wetlands.

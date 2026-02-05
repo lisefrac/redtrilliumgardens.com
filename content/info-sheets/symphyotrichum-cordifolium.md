@@ -10,16 +10,13 @@ featured_image: '/images/symphyotrichium-cordifolium-willsboro-oct2022.jpg'
 
 **Life cycle:** Perennial
 
-**Seed source(s):** Wild Seed Project, North Yarmouth, ME
-
 **Light:** Partial/Full Shade
 
 **Soil Moisture:** Medium to Medium-Dry
 
-**Height:** 1-3’  Spread: 18-24” Spacing: 18-24”
+**Height:** 1-3’<br />**Spread**: 18-24”<br />**Spacing**: 18-24”
 
-**Blooms:** September, October
-
+**Blooms:** September, October<br />
 **Bloom Color:** Pale blue to purple
 
 **Natural Habitat:** Wet meadows and ditches

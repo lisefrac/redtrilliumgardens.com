@@ -10,16 +10,13 @@ featured_image: 'images/lobelia-cardinalis-1.jpeg'
 
 **Life cycle:** Short-Lived Perennial
 
-**Seed source(s):** Wild-collected in Lunenburg, MA
-
 **Light:** Full/Partial Sun
 
 **Soil Moisture:** Wet to Medium-Wet
 
-**Height:** 2-4’   **Spread**: 8-12”  **Spacing**: 6-16”
+**Height:** 2-4’<br />**Spread**: 8-12”<br />**Spacing**: 6-16”
 
-**Blooms**: July-September
-
+**Blooms**: July-September<br />
 **Bloom Color**: Red
 
 **Natural Habitat**: Wetlands and streamsides

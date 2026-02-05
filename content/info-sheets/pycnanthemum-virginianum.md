@@ -10,16 +10,13 @@ featured_image: "/images/pycnanthemum-virginianum.jpeg"
 
 **Life cycle:** Perennial
 
-**Seed source(s):** Wild Seed Project, North Yarmouth, ME
-
 **Light:** Full/Partial Sun
 
 **Soil Moisture:** Wet to Medium-Dry
 
-**Height**: 2-3’  **Spread:** 1-2' **Spacing**: 12-18”
+**Height**: 2-3’<br />**Spread:** 1-2'<br />**Spacing**: 12-18”
 
-**Blooms**: June-September
-
+**Blooms**: June-September<br />
 **Bloom Color:** white
 
 **Natural Habitat:** Dry to moist meadows, ditches, and roadsides.

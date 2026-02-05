@@ -9,16 +9,13 @@ description: "Information and care for multi-hued yarrow (Achillea millefolium),
 
 **Life cycle:** Perennial
 
-**Seed source(s):** Hudson Valley Seed Co, Accord, NY
-
 **Light:** Full/Partial Sun
 
 **Soil Moisture:** Medium-Wet to Dry
 
-**Height:** 12-18”  **Spacing**: 12”
+**Height:** 12-18”<br />**Spacing**: 12”
 
-**Blooms:** June-September; may not bloom until second year
-
+**Blooms:** June-September; may not bloom until second year<br />
 **Bloom Color:** golden, white, and coral
 
 **Natural Habitat:** roadsides and open fields

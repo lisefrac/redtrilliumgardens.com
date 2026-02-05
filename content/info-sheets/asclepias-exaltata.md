@@ -10,15 +10,13 @@ featured_image: 'images/poke-milkweed-featured.jpeg'
 
 **Life cycle:** Perennial
 
-**Seed source(s):** Prairie Moon Nursery, Winona, MN
-
 **Light:** Full/Partial Sun
 
 **Soil Moisture:** Medium-Wet to Medium-Dry
 
-**Height:** 18-60”	**Spread:** 12-24"	**Spacing:** 24-36”
+**Height:** 18-60”<br />**Spread:** 12-24"<br />**Spacing:** 24-36”
 
-**Blooms:** June-July	**Bloom Color:** white
+**Blooms:** June-July<br />**Bloom Color:** white
 
 **Natural Habitat:** Upland woods to rich woodland openings
 

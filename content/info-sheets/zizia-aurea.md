@@ -9,19 +9,13 @@ description: "Information and care for golden alexander (Zizia aurea), sold at R
 
 **Life cycle:** Perennial
 
-**Seed source(s):**
-
-- Wild Seed Project, North Yarmouth, ME
-- Garden collected in Lunenburg, MA from Native Plant Trust plants
-
 **Light:** Full/Partial Sun
 
 **Soil Moisture:** Medium-Wet to Medium-Dry
 
-**Height**: 1-3’   **Spread**: 10-14”  **Spacing**: 1-2’
+**Height**: 1-3’<br />**Spread**: 10-14”<br />**Spacing**: 1-2’
 
-**Blooms**: April-June
-
+**Blooms**: April-June<br />
 **Bloom Color:** Yellow
 
 **Natural Habitat:** Wet meadows and thickets

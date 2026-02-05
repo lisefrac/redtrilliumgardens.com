@@ -10,18 +10,13 @@ featured_image: 'images/chamaecrista-fasciculata.jpeg'
 
 **Life cycle:** Annual (self-sows)
 
-**Seed source(s):** 
-
-- Wild Seed Project, North Yarmouth, ME
-- Garden collected in Lunenburg, MA
-
 **Light:** Full/Partial Sun
 
 **Soil Moisture:** Medium to Dry
 
-**Height:** 6-24”	**Spread:** 6-14"	**Spacing:** 6-12”
+**Height:** 6-24”<br />**Spread:** 6-14"<br />**Spacing:** 6-12”
 
-**Blooms:** July-September	**Bloom Color:** Yellow
+**Blooms:** July-September<br />**Bloom Color:** Yellow
 
 **Natural Habitat:** Meadows, grasslands, and disturbed areas
 
