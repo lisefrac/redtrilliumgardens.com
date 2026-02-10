@@ -33,7 +33,7 @@ We also plan to have:
 - New England aster (Symphyotrichum novae-angliae)
 - Northern beardtongue (Penstemon hirsutus)
 - Pennsylvania sedge (Carex pensylvanica)
-- Yarrow, multi-hued cultivar [(Achillea millefolium)]({{% relref "/info-sheets/achillea-millefolium-multihued-cultivar/" %}})
+- Yarrow, multi-hued cultivar [(Achillea millefolium)]({{% relref "/info-sheets/achillea-millefolium/" %}})
 
 ... and probably others I'm forgetting! 
 
