@@ -1,6 +1,7 @@
 ---
-title: "Yarrow, Multi-Hued Cultivar (Achillea millefolium)"
+title: "Yarrow, Multi-Hued Cultivar"
 description: "Information and care for multi-hued yarrow (Achillea millefolium), sold at Red Trillium Gardens"
+draft: true
 ---
 
 ## _Achillea millefolium_
