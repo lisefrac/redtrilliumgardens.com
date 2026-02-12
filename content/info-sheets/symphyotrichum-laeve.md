@@ -1,6 +1,8 @@
 ---
 title: "Smooth Blue Aster"
 description: "Information and care for smooth blue aster (Symphyotrichum laeve), sold at Red Trillium Gardens"
+featured_image: "/images/Smooth_Blue_Aster_(Symphyotrichum_laeve)_-_Flickr_-_wackybadger.jpg"
+bg_alignment: bg-top
 ---
 
 ## _Symphyotrichum laeve_
@@ -29,3 +31,5 @@ description: "Information and care for smooth blue aster (Symphyotrichum laeve),
 > "Smooth aster boasts purple flowers and metallic blue-gray leaves that are attractive all season long. This drought-tolerant species is a great choice for planting along woodland edges or in patial shade, and attracts numerous pollinators, hosting the Cresent butterfly."
 > 
 > --Native Plant Trust
+
+{{< figure src="/images/Smooth_Blue_Aster_(Symphyotrichum_laeve)_-_Flickr_-_wackybadger.jpg" alt="Smooth blue aster (Symphyotrichum laeve)" title="Smooth blue aster (Symphyotrichum laeve)" attr="Photo (and featured image) by Joshua Mayer from Madison, WI, USA - Smooth Blue Aster (Symphyotrichum laeve), CC BY-SA 2.0" attrlink="https://commons.wikimedia.org/w/index.php?curid=97349804">}}
