@@ -34,4 +34,4 @@ featured_image: "/images/Solidago_caesia.jpg"
 > 
 > --Native Plant Trust
 
-{{< figure src="/images/Solidago_caesia.jpg" alt="Bluestem goldenrod (Solidago caesia)" title="Bluestem goldenrod (Solidago caesia)" attr="Photo (and featured image) by By Scott Detwiler - Own work, CC BY-SA 3.0" attrlink="https://commons.wikimedia.org/w/index.php?curid=28408595">}}
+{{< figure src="/images/Solidago_caesia.jpg" alt="Bluestem goldenrod (Solidago caesia)" title="Bluestem goldenrod (Solidago caesia)" attr="Photo (and featured image) by Scott Detwiler - Own work, CC BY-SA 3.0" attrlink="https://commons.wikimedia.org/w/index.php?curid=28408595">}}

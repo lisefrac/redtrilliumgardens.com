@@ -1,7 +1,7 @@
 ---
 title: "Rose Milkweed (Swamp Milkweed)"
 description: "Information and care for Asclepias incarnata (rose milkweed), sold at Red Trillium Gardens"
-featured_image: 'images/asclepias-incarnata-featured.jpg'
+featured_image: '/images/AscInc-jasper-shide-CC-150756669.jpg'
 ---
 
 ## _Asclepias incarnata_
@@ -16,7 +16,7 @@ featured_image: 'images/asclepias-incarnata-featured.jpg'
 
 **Height**: 3-4’<br />**Spread**: 12-24"<br />**Spacing**: 18-36”
 
-**Blooms**: June-August<br />**Bloom Color**: pink
+**Blooms**: June-August<br />**Bloom Color**: Pink
 
 **Natural Habitat:** Moist meadows, ditches, and pond edges
 
@@ -26,8 +26,4 @@ featured_image: 'images/asclepias-incarnata-featured.jpg'
 > 
 > --Wild Seed Project
 
-{{< figure src="/images/asclepias-incarnata.jpg" alt="Asclepias incarnata (swamp or rose milkweed), a cluster of pink flowers with large, opposite leaves" title="Asclepias incarnata (swamp or rose milkweed). Photo from Native Plant Trust.">}}
-
-___
-
-*Featured image: Photo by Native Plant Trust*
+{{< figure src="/images/AscInc-jasper-shide-CC-150756669.jpg" alt="Asclepias incarnata (swamp or rose milkweed), a cluster of pink flowers with long, thin, opposite leaves" title="Asclepias incarnata (swamp or rose milkweed)." attr="Photo (and featured image) by Jasper Shide - Own work, CC0" attrlink="https://commons.wikimedia.org/w/index.php?curid=150756669">}}
