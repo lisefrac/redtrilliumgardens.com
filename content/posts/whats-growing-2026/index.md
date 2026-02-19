@@ -128,7 +128,7 @@ Without further ado: **our much anticipated list** of what we're sowing for the 
 | Trichostema dichotomum               | blue curls                                  | 🥀      |                            |
 | Trillium grandiflorum                | large white trillium                        | 📆      |                            |
 | Verbena hastata                      | blue vervain                                | 🔁      | ✅                          |
-| Vernonia noveboracensis              | New York ironweed                           |         |                            |
+| Vernonia noveboracensis              | New York ironweed                           |         | ✅                            |
 | Viburnum acerifolium                 | maple leaf viburnum                         | 📆      |                            |
 | Zizia aurea                          | golden alexanders                           | 🔁      | ✅                          |
 
@@ -190,7 +190,6 @@ The following is a list of what species we expect to have leftover from last yea
 | Rudbeckia laciniata                      | Cutleaf coneflower                                   |
 | Sambucus canadensis                      | Black elderberry                                     |
 | Schizachyrium scoparium                  | Little bluestem                                      |
-| Solanum emulans (S. ptycanthum)          | Eastern black nightshade                             |
 | Solidago caesia                          | Wreath/bluestem goldenrod                            |
 | Solidago nemoralis                       | Gray goldenrod                                       |
 | Solidago puberula                        | Downy goldenrod                                      |
