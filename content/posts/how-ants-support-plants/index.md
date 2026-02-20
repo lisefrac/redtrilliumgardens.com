@@ -1,6 +1,6 @@
 ---
 title: "Ants in your plants! How ants support native flora (and vice versa)"
-date: "2026-02-17"
+date: "2026-02-20"
 tags: 
   - "ants"
   - "myrmecochory"
