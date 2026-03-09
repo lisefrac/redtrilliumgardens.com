@@ -14,9 +14,9 @@ To this end, we commit to...
 
 Unlike most conventional nurseries, we know the **"provenance"** of our plants, because we grow them ourselves, in our own backyard. 
 
-We start with seeds we have either **collected ethically or purchased from reputable third parties** (eg. Wild Seed Project, Prairie Moon Nursery). We only grow things we can ID by scientific name, ideally to species level. Sometimes a species epithet is the difference between a valuable native and a dangerous non-native/invasive!
+We start with seeds we have either **collected ethically or purchased from reputable third parties** (eg. [Wild Seed Project](https://wildseedproject.net/), [Prairie Moon Nursery](https://www.prairiemoon.com/)). We only grow things we can ID by scientific name, ideally to species level. Sometimes a species epithet is the difference between a valuable native and a dangerous non-native/invasive!
 
-As much as possible **we grow from seed**, to encourage biodiversity. We also prefer seeds with a local-to-New-England ecotype, which may be better adapted to the growing conditions here. This isn't possible for everything, however, so sometimes we use seeds sourced from different ecoregions (eg. Prairie Moon's stock) of otherwise native plants. 
+As much as possible **we grow from seed**, to encourage biodiversity. We also prefer seeds with a local-to-New-England ecotype, which may be better adapted to the growing conditions here. This isn't possible for everything, however, so we supplement sourced from different ecoregions (eg. Prairie Moon's stock) of otherwise native plants. 
 
 We do propagate from cuttings some species that are difficult to propagate from seed. All cuttings are collected in small amounts on my own property, or places I've explicitly been given permission to collect.
 
@@ -24,19 +24,19 @@ We do propagate from cuttings some species that are difficult to propagate from 
 
 **No neonicotinoids or pyrethroids** are used in growing our plants. In general we try to **reduce pesticide usage** -- both "natural" and synthetic substances. We do occasionally use products like sulfur or neem oil, but generally we prefer avoid to creating the conditions where harmful organisms thrive.
  
-**We limit our usage of peat moss**, which is a non-renewable resource (in human lifetimes, at least). Instead we favor products like coconut coir or (renewable) sphagnum moss. 
+**We limit our usage of peat moss**, which is a non-renewable resource (in human lifetimes, at least). Instead we favor products like coconut coir or (renewable) sphagnum moss. (ETA: With further research, my opinion on this is changing. Currently we try to strike a balance between peat and coir, both of which have unique environmental impacts).
 
-We aim to keep a low environmental profile, operating with **reused materials** where we can. When we buy, we try to source at local businesses. (And hey, our local cannabis grower's supply has the best prices on potting soil, after all!)
+We aim to keep a low environmental profile, operating with **reused materials** where we can. When we buy, we try to source at **local businesses**. (And hey, our local cannabis grower's supply has the best prices on potting soil, after all!)
 
 ### Charging affordable prices for our plants.
 
 As our goal is to get as many people to grow native plants as possible, it behooves us to make them affordable! 
 
-We are in close contact with other native plant nurseries in Massachusetts, and try to peg our prices to theirs. These prices may still be higher than prices you're used to at conventional nurseries and big box stores, however. These are indie, artisanal plants! 
+According to our research, our prices are comparable to other native plant nurseries in Massachusetts. However, they may still be higher than prices you're used to at conventional nurseries and big box stores, however. These are indie, artisanal plants! 
 
 Prices for 2026 are still TBD, but it is likely they will increase from 2025, especially for smaller sizes, which we have been underpricing in the last two years.
 
-Finally, we offer several ways to receive a discount on our plants-- see [How to Help](/how-to-help/) for more details. 
+Finally, we offer several ways to receive a discount on our plants--see [How to Help](/how-to-help/) for more details. 
 
 ### Providing education about native species of New England
 
