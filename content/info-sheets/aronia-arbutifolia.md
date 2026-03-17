@@ -12,9 +12,9 @@ featured_image: "/images/Aronia_arbutifolia2475275707.jpg"
 
 **Light**: Full/Partial Sun
 
-**Soil Moisture:** Dry to Wet Soil
+**Soil Moisture:** Wet to Dry Soil
 
-**Height**: 5-12’<br/>**Spread**: 4-8”<br/>**Spacing**: 3-4’
+**Height**: 5-12’<br/>**Spacing**: 4-8’
 
 **Blooms**: Spring<br/>**Bloom Color:** White
 

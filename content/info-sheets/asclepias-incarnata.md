@@ -1,6 +1,6 @@
 ---
 title: "Rose Milkweed (Swamp Milkweed)"
-description: "Information and care for Asclepias incarnata (rose milkweed), sold at Red Trillium Gardens"
+description: "Information and care for rose milkweed (Asclepias incarnata), sold at Red Trillium Gardens"
 featured_image: '/images/AscInc-jasper-shide-CC-150756669.jpg'
 ---
 
