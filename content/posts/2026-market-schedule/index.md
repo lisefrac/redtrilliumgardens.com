@@ -14,7 +14,7 @@ As usual, we will be holding a **spring sale** at our home nursery. This is sche
 
 ## Leominster Farmers' Market
 
-Our current plan is to be at most of the Leominster Farmers' Market events organized by [North Central Mass Farmers Markets](https://www.ncmfarmersmarkets.com/). These are generally the **first Saturday of the month from June to October, 10am - 1pm, in Monument Square in downtown Leominster, MA**. The ones we'll attend are:  June 6th (time change to 3-7pm, during the Summer Stroll), July 5th, August 1st, and September 5th.
+Our current plan is to be at most of the Leominster Farmers' Market events organized by [North Central Mass Farmers Markets](https://www.ncmfarmersmarkets.com/). These are generally the **first Saturday of the month from June to October, 10am - 1pm, in Monument Square in downtown Leominster, MA**. The ones we'll attend are:  June 6th (time change to 3-7pm, during the Summer Stroll), (Sunday) July 5th, August 1st, and September 5th.
 
 We also plan to do the **final *indoor* market of the year, on Thursday, May 21st, 2026, 4-6pm, at Leominster City Hall.**
 
