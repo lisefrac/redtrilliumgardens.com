@@ -24,9 +24,10 @@ Note that this is *only regular* farmers' market we plan to do in 2026. We will 
 
 We are once again partnering with [Grow Native Massachusetts](https://grownativemass.org/) and other native plant nurseries to, well, pop up at farmers' markets across MA! Currently we are signed up to attend:
 
-- **Carlisle Route to Sustainability:** Sunday, May 3, 2026, 1-4pm, Carlisle, MA. Last year it was in the town center, but I'm unsure where it will be this year. More info as I have it!
+- **[Lunenburg Earth Day Community Celebration](https://www.facebook.com/share/1HmrPZvyaF/):** Wednesday, April 22, 2pm-6pm, TC Passios Building, 1025 Massachusetts Ave, Lunenburg, MA. Hey, right in my neck of the woods!
+- **[Carlisle Route to Sustainability](https://www.carlislema.gov/1239/Route-to-Sustainability-Day):** Sunday, May 3, 2026, 1-4pm, Carlisle Public School gym, Carlisle, MA. 
 - **Davis Square Farmers' Market:** Wednesday, May 20, 2026, from 12-6pm, 44 Day Street, Somerville, MA. Hopefully it will be warmer than last year's!
-- (tentative) **Ipswich River Watershed Association Riverfest:** Sunday, June 14, 2026, 1-4pm in Ipswich River Park, North Reading, MA. I say "tentative" only because right now I'm the only nursery signed up for this market!
+- **[Ipswich River Watershed Association Riverfest](https://www.ipswichriver.org/events/riverfest/):** Sunday, June 14, 2026, 1-4pm in Ipswich River Park, North Reading, MA. 
 - **Brookline Farmers' Market:** Thursday, June 18, 2026, 1:30-6:30pm, Centre Street West Parking Lot, Brookline, MA
 - **Central Square Farmers Market:** Monday, June 29, 2026, 12-6pm, 76 Bishop Allen Dr, Cambridge, MA 02139
 - **Wilmington Farmers' Market:** Sunday, July 12, 2026, 10am - 1pm, 140 Middlesex Ave, Wilmington, MA
@@ -37,8 +38,7 @@ We are once again partnering with [Grow Native Massachusetts](https://grownative
 
 We have also been invited to the following events in April:
 
-- **Lunenburg Earth Day:** Wednesday, April 22, 2pm-6pm, TC Passios Building, 1025 Massachusetts Ave, Lunenburg, MA. Times and location still tentative, last I spoke to the organizer.
-- **Agriculture in Action Expo**, Saturday, April 25, 2026, 10am-3pm, at Mount Wachusett Community College, Gardner, MA
+- **[Agriculture in Action Expo](https://www.facebook.com/share/1ANBUzCFjK/)**: Saturday, April 25, 2026, 10am-3pm, at Mount Wachusett Community College, Gardner, MA
 
 
 We hope to see you at one of these events! If you have a market you'd like us to attend, email lise@redtrilliumgardens.com!
