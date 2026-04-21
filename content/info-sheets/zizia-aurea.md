@@ -1,6 +1,7 @@
 ---
 title: "Golden Alexander"
 description: "Information and care for golden alexander (Zizia aurea), sold at Red Trillium Gardens"
+featured_image: "/images/Golden_Alexanders_Zizia_aurea_Plant_2000px.jpeg"
 ---
 
 ## _Zizia aurea_
@@ -31,3 +32,5 @@ description: "Information and care for golden alexander (Zizia aurea), sold at R
 > "Zizia aurea is one of those natives that every garden should have. It is fairly easy to grow and, although short-lived, will self-seed and persist in many sun/soil situations. Zizia is an important plant to a number of short-tongued insects that are able to easily reach the nectar in the small yellow flowers."
 > 
 > --Prairie Moon Nursery
+
+{{< figure src="/images/Golden_Alexanders_Zizia_aurea_Plant_2000px.jpeg" alt="Zizia aurea (Golden alexanders)" title="Zizia aurea (Golden alexanders)"  attr="Photo (and featured image) by and (c)2007 Derek Ramsey (Ram-Man) - Self-photographed, CC BY-SA 2.5" attrlink="https://commons.wikimedia.org/w/index.php?curid=2087781">}}
