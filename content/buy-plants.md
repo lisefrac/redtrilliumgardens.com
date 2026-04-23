@@ -5,14 +5,11 @@ menu:
   main:
     weight: 2
     name: "Buy Plants"
-headless: true
 ---
 
-_(Updated: October 6, 2025)_
+_(Updated: April 23, 2026)_
 
-As we do not have a storefront, the best way to purchase plants is to email us at [lise@redtrilliumgardens.com](mailto:lise@redtrilliumgardens.com) to arrange pickup at a local market or at our home in Lunenburg, MA. 
-
-While we won't be doing any more markets this season, **plants are available for purchase up until we put them to bed for the season** (around the end of November). We cannot guarantee success if plants are planted after a hard freeze, however.
+As we do not have a storefront, the best way to purchase plants is to email us at [lise@redtrilliumgardens.com](mailto:lise@redtrilliumgardens.com) to arrange pickup at a [local market](/posts/2026-market-schedule/), or by appointment at our home in Lunenburg, MA. 
 
 ## Available Now
 
@@ -22,72 +19,80 @@ Curious how many we have of each size and species? [View our detailed inventory 
 
 ### Perennial Natives
 
-*Italicized* plants are going dormant, and not all will be in a desirable state for purchase. 
+*Italicized* plants are still waking up from being dormant for the winter, and so may not look like much yet!
 
-Pricing - pint $6, 1.5 pint $8, 1-quart $10, 2-quart $14, or as otherwise marked. Dormant plants have been marked down by $1.
+Pricing - pint $8, quart $12, 2-quart $20, or as otherwise marked. 
 
 - Allegheny monkey flower (Mimulus ringens)
-- Black elderberry (Sambucus canadensis)
 - Blue flag iris (Iris versicolor)
 - Blue lobelia (Lobelia siphilitica)
 - Blue vervain (Verbena hastata)
 - Boneset (Eupatorium perfoliatum)
 - Bottlebrush grass (Elymus histrix)
-- *Buttonbush (Cephalanthus occidentalis) - 1st year shrub*
+- *Buttonbush (Cephalanthus occidentalis) - 2nd year shrub*
+- Canada mayflower (Maianthemum canadense)
 - Calico aster (Symphyotrichum lateriflorum)
 - Cardinal flower (Lobelia cardinalis)
 - Clustered mountain-mint (Pycnanthemum muticum)
 - *Coastal plain Joe-pye weed (Eutrochium dubium)*
 - Common bur sedge (Carex grayi)
 - *Common milkweed (Asclepias syriaca)*
-- *Common ninebark (Physocarpus opulifolius) - 1st year shrub/tree*
+- Common ninebark (Physocarpus opulifolius) - 2nd year shrub/tree
 - Culver's root (Veronicastrum virginicum) - only 1 available!
 - Cutleaf coneflower (Rudbeckia laciniata)
 - Downy goldenrod (Solidago puberula)
 - Flowering raspberry (Rubus odoratus) - 1st year shrub
+- Foxglove beardtongue (Penstemon digitalis)
 - Golden alexanders (Zizia aurea)
 - Grass-leaved goldenrod (Euthamia graminifolia)
-- Heart leaved alexanders (Zizia aptera)
+- Gray goldenrod (Solidago nemoralis) - only 1 available for the season!
+- Heart leaved alexanders (Zizia aptera) - only 1 left!
 - Hemp dogbane (Apocynum cannabinum)
 - Hoary mountain-mint (Pycnanthemum incanum)
 - Little bluestem (Schizachyrium scoparium)
 - New England aster (Symphyotrichum novae-angliae)
-- New Jersey tea (Ceanothus americanus) - 1st year shrub
+- New Jersey tea (Ceanothus americanus) - 2nd year shrub - only 1 left!
 - Northern/hairy beardtongue (Penstemon hirsutus)
+- Partridgeberry (Mitchella repens) - only 2 available!
 - Path Rush (Juncus tenuis)
+- Pearly everlasting (Anaphalis margaritacea)
+- Purple coneflower (Echinacea purpurea)
 - Purple lovegrass (Eragrostis spectabilis)
-- Red Chokeberry (Aronia arbutifolia) - 1st year shrub/tree
-- *Red Columbine (Aquilegia canadensis)*
+- Red Chokeberry (Aronia arbutifolia) - 2nd year shrub/tree
+- Red Columbine (Aquilegia canadensis)
 - *Rose/swamp milkweed (Asclepias incarnata)*
-- Roundheaded bush clover (Lespedeza capitata)  - only 1 left for the season!
+- *Roundheaded bush clover (Lespedeza capitata)  - only 1 left!*
 - Seaside Goldenrod (Solidago sempervirens)
-- Showy tick-trefoil (Desmodium canadense)
+- *Showy tick-trefoil (Desmodium canadense)*
 - Side Oats Grama (Bouteloua curtipendula)
 - Smallspike false-nettle (Boehmeria cylindrica)
 - Smooth blue aster (Symphyotrichum laeve)
 - Spotted bee-balm (Monarda punctata)
-- Spotted Joe-pye weed (Eutrochium maculatum) - only 1 left!
-- Steeplebush (Spiraea tomentosa) - 1st year shrub
+- *Spotted Joe-pye weed (Eutrochium maculatum) - only 1 left!*
+- Steeplebush (Spiraea tomentosa) - 2nd year shrub
+- Sundial lupine (Lupinus perennis) 
 - Tall white aster (Doellingeria umbellata)
 - Virgin's bower clematis (Clematis virginiana)
 - Virginia mountain-mint (Pycnanthemum virginianum)
-- *Water horehound (Lycopus americanus)*
+- Water horehound (Lycopus americanus)
 - White snakeroot (Ageratina altissima)
 - White turtlehead (Chelone glabra)
 - White vervain (Verbena urticifolia)
 - White wood aster (Eurybia divaricata)
 - *Whorled milkweed (Asclepias verticillata)*
+- Wild bergamot (Monarda fistulosa) - only 1 left!
 - Wild mint (Mentha arvensis)
-- Wild strawberry (Fragaria virginiana)
+- Wild strawberry (Fragaria virginiana) - only 1 left!
 - Wreath/bluestem goldenrod (Solidago caesia)
 - Yellow prairie grass (Indian grass) (Sorghastrum nutans)
 
 ### Annual Natives
 
-~~Pints $4; 1.5 pint $7; quart or 2 quart $8~~ These plants are now **free**. Please take them off my hands!
+This year we are selling most of our annual natives in 6-cell trays for $14. We hope this will give you better value and allow you to put in a few more plants!
 
-- Eastern black nightshade (Solanum emulans or ptycanthum) - has some green berries on it. Ripe berries can be collected for seed or left for wildlife benefit. (Or a spooky Halloween decoration? IDK).
-- Indian tobacco (Lobelia inflata) - these have rosettes of leaves but may not flower before winter. Ripe seeds, if produced, can be harvested for next year, left for wildlife benefit, or scattered in your landscape. 
+- Partridge pea (Chamaecrista fasciculata)
+- Pale corydalis (Corydalis sempervirens)
+- Sweet everlasting (Pseudognaphalium obtusifolium) - these are supposedly annuals, but overwintered in pint pots regardless! (I suspect because they had not flowered yet when winter came). I am offering these at $4/pint.
 
 ### "Zoigls" and Singletons
 
@@ -95,26 +100,13 @@ Pricing - pint $6, 1.5 pint $8, 1-quart $10, 2-quart $14, or as otherwise marked
 
 These plants are now **free**. Please take them off my hands!
 
-- *Mystery goldenrod (Solidago species; possibly wrinkled-leaved (S. rugosa) or giant (S. gigantea))* - going dormant
+- Mystery goldenrod (Solidago species; possibly wrinkled-leaved (S. rugosa) or giant (S. gigantea))
 
 ### Non-natives
 
-We no longer grow non-natives for sale, but we have some perennial herbs left over from last year. These plants are now **free**. Please take them off my hands!
+We no longer grow non-natives for sale, but we have some perennial herbs left over. These plants are now **free**. Please take them off my hands!
 
 - Lemon Balm 'Mandarina' - large
 - Peppermint - small
 - Sage, Broadleaf - small
-- Peppermint - small
-
-We also have three small Christmas/Thanksgiving cacti (houseplants) available for sale at $2. 
-
-## Coming Soon
-
-The following plants are (imho) too small to sell yet, but will be available early next year. If you are interested regardless -- or wish to reserve them for next year -- you can email me at lise@redtrilliumgardens.com.
-
-- Field pussytoes (Antennaria neglecta)
-- Harebell (Campanula rotundifolia)
-- Pearly everlasting (Anaphalis margaritacea)
-- Pennsylvania sedge (Carex pensylvanica)
-- Sweet everlasting (Pseudognaphalium obtusifolium)
 
