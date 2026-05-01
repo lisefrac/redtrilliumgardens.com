@@ -25,7 +25,7 @@ We'll be doing the **last indoor farmers' market of the season in Leominster:** 
 
 ## Inventory
 
-Our [Buy Plants](/buy-plants/) page has been updated with our most recent offerings! As always, email me at [lise@redtrilliumgardens](mailto:lise@redtrilliumgardens.com) if you wish to request/reserve any plants to be picked up at one of our markets.
+Our [Buy Plants](/buy-plants/) page has been updated with our most recent offerings! As always, email me at [lise@redtrilliumgardens.com](mailto:lise@redtrilliumgardens.com) if you wish to request/reserve any plants to be picked up at one of our markets.
 
 We hope to see you at one or more of these markets! 
 
