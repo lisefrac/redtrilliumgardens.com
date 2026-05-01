@@ -7,7 +7,7 @@ menu:
     name: "Buy Plants"
 ---
 
-_(Updated: April 23, 2026)_
+_(Updated: May 1, 2026)_
 
 As we do not have a storefront, the best way to purchase plants is to email us at [lise@redtrilliumgardens.com](mailto:lise@redtrilliumgardens.com) to arrange pickup at a [local market](/posts/2026-market-schedule/), or by appointment at our home in Lunenburg, MA. 
 
@@ -43,9 +43,7 @@ Pricing - pint $8, quart $12, 2-quart $20, or as otherwise marked.
 - Downy goldenrod (Solidago puberula)
 - Flowering raspberry (Rubus odoratus) - 1st year shrub
 - Foxglove beardtongue (Penstemon digitalis)
-- Golden alexanders (Zizia aurea)
 - Grass-leaved goldenrod (Euthamia graminifolia)
-- Gray goldenrod (Solidago nemoralis) - only 1 available for the season!
 - Heart leaved alexanders (Zizia aptera) - only 1 left!
 - Hemp dogbane (Apocynum cannabinum)
 - Hoary mountain-mint (Pycnanthemum incanum)
@@ -68,7 +66,7 @@ Pricing - pint $8, quart $12, 2-quart $20, or as otherwise marked.
 - Smallspike false-nettle (Boehmeria cylindrica)
 - Smooth blue aster (Symphyotrichum laeve)
 - Spotted bee-balm (Monarda punctata)
-- *Spotted Joe-pye weed (Eutrochium maculatum) - only 1 left!*
+- Spotted Joe-pye weed (Eutrochium maculatum) - only 1 left!
 - Steeplebush (Spiraea tomentosa) - 2nd year shrub
 - Sundial lupine (Lupinus perennis) 
 - Tall white aster (Doellingeria umbellata)
@@ -80,9 +78,7 @@ Pricing - pint $8, quart $12, 2-quart $20, or as otherwise marked.
 - White vervain (Verbena urticifolia)
 - White wood aster (Eurybia divaricata)
 - *Whorled milkweed (Asclepias verticillata)*
-- Wild bergamot (Monarda fistulosa) - only 1 left!
 - Wild mint (Mentha arvensis)
-- Wild strawberry (Fragaria virginiana) - only 1 left!
 - Wreath/bluestem goldenrod (Solidago caesia)
 - Yellow prairie grass (Indian grass) (Sorghastrum nutans)
 
@@ -94,7 +90,7 @@ This year we are selling most of our annual natives in 6-cell trays for $14. We 
 - Pale corydalis (Corydalis sempervirens)
 - Sweet everlasting (Pseudognaphalium obtusifolium) - these are supposedly annuals, but overwintered in pint pots regardless! (I suspect because they had not flowered yet when winter came). I am offering these at $4/pint.
 
-### "Zoigls" and Singletons
+### "Zoigls"
 
 "Zoigls" are imperfect, "factory second" plants. Usually this means that we can't identify them to species level. (This is what happens when you don't label your seeds well!)
 
