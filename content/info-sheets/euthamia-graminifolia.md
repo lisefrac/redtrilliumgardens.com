@@ -14,7 +14,7 @@ featured_image: "/images/eutgra-fritzflohrreynolds-wikimedia.jpg"
 
 **Soil Moisture:** Wet to Medium-Dry
 
-**Height**: 3-4’<br />**Spread**: 2-6”<br />**Spacing**: 2-4’
+**Height**: 3-4’<br />**Spread**: 2-6'<br />**Spacing**: 2-4’
 
 **Blooms**: Jul-Sep<br />**Bloom Color:** Yellow
 
