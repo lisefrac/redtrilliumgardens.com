@@ -10,11 +10,11 @@ featured_image: "/images/Chelone_glabra_White_turtlehead.jpg"
 
 **Life cycle:** Perennial
 
-**Light**: Full/Partial Sun
+**Light**: Full Sun to Full Shade
 
 **Soil Moisture:** Wet to Medium-Wet
 
-**Height**: 1-3’<br />**Spacing**: 2’
+**Height**: 1-3’<br />**Spacing**: 1-2’
 
 **Blooms**: July-September<br />
 **Bloom Color:** White	
