@@ -1,6 +1,6 @@
 ---
 title: "Grass-leaved Goldenrod"
-description: "Information and care for grass-leaved goldenrod, sold at Red Trillium Gardens"
+description: "Information and care for grass-leaved goldenrod (Euthamia graminifolia), sold at Red Trillium Gardens"
 featured_image: "/images/eutgra-fritzflohrreynolds-wikimedia.jpg"
 ---
 
