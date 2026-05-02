@@ -20,7 +20,7 @@ featured_image: "/images/Elymus_hystrix_Jezroz.jpg"
 
 **Natural Habitat:** River or stream floodplains, forests, ridges or ledges, woodlands
 
-**Benefits**: Bird Favorite, Deer Resistant, Host Plant (eg. Northern Pearly Eye), Attracts Butterflies, Benefits Other Pollinators/Wildlife, Drought Tolerant, Deer/Rabbit Resistant, Low Maintenance
+**Benefits**: Bird Favorite, Host Plant (eg. Northern Pearly Eye), Attracts Butterflies, Benefits Other Pollinators/Wildlife, Drought Tolerant, Deer/Rabbit Resistant, Low Maintenance
 
 > "The unique form and texture of the seed head makes this grass a showstopping addition to any border or meadow garden. Bottlebrush grass forms clumps and will seed around in favorable conditions. It is one of the most shade tolerant grasses native to the northeast and is resistant to deer."
 > 

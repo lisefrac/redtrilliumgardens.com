@@ -30,6 +30,4 @@ featured_image: "/images/Eupatorium_perfoliatum_SCA-04380.jpg"
 > 
 > --Prairie Moon Nursery
 
-Photo by , 
-
 {{< figure src="/images/Eupatorium_perfoliatum_SCA-04380.jpg" alt="Boneset (Eupatorium perfoliatum)" title="Boneset (Eupatorium perfoliatum)" attr="Photo (and featured image) by R. A. Nonenmacher - Own work, CC BY-SA 4.0" attrlink="https://commons.wikimedia.org/w/index.php?curid=42626108">}}
