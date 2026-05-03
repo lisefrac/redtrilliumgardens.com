@@ -1,6 +1,6 @@
 ---
 title: "Hoary Mountain Mint"
-description: "Information and care for hoary mountain mint (Pycnanthemum muticum), sold at Red Trillium Gardens"
+description: "Information and care for hoary mountain mint (Pycnanthemum incanum), sold at Red Trillium Gardens"
 featured_image: '/images/Pycnanthemum_incanum_inflorescence.jpg'
 ---
 
