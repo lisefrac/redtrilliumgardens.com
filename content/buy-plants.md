@@ -7,7 +7,7 @@ menu:
     name: "Buy Plants"
 ---
 
-_(Updated: May 1, 2026)_
+_(Updated: May 6, 2026)_
 
 As we do not have a storefront, the best way to purchase plants is to email us at [lise@redtrilliumgardens.com](mailto:lise@redtrilliumgardens.com) to arrange pickup at a [local market](/posts/2026-market-schedule/), or by appointment at our home in Lunenburg, MA. 
 
@@ -34,9 +34,9 @@ Pricing - pint $8, quart $12, 2-quart $20, or as otherwise marked.
 - Calico aster (Symphyotrichum lateriflorum)
 - Cardinal flower (Lobelia cardinalis)
 - Clustered mountain-mint (Pycnanthemum muticum)
-- *Coastal plain Joe-pye weed (Eutrochium dubium)*
+- Coastal plain Joe-pye weed (Eutrochium dubium)
 - Common bur sedge (Carex grayi)
-- *Common milkweed (Asclepias syriaca)*
+- Common milkweed (Asclepias syriaca)
 - Common ninebark (Physocarpus opulifolius) - 2nd year shrub/tree
 - Culver's root (Veronicastrum virginicum) - only 1 available!
 - Cutleaf coneflower (Rudbeckia laciniata)
@@ -58,7 +58,7 @@ Pricing - pint $8, quart $12, 2-quart $20, or as otherwise marked.
 - Purple lovegrass (Eragrostis spectabilis)
 - Red Chokeberry (Aronia arbutifolia) - 2nd year shrub/tree
 - Red Columbine (Aquilegia canadensis)
-- *Rose/swamp milkweed (Asclepias incarnata)*
+- Rose/swamp milkweed (Asclepias incarnata)
 - *Roundheaded bush clover (Lespedeza capitata)  - only 1 left!*
 - Seaside Goldenrod (Solidago sempervirens)
 - *Showy tick-trefoil (Desmodium canadense)*
