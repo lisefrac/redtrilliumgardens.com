@@ -1,6 +1,6 @@
 ---
 title: "Harebell"
-description: "Information and care for Smallspike False Nettle (Boehmeria cylindrica), sold at Red Trillium Gardens"
+description: "Information and care for harebell (Campanula rotundifolia), sold at Red Trillium Gardens"
 featured_image: "/images/camrot-inat-bruce-cook.jpeg"
 ---
 
