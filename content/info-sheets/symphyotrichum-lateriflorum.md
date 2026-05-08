@@ -34,4 +34,4 @@ featured_image: "/images/Symphyotrichum_lateriflorum_FWS-2.jpg"
 > 
 > -- Prairie Moon Nursery
 
-{{< figure src="/images/Symphyotrichum_lateriflorum_FWS-2.jpg" alt="Calico aster (Symphyotrichum lateriflorum)" title="Calico aster (Symphyotrichum lateriflorum)" attr="Photo (and banner image) By Elise Smith, U.S. Fish and Wildlife Service, Public Domain" attrlink="https://commons.wikimedia.org/w/index.php?curid=24918346">}}
+{{< figure src="/images/Symphyotrichum_lateriflorum_FWS-2.jpg" alt="Calico aster (Symphyotrichum lateriflorum)" title="Calico aster (Symphyotrichum lateriflorum)" attr="Photo (and banner image) by Elise Smith, U.S. Fish and Wildlife Service, Public Domain" attrlink="https://commons.wikimedia.org/w/index.php?curid=24918346">}}
