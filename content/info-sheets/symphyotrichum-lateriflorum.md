@@ -1,6 +1,6 @@
 ---
 title: "Calico Aster"
-description: "Information and care for calico aster (Symphyotrichum lateriflorum, sold at Red Trillium Gardens"
+description: "Information and care for calico aster (Symphyotrichum lateriflorum), sold at Red Trillium Gardens"
 featured_image: "/images/Symphyotrichum_lateriflorum_FWS-2.jpg"
 ---
 
