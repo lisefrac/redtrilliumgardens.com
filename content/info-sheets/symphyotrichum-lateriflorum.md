@@ -4,7 +4,6 @@ description: "Information and care for calico aster (Symphyotrichum lateriflorum
 featured_image: "/images/Symphyotrichum_lateriflorum_FWS-2.jpg"
 ---
 
-
 ### aka side-flowering aster
 
 ## _Symphyotrichum lateriflorum_
