@@ -7,7 +7,7 @@ menu:
     name: "Buy Plants"
 ---
 
-_(Updated: May 18, 2026)_
+_(Updated: May 21, 2026)_
 
 As we do not have a storefront, the best way to purchase plants is to email us at [lise@redtrilliumgardens.com](mailto:lise@redtrilliumgardens.com) to arrange pickup at a [local market](/posts/2026-market-schedule/), or by appointment at our home in Lunenburg, MA. 
 
@@ -28,53 +28,46 @@ Pricing - pint $8, quart $12, 2-quart $20, or as otherwise marked.
 - Blue vervain (Verbena hastata)
 - Boneset (Eupatorium perfoliatum)
 - Bottlebrush grass (Elymus histrix)
-- *Buttonbush (Cephalanthus occidentalis) - 2nd year shrub*
+- Buttonbush (Cephalanthus occidentalis) - 2nd year shrub
 - Calico aster (Symphyotrichum lateriflorum)
 - Canada mayflower (Maianthemum canadense)
 - Cardinal flower (Lobelia cardinalis)
 - Clustered mountain-mint (Pycnanthemum muticum)
 - Coastal plain Joe-pye weed (Eutrochium dubium)
 - Common bur sedge (Carex grayi)
-- *Common milkweed (Asclepias syriaca)*
+- Common milkweed (Asclepias syriaca)
 - Common ninebark (Physocarpus opulifolius) - 2nd year shrub/tree
 - Culver's root (Veronicastrum virginicum) - only 1 available!
-- Cutleaf coneflower (Rudbeckia laciniata)
 - Downy goldenrod (Solidago puberula)
-- Flowering raspberry (Rubus odoratus) - 1st year shrub
 - Foxglove beardtongue (Penstemon digitalis)
-- Grass-leaved goldenrod (Euthamia graminifolia)
 - Harebell (Campanula rotundifolia/intercedens)
 - Hemp dogbane (Apocynum cannabinum)
 - Little bluestem (Schizachyrium scoparium)
 - New England Blazing Star (Liatris novae-angliae) 🆕
-- Northern/hairy beardtongue (Penstemon hirsutus)
 - Partridgeberry (Mitchella repens) - only 2 available!
 - Path Rush (Juncus tenuis)
 - Pearly everlasting (Anaphalis margaritacea)
 - Purple coneflower (Echinacea purpurea)
 - Purple lovegrass (Eragrostis spectabilis)
 - Red Chokeberry (Aronia arbutifolia) - 2nd year shrub/tree
-- Red Columbine (Aquilegia canadensis)
-- *Rose/swamp milkweed (Asclepias incarnata)*
-- *Roundheaded bush clover (Lespedeza capitata)  - only 1 left!*
+- Rose/swamp milkweed (Asclepias incarnata)
+- Roundheaded bush clover (Lespedeza capitata)  - only 1 left!
 - Seaside Goldenrod (Solidago sempervirens)
-- *Showy tick-trefoil (Desmodium canadense)*
+- Showy tick-trefoil (Desmodium canadense)
 - Side Oats Grama (Bouteloua curtipendula)
 - Smallspike false-nettle (Boehmeria cylindrica) - only 1 left!
 - Smooth blue aster (Symphyotrichum laeve)
 - Spotted bee-balm (Monarda punctata)
-- Spotted Joe-pye weed (Eutrochium maculatum) - only 1 left!
 - Steeplebush (Spiraea tomentosa) - 2nd year shrub
 - Sundial lupine (Lupinus perennis) 
 - Tall white aster (Doellingeria umbellata)
 - Teaberry/wintergreen (Gaultheria procumbens) - only 1 available!
-- Virgin's bower clematis (Clematis virginiana)
 - Virginia mountain-mint (Pycnanthemum virginianum)
 - Water horehound (Lycopus americanus)
 - White snakeroot (Ageratina altissima)
 - White vervain (Verbena urticifolia)
 - White wood aster (Eurybia divaricata)
-- *Whorled milkweed (Asclepias verticillata)*
+- Whorled milkweed (Asclepias verticillata)
 - Wild mint (Mentha arvensis)
 - Wreath/bluestem goldenrod (Solidago caesia)
 - Yellow prairie grass/Indian grass (Sorghastrum nutans)
