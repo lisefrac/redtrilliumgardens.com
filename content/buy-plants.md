@@ -7,7 +7,7 @@ menu:
     name: "Buy Plants"
 ---
 
-_(Updated: May 21, 2026)_
+_(Updated: May 25, 2026)_
 
 As we do not have a storefront, the best way to purchase plants is to email us at [lise@redtrilliumgardens.com](mailto:lise@redtrilliumgardens.com) to arrange pickup at a [local market](/posts/2026-market-schedule/), or by appointment at our home in Lunenburg, MA. 
 
@@ -26,6 +26,7 @@ Pricing - pint $8, quart $12, 2-quart $20, or as otherwise marked.
 - Allegheny monkey flower (Mimulus ringens)
 - Blue lobelia (Lobelia siphilitica)
 - Blue vervain (Verbena hastata)
+- Blue wood aster (Symphyotrichum cordifolium)
 - Boneset (Eupatorium perfoliatum)
 - Bottlebrush grass (Elymus histrix)
 - Buttonbush (Cephalanthus occidentalis) - 2nd year shrub
@@ -34,50 +35,51 @@ Pricing - pint $8, quart $12, 2-quart $20, or as otherwise marked.
 - Cardinal flower (Lobelia cardinalis)
 - Clustered mountain-mint (Pycnanthemum muticum)
 - Coastal plain Joe-pye weed (Eutrochium dubium)
-- Common bur sedge (Carex grayi)
 - Common milkweed (Asclepias syriaca)
 - Common ninebark (Physocarpus opulifolius) - 2nd year shrub/tree
 - Culver's root (Veronicastrum virginicum) - only 1 available!
 - Downy goldenrod (Solidago puberula)
 - Foxglove beardtongue (Penstemon digitalis)
-- Harebell (Campanula rotundifolia/intercedens)
+- Harebell (Campanula rotundifolia)
 - Hemp dogbane (Apocynum cannabinum)
 - Little bluestem (Schizachyrium scoparium)
-- New England Blazing Star (Liatris novae-angliae) 🆕
+- New England aster (Symphyotrichum novae-angliae)
+- New England blazing star (Liatris novae-angliae)
+- Obedient plant (Physostegia virginiana)
 - Partridgeberry (Mitchella repens) - only 2 available!
 - Path Rush (Juncus tenuis)
 - Pearly everlasting (Anaphalis margaritacea)
+- Pennsylvania sedge (Carex pensylvanica)
 - Purple coneflower (Echinacea purpurea)
 - Purple lovegrass (Eragrostis spectabilis)
 - Red Chokeberry (Aronia arbutifolia) - 2nd year shrub/tree
 - Rose/swamp milkweed (Asclepias incarnata)
-- Roundheaded bush clover (Lespedeza capitata)  - only 1 left!
+- Roundheaded bush clover (Lespedeza capitata) - only 1 left!
 - Seaside Goldenrod (Solidago sempervirens)
-- Showy tick-trefoil (Desmodium canadense)
 - Side Oats Grama (Bouteloua curtipendula)
 - Smallspike false-nettle (Boehmeria cylindrica) - only 1 left!
 - Smooth blue aster (Symphyotrichum laeve)
 - Spotted bee-balm (Monarda punctata)
 - Steeplebush (Spiraea tomentosa) - 2nd year shrub
-- Sundial lupine (Lupinus perennis) 
+- Sundial lupine (Lupinus perennis)
 - Tall white aster (Doellingeria umbellata)
-- Teaberry/wintergreen (Gaultheria procumbens) - only 1 available!
+- Teaberry/Wintergreen (Gaultheria procumbens) - only 1 available!
 - Virginia mountain-mint (Pycnanthemum virginianum)
 - Water horehound (Lycopus americanus)
 - White snakeroot (Ageratina altissima)
 - White vervain (Verbena urticifolia)
 - White wood aster (Eurybia divaricata)
 - Whorled milkweed (Asclepias verticillata)
+- Wild bergamot (Monarda fistulosa)
 - Wild mint (Mentha arvensis)
+- Wild strawberry (Fragaria virginiana) - only 1 available!
 - Wreath/bluestem goldenrod (Solidago caesia)
-- Yellow prairie grass/Indian grass (Sorghastrum nutans)
+- Yellow prairie grass (Indian grass) (Sorghastrum nutans)
 
 ### Annual Natives
 
 This year we are selling most of our annual natives in 6-cell trays for $14. We hope this will give you better value and allow you to put in a few more plants!
 
-- Partridge pea (Chamaecrista fasciculata)
-- Pale corydalis (Corydalis sempervirens)
 - Sweet everlasting (Pseudognaphalium obtusifolium) - these are supposedly annuals, but overwintered in pint pots regardless! (I suspect because they had not flowered yet when winter came). I am offering these at $4/pint.
 
 ### "Zoigls"

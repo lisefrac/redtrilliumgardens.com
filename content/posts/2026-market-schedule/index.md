@@ -14,7 +14,9 @@ As usual, we will be holding a **spring sale** at our home nursery. This is sche
 
 ## Leominster Farmers' Market
 
-Our current plan is to be at most of the Leominster Farmers' Market events organized by [North Central Mass Farmers Markets](https://www.ncmfarmersmarkets.com/). These are generally the **first Saturday of the month from June to October, 10am - 1pm, in Monument Square in downtown Leominster, MA**. The ones we'll attend are:  June 6th (time change to 3-7pm, during the Summer Stroll), (Sunday) July 5th, August 1st, and September 5th.
+Our current plan is to be at most of the Leominster Farmers' Market events organized by [North Central Mass Farmers Markets](https://www.ncmfarmersmarkets.com/). These are generally the **first Saturday of the month from June to October, 10am - 1pm, in Monument Square in downtown Leominster, MA**. The ones we'll attend are:  June 6th, (Sunday) July 5th, August 1st, and September 5th.
+
+<small>Note (May 25, 2026): Previously we stated that the June 6 market would have a time change to align with the Summer Stroll. We were mistaken about this; the market will be June 6 from 10am-1pm per usual.</small>
 
 We also plan to do the **final *indoor* market of the year, on Thursday, May 21st, 2026, 4-6pm, at Leominster City Hall.**
 
@@ -31,6 +33,7 @@ We are once again partnering with [Grow Native Massachusetts](https://grownative
 - **Brookline Farmers' Market:** Thursday, June 18, 2026, 1:30-6:30pm, Centre Street West Parking Lot, Brookline, MA
 - **Central Square Farmers Market:** Monday, June 29, 2026, 12-6pm, 76 Bishop Allen Dr, Cambridge, MA 02139
 - **Wilmington Farmers' Market:** Sunday, July 12, 2026, 10am - 1pm, 140 Middlesex Ave, Wilmington, MA
+- **[Beverly Garden Party.](https://beverly400.org/garden-party/)** Saturday, August 8, 2026, Beverly Common, Beverly, MA
 - **Newton Farmers' Market**: Tuesday, September 15, 1:30-6pm, Cold Spring Park, 1189 Beacon Street, Newton, MA
 - **MEGA Pop Up @ Grow Native!** Saturday, October 17, 2026, 10am-3pm, at the Grow Native Mass headquarters, 7 Harrington Rd, Lexington, MA
 
@@ -39,6 +42,13 @@ We are once again partnering with [Grow Native Massachusetts](https://grownative
 We have also been invited to the following events in April:
 
 - **[Agriculture in Action Expo](https://www.facebook.com/share/1ANBUzCFjK/)**: Saturday, April 25, 2026, 10am-3pm, at Mount Wachusett Community College, Gardner, MA
+
+## Tentative
+
+*Added May 25, 2026. These events are tentative because plans have not yet been finalized.*
+
+- **Newton Tuesday Farmers' Market Opening Day.** Tuesday, June 23, 2026, 1:30-6pm, Cold Spring Park, 1189 Beacon Street, Newton, MA
+- **Pittsfield Farmers Market.** With Grow Native Mass. Saturday, August 29, 2026, from 9am-1pm, Pittsfield Common, 100 First Street, Pittsfield, MA
 
 
 We hope to see you at one of these events! If you have a market you'd like us to attend, email lise@redtrilliumgardens.com!
