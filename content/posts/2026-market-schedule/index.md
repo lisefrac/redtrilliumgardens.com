@@ -4,6 +4,8 @@ date: "2026-03-17"
 featured_image: "images/tiarella-cordifolia-hickory-woods-may-2022.jpg"
 ---
 
+*Updated June 1, 2026*
+
 The 2026 season approaches fast! And we mostly know where we'll be this year!
 
 ## Our spring sale
@@ -34,6 +36,7 @@ We are once again partnering with [Grow Native Massachusetts](https://grownative
 - **Central Square Farmers Market:** Monday, June 29, 2026, 12-6pm, 76 Bishop Allen Dr, Cambridge, MA 02139
 - **Wilmington Farmers' Market:** Sunday, July 12, 2026, 10am - 1pm, 140 Middlesex Ave, Wilmington, MA
 - **[Beverly Garden Party.](https://beverly400.org/garden-party/)** Saturday, August 8, 2026, Beverly Common, Beverly, MA
+- **[Pittsfield Farmers' Market:](https://www.farmersmarketpittsfield.org/)** Saturday, August 29, 2026, 9am-1pm, 100 First St, Pittsfield, MA
 - **Newton Farmers' Market**: Tuesday, September 15, 1:30-6pm, Cold Spring Park, 1189 Beacon Street, Newton, MA
 - **MEGA Pop Up @ Grow Native!** Saturday, October 17, 2026, 10am-3pm, at the Grow Native Mass headquarters, 7 Harrington Rd, Lexington, MA
 
@@ -45,10 +48,9 @@ We have also been invited to the following events in April:
 
 ## Tentative
 
-*Added May 25, 2026. These events are tentative because plans have not yet been finalized.*
+*Plans have not yet been finalized.*
 
 - **Newton Tuesday Farmers' Market Opening Day.** Tuesday, June 23, 2026, 1:30-6pm, Cold Spring Park, 1189 Beacon Street, Newton, MA
-- **Pittsfield Farmers Market.** With Grow Native Mass. Saturday, August 29, 2026, from 9am-1pm, Pittsfield Common, 100 First Street, Pittsfield, MA
 
 
 We hope to see you at one of these events! If you have a market you'd like us to attend, email lise@redtrilliumgardens.com!

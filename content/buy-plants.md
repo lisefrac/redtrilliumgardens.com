@@ -7,7 +7,7 @@ menu:
     name: "Buy Plants"
 ---
 
-_(Updated: May 25, 2026)_
+_(Updated: June 1, 2026)_
 
 As we do not have a storefront, the best way to purchase plants is to email us at [lise@redtrilliumgardens.com](mailto:lise@redtrilliumgardens.com) to arrange pickup at a [local market](/posts/2026-market-schedule/), or by appointment at our home in Lunenburg, MA. 
 
@@ -37,7 +37,7 @@ Pricing - pint $8, quart $12, 2-quart $20, or as otherwise marked.
 - Coastal plain Joe-pye weed (Eutrochium dubium)
 - Common milkweed (Asclepias syriaca)
 - Common ninebark (Physocarpus opulifolius) - 2nd year shrub/tree
-- Culver's root (Veronicastrum virginicum) - only 1 available!
+- Culver's Root (Veronicastrum virginicum) - only 1 available!
 - Downy goldenrod (Solidago puberula)
 - Foxglove beardtongue (Penstemon digitalis)
 - Harebell (Campanula rotundifolia)
@@ -45,23 +45,22 @@ Pricing - pint $8, quart $12, 2-quart $20, or as otherwise marked.
 - Little bluestem (Schizachyrium scoparium)
 - New England aster (Symphyotrichum novae-angliae)
 - New England blazing star (Liatris novae-angliae)
-- Obedient plant (Physostegia virginiana)
+- Obedient plant (Physostegia virginiana) - only 1 available!
 - Partridgeberry (Mitchella repens) - only 2 available!
 - Path Rush (Juncus tenuis)
 - Pearly everlasting (Anaphalis margaritacea)
 - Pennsylvania sedge (Carex pensylvanica)
 - Purple coneflower (Echinacea purpurea)
 - Purple lovegrass (Eragrostis spectabilis)
-- Red Chokeberry (Aronia arbutifolia) - 2nd year shrub/tree
+- Red Chokeberry (Aronia arbutifolia)
 - Rose/swamp milkweed (Asclepias incarnata)
-- Roundheaded bush clover (Lespedeza capitata) - only 1 left!
+- Roundheaded bush clover (Lespedeza capitata) - only 1 available!
 - Seaside Goldenrod (Solidago sempervirens)
 - Side Oats Grama (Bouteloua curtipendula)
-- Smallspike false-nettle (Boehmeria cylindrica) - only 1 left!
+- Smallspike false-nettle (Boehmeria cylindrica) - only 1 available!
 - Smooth blue aster (Symphyotrichum laeve)
 - Spotted bee-balm (Monarda punctata)
 - Steeplebush (Spiraea tomentosa) - 2nd year shrub
-- Sundial lupine (Lupinus perennis)
 - Tall white aster (Doellingeria umbellata)
 - Teaberry/Wintergreen (Gaultheria procumbens) - only 1 available!
 - Virginia mountain-mint (Pycnanthemum virginianum)
@@ -81,6 +80,7 @@ Pricing - pint $8, quart $12, 2-quart $20, or as otherwise marked.
 This year we are selling most of our annual natives in 6-cell trays for $14. We hope this will give you better value and allow you to put in a few more plants!
 
 - Sweet everlasting (Pseudognaphalium obtusifolium) - these are supposedly annuals, but overwintered in pint pots regardless! (I suspect because they had not flowered yet when winter came). I am offering these at $4/pint.
+- Pale corydalis (Corydalis sempervirens) - only available as plugs (4 of them) at $3 each. These are strays that self-seeded last year and grew up in other pots! (I guess this is proof that they will self-sow and return more than once!)
 
 ### "Zoigls"
 
