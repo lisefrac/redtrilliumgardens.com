@@ -31,6 +31,7 @@ We are once again partnering with [Grow Native Massachusetts](https://grownative
 - **[Lunenburg Earth Day Community Celebration](https://www.facebook.com/share/1HmrPZvyaF/):** Wednesday, April 22, 2pm-6pm, TC Passios Building, 1025 Massachusetts Ave, Lunenburg, MA. Hey, right in my neck of the woods!
 - **[Carlisle Route to Sustainability](https://www.carlislema.gov/1239/Route-to-Sustainability-Day):** Sunday, May 3, 2026, 1-4pm, Carlisle Public School gym, Carlisle, MA. 
 - **Davis Square Farmers' Market:** Wednesday, May 20, 2026, from 12-6pm, 44 Day Street, Somerville, MA. Hopefully it will be warmer than last year's!
+- **North County Land Trust's Native Plant Tour**. Saturday, June 13, 2026, 8am-noon, Lunenburg, MA. You will need to [book the tour](https://northcountylandtrust.org/events/gardentour26/) in order to shop.
 - **[Ipswich River Watershed Association Riverfest](https://www.ipswichriver.org/events/riverfest/):** Sunday, June 14, 2026, 1-4pm in Ipswich River Park, North Reading, MA. 
 - **Brookline Farmers' Market:** Thursday, June 18, 2026, 1:30-6:30pm, Centre Street West Parking Lot, Brookline, MA
 - **Central Square Farmers Market:** Monday, June 29, 2026, 12-6pm, 76 Bishop Allen Dr, Cambridge, MA 02139
