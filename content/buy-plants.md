@@ -7,7 +7,7 @@ menu:
     name: "Buy Plants"
 ---
 
-_(Updated: June 1, 2026)_
+_(Updated: June 9, 2026)_
 
 As we do not have a storefront, the best way to purchase plants is to email us at [lise@redtrilliumgardens.com](mailto:lise@redtrilliumgardens.com) to arrange pickup at a [local market](/posts/2026-market-schedule/), or by appointment at our home in Lunenburg, MA. 
 
@@ -24,7 +24,6 @@ Curious how many we have of each size and species? [View our detailed inventory 
 Pricing - pint $8, quart $12, 2-quart $20, or as otherwise marked. 
 
 - Allegheny monkey flower (Mimulus ringens)
-- Blue lobelia (Lobelia siphilitica)
 - Blue vervain (Verbena hastata)
 - Blue wood aster (Symphyotrichum cordifolium)
 - Boneset (Eupatorium perfoliatum)
@@ -37,7 +36,6 @@ Pricing - pint $8, quart $12, 2-quart $20, or as otherwise marked.
 - Coastal plain Joe-pye weed (Eutrochium dubium)
 - Common milkweed (Asclepias syriaca)
 - Common ninebark (Physocarpus opulifolius) - 2nd year shrub/tree
-- Culver's Root (Veronicastrum virginicum) - only 1 available!
 - Downy goldenrod (Solidago puberula)
 - Foxglove beardtongue (Penstemon digitalis)
 - Harebell (Campanula rotundifolia)
@@ -45,8 +43,7 @@ Pricing - pint $8, quart $12, 2-quart $20, or as otherwise marked.
 - Little bluestem (Schizachyrium scoparium)
 - New England aster (Symphyotrichum novae-angliae)
 - New England blazing star (Liatris novae-angliae)
-- Obedient plant (Physostegia virginiana) - only 1 available!
-- Partridgeberry (Mitchella repens) - only 2 available!
+- Pasture thistle (Cirsium discolor) - biennial
 - Path Rush (Juncus tenuis)
 - Pearly everlasting (Anaphalis margaritacea)
 - Pennsylvania sedge (Carex pensylvanica)
@@ -58,11 +55,10 @@ Pricing - pint $8, quart $12, 2-quart $20, or as otherwise marked.
 - Seaside Goldenrod (Solidago sempervirens)
 - Side Oats Grama (Bouteloua curtipendula)
 - Smallspike false-nettle (Boehmeria cylindrica) - only 1 available!
-- Smooth blue aster (Symphyotrichum laeve)
 - Spotted bee-balm (Monarda punctata)
 - Steeplebush (Spiraea tomentosa) - 2nd year shrub
 - Tall white aster (Doellingeria umbellata)
-- Teaberry/Wintergreen (Gaultheria procumbens) - only 1 available!
+- Teaberry/Wintergreen (Gaultheria procumbens)
 - Virginia mountain-mint (Pycnanthemum virginianum)
 - Water horehound (Lycopus americanus)
 - White snakeroot (Ageratina altissima)
@@ -71,16 +67,30 @@ Pricing - pint $8, quart $12, 2-quart $20, or as otherwise marked.
 - Whorled milkweed (Asclepias verticillata)
 - Wild bergamot (Monarda fistulosa)
 - Wild mint (Mentha arvensis)
-- Wild strawberry (Fragaria virginiana) - only 1 available!
 - Wreath/bluestem goldenrod (Solidago caesia)
 - Yellow prairie grass (Indian grass) (Sorghastrum nutans)
 
 ### Annual Natives
 
-This year we are selling most of our annual natives in 6-cell trays for $14. We hope this will give you better value and allow you to put in a few more plants!
+This year we are selling some annual natives in 6-cell trays for $14. We hope this will give you better value and allow you to put in a few more plants! 
 
+- Partridge pea (Chamaecrista fasciculata) - currently I have two of these unexpectedly available at $14/6pk. "Unexpectedly" because they self-sowed into the pots from last year!
 - Sweet everlasting (Pseudognaphalium obtusifolium) - these are supposedly annuals, but overwintered in pint pots regardless! (I suspect because they had not flowered yet when winter came). I am offering these at $4/pint.
-- Pale corydalis (Corydalis sempervirens) - only available as plugs (4 of them) at $3 each. These are strays that self-seeded last year and grew up in other pots! (I guess this is proof that they will self-sow and return more than once!)
+- Pale corydalis (Corydalis sempervirens) - only available as plugs (4 of them) at $3 each, or $10 for all 4. These are strays that self-seeded last year and grew up in other pots! (I guess this is proof that they will self-sow and return more than once!)
+
+### Annual Native Hemiparasites
+
+This year we are offering **slender false-foxglove (Agalinis tenuifolia)**, a self-sowing annual, in a pint pot with one of three native perennial grasses. 
+
+Why is grown like this?? Well, as I outline in the [deep dive on the species](/posts/native-plants/agalinis-tenuifolia/), slender false-foxglove is a **hemiparasitic** plant. While it can and does photosynthesize, it thrives best if it can gently steal nutrients from various graminoids (grasses, sedges, and rushes). While this is theoretically is detrimental to the grass, in my experience it doesn't harm it in a significant way.
+
+We are charging **perennial** prices for this ($8 for a pint, etc), because after the false-foxglove flowers die back, hey, you'll still have a lovely perennial grass. And if the Agalinis self-sows -- as it is likely to do -- it will have a host next year!
+
+Currently have available:
+
+- Slender false-foxglove (Agalinis tenuifolia) + side oats grama (Bouteloua curtipendula)
+- Slender false-foxglove (Agalinis tenuifolia) + path rush (Juncus tenuis). *Yes, technically Juncus tenuis is a rush, not a grass. Shh. Close enough.*
+- Slender false-foxglove (Agalinis tenuifolia) + little bluestem (Schizachyrium scoparium)
 
 ### "Zoigls"
 
