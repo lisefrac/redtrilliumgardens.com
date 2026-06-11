@@ -43,7 +43,7 @@ Pricing - pint $8, quart $12, 2-quart $20, or as otherwise marked.
 - [Little bluestem (Schizachyrium scoparium)](/info-sheets/schizachyrium-scoparium/)
 - [New England aster (Symphyotrichum novae-angliae)](/info-sheets/symphyotrichum-novaeangliae/)
 - [New England blazing star (Liatris novae-angliae)](/info-sheets/liatris-novaeangliae/)
-- Pasture thistle (Cirsium discolor) - biennial
+- [Pasture thistle (Cirsium discolor)](/info-sheets/cirsium-discolor/) - biennial
 - [Path Rush (Juncus tenuis)](/info-sheets/juncus-tenuis/)
 - [Pearly everlasting (Anaphalis margaritacea)](/info-sheets/anaphalis-margaritacea/)
 - [Pennsylvania sedge (Carex pensylvanica)](/info-sheets/carex-pensylvanica)
@@ -57,7 +57,7 @@ Pricing - pint $8, quart $12, 2-quart $20, or as otherwise marked.
 - [Smallspike false-nettle (Boehmeria cylindrica)](/info-sheets/boehmeria-cylindrica/) - only 1 left!
 - [Spotted bee-balm (Monarda punctata)](/info-sheets/monarda-punctata/)
 - [Steeplebush (Spiraea tomentosa)](/info-sheets/spiraea-tomentosa/) - 2nd year shrub
-- Tall meadow-rue (Thalictrum pubescens)
+- [Tall meadow-rue (Thalictrum pubescens)](/info-sheets/thalictrum-pubescens/)
 - [Tall white aster (Doellingeria umbellata)](/info-sheets/doellingeria-umbellata/)
 - Teaberry/Wintergreen (Gaultheria procumbens)
 - [Virginia mountain-mint (Pycnanthemum virginianum)](/info-sheets/pycnanthemum-virginianum/)
