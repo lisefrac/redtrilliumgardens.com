@@ -51,7 +51,7 @@ Pricing - pint $8, quart $12, 2-quart $20, or as otherwise marked.
 - [Purple lovegrass (Eragrostis spectabilis)](/info-sheets/eragrostis-spectabilis/)
 - [Red Chokeberry (Aronia arbutifolia)](/info-sheets/aronia-arbutifolia/)
 - [Rose/swamp milkweed (Asclepias incarnata)](/info-sheets/asclepias-incarnata/)
-- Roundheaded bush clover (Lespedeza capitata) - only 1 left!
+- [Roundheaded bush clover (Lespedeza capitata)](/info-sheets/lespedeza-capitata/) - only 1 left!
 - [Seaside Goldenrod (Solidago sempervirens)]((/info-sheets/solidago-sempervirens/))
 - [Side Oats Grama (Bouteloua curtipendula)](/info-sheets/bouteloua-curtipendula/)
 - [Smallspike false-nettle (Boehmeria cylindrica)](/info-sheets/boehmeria-cylindrica/) - only 1 left!

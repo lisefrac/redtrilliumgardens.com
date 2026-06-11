@@ -20,7 +20,7 @@ featured_image: "/images/Echinacea_purpurea_Feldanbau.jpg"
 
 **Natural Habitat:** Man-made or disturbed habitats, forest edges, meadows and fields
 
-**Benefits:** Pollinator Favorite, Bird Favorite, Deer (NOT rabbit) Resistant, Drought Tolerant, Low Maintenance
+**Benefits:** Pollinator Favorite, Bird Favorite, Drought Tolerant, Low Maintenance
 
 > “A prairie classic! Purple Coneflower (Echinacea purpurea) has a fibrous root system with short woody rhizomes. It is a drought-tolerant perennial that is also deer resistant. Purple Coneflower can be found as far east as Georgia. Plains Indians used the root to treat rattlesnake bites, bee stings, headaches, toothaches, sore throats, and distemper in horses. Coneflowers are still widely used today in pharmaceutical preparations.”
 > 
