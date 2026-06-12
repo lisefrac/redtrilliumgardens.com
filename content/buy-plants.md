@@ -21,7 +21,7 @@ Curious how many we have of each size and species? [View our detailed inventory 
 
 *Italicized* plants are still waking up from being dormant for the winter, and so may not look like much yet!
 
-Pricing - pint $8, quart $12, 2-quart $20, or as otherwise marked. 
+Pricing - plugs $5 (limited availability), pint $8, quart $12, 2-quart $20, or as otherwise marked. 
 
 - [Allegheny monkey flower (Mimulus ringens)](/info-sheets/mimulus-ringens/)
 - [Blue vervain (Verbena hastata)](/info-sheets/verbena-hastata/)
