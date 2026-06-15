@@ -7,7 +7,7 @@ menu:
     name: "Buy Plants"
 ---
 
-_(Updated: June 11, 2026)_
+_(Updated: June 15, 2026)_
 
 As we do not have a storefront, the best way to purchase plants is to email us at [lise@redtrilliumgardens.com](mailto:lise@redtrilliumgardens.com) to arrange pickup at a [local market](/posts/2026-market-schedule/), or by appointment at our home in Lunenburg, MA. 
 
@@ -24,12 +24,13 @@ Curious how many we have of each size and species? [View our detailed inventory 
 Pricing - plugs $5 (limited availability), pint $8, quart $12, 2-quart $20, or as otherwise marked. 
 
 - [Allegheny monkey flower (Mimulus ringens)](/info-sheets/mimulus-ringens/)
+- [Blue flag iris (Iris versicolor)](/info-sheets/iris-versicolor/)
+- [Blue lobelia (Lobelia siphilitica)](/info-sheets/lobelia-siphilitica/)
 - [Blue vervain (Verbena hastata)](/info-sheets/verbena-hastata/)
-- [Blue wood aster (Symphyotrichum cordifolium)](/info-sheets/symphyotrichum-cordifolium/)
 - [Boneset (Eupatorium perfoliatum)](/info-sheets/eupatorium-perfoliatum/)
 - [Bottlebrush grass (Elymus hystrix)](/info-sheets/elymus-histrix/)
 - [Buttonbush (Cephalanthus occidentalis)](/info-sheets/cephalanthus-occidentalis/) - 2nd year shrub
-- [Calico aster (Symphyotrichum lateriflorum)](/info-sheets/symphyotrichum-lateriflorum/)
+- [Calico aster (Symphyotrichum lateriflorum)](/info-sheets/symphyotrichum-lateriflorum/) - only one left!
 - [Canada mayflower (Maianthemum canadense)](/info-sheets/maianthemum-canadense/)
 - [Cardinal flower (Lobelia cardinalis)](/info-sheets/lobelia-cardinalis/)
 - [Clustered mountain-mint (Pycnanthemum muticum)](/info-sheets/pycnanthemum-muticum/)
@@ -38,8 +39,8 @@ Pricing - plugs $5 (limited availability), pint $8, quart $12, 2-quart $20, or a
 - [Common ninebark (Physocarpus opulifolius)](/info-sheets/physocarpus-opulifolius/) - 2nd year shrub/tree
 - [Downy goldenrod (Solidago puberula)](/info-sheets/solidago-puberula/)
 - [Foxglove beardtongue (Penstemon digitalis)](/info-sheets/penstemon-digitalis/)
-- [Harebell (Campanula rotundifolia)](/info-sheets/campanula-rotundifolia/)
-- [Hemp dogbane (Apocynum cannabinum)](/info-sheets/apocynum-cannabinum/)
+- [Grass-leaved goldenrod](/info-sheets/euthamia-graminifolia/)
+- [Harebell (Campanula rotundifolia)](/info-sheets/campanula-rotundifolia/) - only 1 left!
 - [Little bluestem (Schizachyrium scoparium)](/info-sheets/schizachyrium-scoparium/)
 - [New England aster (Symphyotrichum novae-angliae)](/info-sheets/symphyotrichum-novaeangliae/)
 - [New England blazing star (Liatris novae-angliae)](/info-sheets/liatris-novaeangliae/)
@@ -51,10 +52,9 @@ Pricing - plugs $5 (limited availability), pint $8, quart $12, 2-quart $20, or a
 - [Purple lovegrass (Eragrostis spectabilis)](/info-sheets/eragrostis-spectabilis/)
 - [Red Chokeberry (Aronia arbutifolia)](/info-sheets/aronia-arbutifolia/)
 - [Rose/swamp milkweed (Asclepias incarnata)](/info-sheets/asclepias-incarnata/)
-- [Roundheaded bush clover (Lespedeza capitata)](/info-sheets/lespedeza-capitata/) - only 1 left!
 - [Seaside Goldenrod (Solidago sempervirens)]((/info-sheets/solidago-sempervirens/))
 - [Side Oats Grama (Bouteloua curtipendula)](/info-sheets/bouteloua-curtipendula/)
-- [Smallspike false-nettle (Boehmeria cylindrica)](/info-sheets/boehmeria-cylindrica/) - only 1 left!
+- [Smooth blue aster (Symphyotrichum laeve)](/info-sheets/symphyotrichum-laeve/)
 - [Spotted bee-balm (Monarda punctata)](/info-sheets/monarda-punctata/)
 - [Steeplebush (Spiraea tomentosa)](/info-sheets/spiraea-tomentosa/) - 2nd year shrub
 - [Tall meadow-rue (Thalictrum pubescens)](/info-sheets/thalictrum-pubescens/)
@@ -67,6 +67,7 @@ Pricing - plugs $5 (limited availability), pint $8, quart $12, 2-quart $20, or a
 - [White wood aster (Eurybia divaricata)](/info-sheets/eurybia-divaricata/)
 - [Whorled milkweed (Asclepias verticillata)](/info-sheets/asclepias-verticillata/)
 - [Wild bergamot (Monarda fistulosa)](/info-sheets/monarda-fistulosa/) - also available as plugs at $5
+- Wild geranium (Geranium maculatum)
 - [Wild mint (Mentha arvensis)](/info-sheets/mentha-arvensis/)
 - [Wreath/bluestem goldenrod (Solidago caesia)](/info-sheets/solidago-caesia/)
 - [Yellow prairie grass (Indian grass) (Sorghastrum nutans)](/info-sheets/sorghastrum-nutans/)
@@ -75,9 +76,10 @@ Pricing - plugs $5 (limited availability), pint $8, quart $12, 2-quart $20, or a
 
 This year we are selling some annual natives in 6-cell trays for $14. We hope this will give you better value and allow you to put in a few more plants! 
 
-- [Partridge pea (Chamaecrista fasciculata)](/info-sheets/cha-fas/) - currently I have two of these unexpectedly available at $14/6pk. ("Unexpectedly" because they self-sowed into the pots from last year!)
-- [Sweet everlasting (Pseudognaphalium obtusifolium)](/info-sheets/pseudognaphalium-obtusifolium/) - these are supposedly annuals, but overwintered in pint pots regardless! (I suspect because they had not flowered yet when winter came). I am offering these at $4/pint.
+- [Sweet everlasting (Pseudognaphalium obtusifolium)](/info-sheets/pseudognaphalium-obtusifolium/) - these are supposedly annuals, but overwintered in pint pots regardless! (I suspect because they had not flowered yet when winter came). I am offering these at $4/pint. Only 1 left!
 - [Pale corydalis (Corydalis sempervirens)](/info-sheets/corydalis-sempervirens/) - only available as plugs (4 of them) at $3 each, or $10 for all 4. These are strays that self-seeded last year and grew up in other pots! (I guess this is proof that they will self-sow and return more than once!)
+- American hog-peanut (Amphicarpaea bracteata) - two 1-quart pots available for $10 each
+- Jewelweed (Impatiens capensis) - two 1-quart pots available for $10 each
 
 ### Annual Native Hemiparasites
 
@@ -89,7 +91,6 @@ We are charging **perennial** prices for this ($8 for a pint), because after the
 
 Currently I have available:
 
-- Slender false-foxglove (Agalinis tenuifolia) + side oats grama (Bouteloua curtipendula)
 - Slender false-foxglove (Agalinis tenuifolia) + path rush (Juncus tenuis). *Yes, technically Juncus tenuis is a rush, not a grass. Shh. Close enough.*
 - Slender false-foxglove (Agalinis tenuifolia) + little bluestem (Schizachyrium scoparium)
 
