@@ -28,6 +28,8 @@ featured_image: "/images/Gaultheria_procumbens.jpeg"
 
 **Pairs Well With:** Blueberry (Vaccinium spp.), mountain laurel (Kalmia latifolia), Partridgeberry (Mitchella repens), Pennsylvania sedge (Carex pensylvanica)
 
+**Note:** Teaberry is sensitive to the dissolved minerals in tap water. As much as feasible it should be watered with rainwater or distilled water. Like most native plants, once it is established in the landscape it should not need much or any watering, however.
+
 > "Wintergreen's evergreen leaves are the original source of wintergreen flavoring and make for a great trail-side snack. In the wild, these plants tend to form trailing, sporadic patches in shady woodlands. Give them a bit more sun and they can fill out nicely."
 > 
 > -- Native Plant Trust
