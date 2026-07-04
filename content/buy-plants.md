@@ -7,7 +7,7 @@ menu:
     name: "Buy Plants"
 ---
 
-_(Updated: June 20, 2026)_
+_(Updated: July 4, 2026)_
 
 As we do not have a storefront, the best way to purchase plants is to email us at [lise@redtrilliumgardens.com](mailto:lise@redtrilliumgardens.com) to arrange pickup at a [local market](/posts/2026-market-schedule/), or by appointment at our home in Lunenburg, MA. 
 
@@ -18,8 +18,6 @@ The following plants are currently available for purchase. [Please email us at l
 Curious how many we have of each size and species? [View our detailed inventory here.](https://docs.google.com/spreadsheets/d/1FV7iCZJYFeVC55onCDUhkP_r6_sS_5j-vdgNPat4-bk/edit?usp=sharing)
 
 ### Perennial Natives
-
-*Italicized* plants are still waking up from being dormant for the winter, and so may not look like much yet!
 
 Pricing - plugs $5 (limited availability), pint $8, quart $12, 2-quart $20, or as otherwise marked. 
 
@@ -46,7 +44,7 @@ Pricing - plugs $5 (limited availability), pint $8, quart $12, 2-quart $20, or a
 - [Path Rush (Juncus tenuis)](/info-sheets/juncus-tenuis/)
 - [Pearly everlasting (Anaphalis margaritacea)](/info-sheets/anaphalis-margaritacea/)
 - [Pennsylvania sedge (Carex pensylvanica)](/info-sheets/carex-pensylvanica)
-- [Purple coneflower (Echinacea purpurea)](/info-sheets/echinacea-purpurea/)
+- [Purple coneflower (Echinacea purpurea)](/info-sheets/echinacea-purpurea/) - only 1 left!
 - [Purple lovegrass (Eragrostis spectabilis)](/info-sheets/eragrostis-spectabilis/)
 - [Red Chokeberry (Aronia arbutifolia)](/info-sheets/aronia-arbutifolia/)
 - [Seaside Goldenrod (Solidago sempervirens)]((/info-sheets/solidago-sempervirens/))
@@ -63,15 +61,13 @@ Pricing - plugs $5 (limited availability), pint $8, quart $12, 2-quart $20, or a
 - [White wood aster (Eurybia divaricata)](/info-sheets/eurybia-divaricata/)
 - [Whorled milkweed (Asclepias verticillata)](/info-sheets/asclepias-verticillata/)
 - [Wild bergamot (Monarda fistulosa)](/info-sheets/monarda-fistulosa/)
-- Wild geranium (Geranium maculatum)
 - [Wild mint (Mentha arvensis)](/info-sheets/mentha-arvensis/)
-- [Wreath/bluestem goldenrod (Solidago caesia)](/info-sheets/solidago-caesia/)
 - [Yellow prairie grass (Indian grass) (Sorghastrum nutans)](/info-sheets/sorghastrum-nutans/)
 
 ### Annual Natives
 
 - American hog-peanut (Amphicarpaea bracteata) - two 1-quart pots available for $10 each
-- [Jewelweed (Impatiens capensis)](/info-sheets/impatiens-capensis/) - two 1-quart pots available for $10 each
+- [Jewelweed (Impatiens capensis)](/info-sheets/impatiens-capensis/) - one 1-quart pot available for $10 each
 
 ### Annual Native Hemiparasites
 
@@ -83,7 +79,6 @@ We are charging **perennial** prices for this ($8 for a pint), because after the
 
 Currently I have available:
 
-- Slender false-foxglove (Agalinis tenuifolia) + path rush (Juncus tenuis). *Yes, technically Juncus tenuis is a rush, not a grass. Shh. Close enough.*
 - Slender false-foxglove (Agalinis tenuifolia) + little bluestem (Schizachyrium scoparium)
 - Slender false-foxglove (Agalinis tenuifolia) + side oats grama (Bouteloua curtipendula). I thought I was out of these, but I found another one hiding out!
 
