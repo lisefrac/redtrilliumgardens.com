@@ -7,7 +7,7 @@ menu:
     name: "Buy Plants"
 ---
 
-_(Updated: July 4, 2026)_
+_(Updated: July 9, 2026)_
 
 As we do not have a storefront, the best way to purchase plants is to email us at [lise@redtrilliumgardens.com](mailto:lise@redtrilliumgardens.com) to arrange pickup at a [local market](/posts/2026-market-schedule/), or by appointment at our home in Lunenburg, MA. 
 
@@ -22,14 +22,16 @@ Curious how many we have of each size and species? [View our detailed inventory 
 Pricing - plugs $5 (limited availability), pint $8, quart $12, 2-quart $20, or as otherwise marked. 
 
 - [Allegheny monkey flower (Mimulus ringens)](/info-sheets/mimulus-ringens/)
+- Black-eyed susan (Rudbeckia hirta var. pulcherrima)
 - [Blue flag iris (Iris versicolor)](/info-sheets/iris-versicolor/)
-- [Blue lobelia (Lobelia siphilitica)](/info-sheets/lobelia-siphilitica/)
+- [Blue lobelia (Lobelia siphilitica)](/info-sheets/lobelia-siphilitica/) - only one left!
 - [Blue vervain (Verbena hastata)](/info-sheets/verbena-hastata/)
 - [Boneset (Eupatorium perfoliatum)](/info-sheets/eupatorium-perfoliatum/)
+- Bottle gentian (Gentiana clausa)
 - [Bottlebrush grass (Elymus hystrix)](/info-sheets/elymus-histrix/)
+- Butterfly milkweed (Asclepias tuberosa) - plugs only
 - [Buttonbush (Cephalanthus occidentalis)](/info-sheets/cephalanthus-occidentalis/) - 2nd year shrub
 - [Canada mayflower (Maianthemum canadense)](/info-sheets/maianthemum-canadense/)
-- [Cardinal flower (Lobelia cardinalis)](/info-sheets/lobelia-cardinalis/)
 - [Clustered mountain-mint (Pycnanthemum muticum)](/info-sheets/pycnanthemum-muticum/)
 - [Coastal plain Joe-pye weed (Eutrochium dubium)](/info-sheets/eutrochium-dubium/)
 - [Common milkweed (Asclepias syriaca)]((/info-sheets/asclepias-syriaca/))
@@ -39,12 +41,12 @@ Pricing - plugs $5 (limited availability), pint $8, quart $12, 2-quart $20, or a
 - [Grass-leaved goldenrod](/info-sheets/euthamia-graminifolia/)
 - [Little bluestem (Schizachyrium scoparium)](/info-sheets/schizachyrium-scoparium/)
 - [New England aster (Symphyotrichum novae-angliae)](/info-sheets/symphyotrichum-novaeangliae/)
-- [New England blazing star (Liatris novae-angliae)](/info-sheets/liatris-novaeangliae/)
+- [Obedient plant](/info-sheets/physostegia-virginiana)
+- [New York ironweed](/info-sheets/vernonia-noveboracensis) - back in stock! 
 - [Pasture thistle (Cirsium discolor)](/info-sheets/cirsium-discolor/) - biennial
 - [Path Rush (Juncus tenuis)](/info-sheets/juncus-tenuis/)
 - [Pearly everlasting (Anaphalis margaritacea)](/info-sheets/anaphalis-margaritacea/)
 - [Pennsylvania sedge (Carex pensylvanica)](/info-sheets/carex-pensylvanica)
-- [Purple coneflower (Echinacea purpurea)](/info-sheets/echinacea-purpurea/) - only 1 left!
 - [Purple lovegrass (Eragrostis spectabilis)](/info-sheets/eragrostis-spectabilis/)
 - [Red Chokeberry (Aronia arbutifolia)](/info-sheets/aronia-arbutifolia/)
 - [Seaside Goldenrod (Solidago sempervirens)]((/info-sheets/solidago-sempervirens/))
@@ -62,25 +64,12 @@ Pricing - plugs $5 (limited availability), pint $8, quart $12, 2-quart $20, or a
 - [Whorled milkweed (Asclepias verticillata)](/info-sheets/asclepias-verticillata/)
 - [Wild bergamot (Monarda fistulosa)](/info-sheets/monarda-fistulosa/)
 - [Wild mint (Mentha arvensis)](/info-sheets/mentha-arvensis/)
-- [Yellow prairie grass (Indian grass) (Sorghastrum nutans)](/info-sheets/sorghastrum-nutans/)
+- [Yellow prairie grass (Indian grass) (Sorghastrum nutans)](/info-sheets/sorghastrum-nutans/) - only 1 left!
 
 ### Annual Natives
 
 - American hog-peanut (Amphicarpaea bracteata) - two 1-quart pots available for $10 each
-- [Jewelweed (Impatiens capensis)](/info-sheets/impatiens-capensis/) - one 1-quart pot available for $10 each
-
-### Annual Native Hemiparasites
-
-This year we are offering **slender false-foxglove (Agalinis tenuifolia)**, a self-sowing annual, in a pint pot with one of three native perennial grasses. 
-
-Why is grown like this? Well, as I outline in the [deep dive on the species](/posts/native-plants/agalinis-tenuifolia/), slender false-foxglove is a **hemiparasitic** plant. While it can and does photosynthesize, it thrives best if it can gently steal nutrients from various graminoids (grasses, sedges, and rushes). While this is theoretically detrimental to the grass, in my experience it doesn't harm it in a significant way.
-
-We are charging **perennial** prices for this ($8 for a pint), because after the false-foxglove flowers die back, hey, you'll still have a lovely perennial grass. And if the Agalinis self-sows -- as it is likely to do -- it will have a host next year!
-
-Currently I have available:
-
-- Slender false-foxglove (Agalinis tenuifolia) + little bluestem (Schizachyrium scoparium)
-- Slender false-foxglove (Agalinis tenuifolia) + side oats grama (Bouteloua curtipendula). I thought I was out of these, but I found another one hiding out!
+- Blue curls (Trichostema dichotomum) - in 6-pack cell tray inserts for $14
 
 ### "Zoigls"
 
