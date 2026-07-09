@@ -41,12 +41,12 @@ Pricing - plugs $5 (limited availability), pint $8, quart $12, 2-quart $20, or a
 - [Grass-leaved goldenrod](/info-sheets/euthamia-graminifolia/)
 - [Little bluestem (Schizachyrium scoparium)](/info-sheets/schizachyrium-scoparium/)
 - [New England aster (Symphyotrichum novae-angliae)](/info-sheets/symphyotrichum-novaeangliae/)
-- [Obedient plant](/info-sheets/physostegia-virginiana)
-- [New York ironweed](/info-sheets/vernonia-noveboracensis) - back in stock! 
+- [Obedient plant (Physostegia virginiana)](/info-sheets/physostegia-virginiana)
+- [New York ironweed (Vernonia noveboracensis)](/info-sheets/vernonia-noveboracensis/) - back in stock! 
+- Pale purple coneflower (Echinacea pallida)
 - [Pasture thistle (Cirsium discolor)](/info-sheets/cirsium-discolor/) - biennial
 - [Path Rush (Juncus tenuis)](/info-sheets/juncus-tenuis/)
-- [Pearly everlasting (Anaphalis margaritacea)](/info-sheets/anaphalis-margaritacea/)
-- [Pennsylvania sedge (Carex pensylvanica)](/info-sheets/carex-pensylvanica)
+- [Poke milkweed (Asclepias exaltata)](/info-sheets/asclepias-exaltata/) - back in stock!
 - [Purple lovegrass (Eragrostis spectabilis)](/info-sheets/eragrostis-spectabilis/)
 - [Red Chokeberry (Aronia arbutifolia)](/info-sheets/aronia-arbutifolia/)
 - [Seaside Goldenrod (Solidago sempervirens)]((/info-sheets/solidago-sempervirens/))
@@ -64,12 +64,15 @@ Pricing - plugs $5 (limited availability), pint $8, quart $12, 2-quart $20, or a
 - [Whorled milkweed (Asclepias verticillata)](/info-sheets/asclepias-verticillata/)
 - [Wild bergamot (Monarda fistulosa)](/info-sheets/monarda-fistulosa/)
 - [Wild mint (Mentha arvensis)](/info-sheets/mentha-arvensis/)
-- [Yellow prairie grass (Indian grass) (Sorghastrum nutans)](/info-sheets/sorghastrum-nutans/) - only 1 left!
+- [Wild strawberry (Fragaria virginiana)](/info-sheets/fragaria-virginiana/) - plugs only
+- [Yarrow (Achillea millefolium)](/info-sheets/achillea-millefolium/)
+- [Yellow prairie/Indian grass (Sorghastrum nutans)](/info-sheets/sorghastrum-nutans/) - only 1 left!
 
 ### Annual Natives
 
 - American hog-peanut (Amphicarpaea bracteata) - two 1-quart pots available for $10 each
-- Blue curls (Trichostema dichotomum) - in 6-pack cell tray inserts for $14
+- Blue curls (Trichostema dichotomum) - in 6-pack cell trays for $14
+- Sweet everlasting (Pseudognaphalium obtusifolium) - in 6-pack cell trays for $14
 
 ### "Zoigls"
 
