@@ -27,7 +27,7 @@ Pricing - plugs $5 (limited availability), pint $8, quart $12, 2-quart $20, or a
 - [Blue vervain (Verbena hastata)](/info-sheets/verbena-hastata/)
 - [Boneset (Eupatorium perfoliatum)](/info-sheets/eupatorium-perfoliatum/)
 - Bottle gentian (Gentiana clausa)
-- Butterfly milkweed (Asclepias tuberosa) - plugs only
+- [Butterfly milkweed (Asclepias tuberosa)](/info-sheets/asclepias-tuberosa/) - plugs only
 - [Buttonbush (Cephalanthus occidentalis)](/info-sheets/cephalanthus-occidentalis/) - 2nd year shrub
 - [Canada mayflower (Maianthemum canadense)](/info-sheets/maianthemum-canadense/)
 - [Clustered mountain-mint (Pycnanthemum muticum)](/info-sheets/pycnanthemum-muticum/)
@@ -44,13 +44,13 @@ Pricing - plugs $5 (limited availability), pint $8, quart $12, 2-quart $20, or a
 - Pale purple coneflower (Echinacea pallida)
 - [Pasture thistle (Cirsium discolor)](/info-sheets/cirsium-discolor/) - biennial - only one left!
 - [Path Rush (Juncus tenuis)](/info-sheets/juncus-tenuis/)
-- Pearly everlasting (Anaphalis margaritacea)
+- [Pearly everlasting (Anaphalis margaritacea)](/info-sheets/anaphalis-margaritacea/)
 - [Poke milkweed (Asclepias exaltata)](/info-sheets/asclepias-exaltata/) - back in stock!
 - [Purple lovegrass (Eragrostis spectabilis)](/info-sheets/eragrostis-spectabilis/)
 - [Red Chokeberry (Aronia arbutifolia)](/info-sheets/aronia-arbutifolia/)
-- Red Columbine (Aquilegia canadensis) - back in stock!
-- [Seaside Goldenrod (Solidago sempervirens)]((/info-sheets/solidago-sempervirens/))
-- Showy tick-trefoil (Desmodium canadense)
+- [Red Columbine (Aquilegia canadensis)](/info-sheets/aquilegia-canadensis) - back in stock!
+- [Seaside Goldenrod (Solidago sempervirens)](/info-sheets/solidago-sempervirens/)
+- [Showy tick-trefoil (Desmodium canadense)](/info-sheets/desmodium-canadense/)
 - [Side Oats Grama (Bouteloua curtipendula)](/info-sheets/bouteloua-curtipendula/)
 - [Smooth blue aster (Symphyotrichum laeve)](/info-sheets/symphyotrichum-laeve/)
 - [Spotted bee-balm (Monarda punctata)](/info-sheets/monarda-punctata/)
@@ -66,14 +66,14 @@ Pricing - plugs $5 (limited availability), pint $8, quart $12, 2-quart $20, or a
 - [Wild bergamot (Monarda fistulosa)](/info-sheets/monarda-fistulosa/)
 - [Wild mint (Mentha arvensis)](/info-sheets/mentha-arvensis/)
 - [Wild strawberry (Fragaria virginiana)](/info-sheets/fragaria-virginiana/) - plugs only
-- Wreath/bluestem goldenrod (Solidago caesia)
+- [Wreath/bluestem goldenrod (Solidago caesia)](/info-sheets/solidago-caesia/)
 - [Yarrow (Achillea millefolium)](/info-sheets/achillea-millefolium/)
 - [Yellow prairie/Indian grass (Sorghastrum nutans)](/info-sheets/sorghastrum-nutans/) - only 1 left!
 
 ### Annual Natives
 
 - Blue curls (Trichostema dichotomum) - in 6-pack cell trays for $14
-- Sweet everlasting (Pseudognaphalium obtusifolium) - in 6-pack cell trays for $14
+- [Sweet everlasting (Pseudognaphalium obtusifolium)](/info-sheets/pseudognaphalium-obtusifolium/) - in 6-pack cell trays for $14
 
 ### "Zoigls"
 
