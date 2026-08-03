@@ -7,7 +7,7 @@ menu:
     name: "Buy Plants"
 ---
 
-_(Updated: July 13, 2026)_
+_(Updated: August 2, 2026)_
 
 As we do not have a storefront, the best way to purchase plants is to email us at [lise@redtrilliumgardens.com](mailto:lise@redtrilliumgardens.com) to arrange pickup at a [local market](/posts/2026-market-schedule/), or by appointment at our home in Lunenburg, MA. 
 
@@ -22,8 +22,9 @@ Curious how many we have of each size and species? [View our detailed inventory 
 Pricing - plugs $5 (limited availability), pint $8, quart $12, 2-quart $20, or as otherwise marked. 
 
 - [Allegheny monkey flower (Mimulus ringens)](/info-sheets/mimulus-ringens/)
-- Black-eyed susan (Rudbeckia hirta var. pulcherrima)
+- [Black-eyed susan (Rudbeckia hirta var. pulcherrima)](/info-sheets/rudbeckia-hirta-pulch/)
 - [Blue flag iris (Iris versicolor)](/info-sheets/iris-versicolor/)
+- [Blue lobelia (Lobelia siphilitica)](/info-sheets/lobelia-siphilitica/)
 - [Blue vervain (Verbena hastata)](/info-sheets/verbena-hastata/)
 - [Boneset (Eupatorium perfoliatum)](/info-sheets/eupatorium-perfoliatum/)
 - Bottle gentian (Gentiana clausa)
@@ -32,17 +33,20 @@ Pricing - plugs $5 (limited availability), pint $8, quart $12, 2-quart $20, or a
 - [Canada mayflower (Maianthemum canadense)](/info-sheets/maianthemum-canadense/)
 - [Clustered mountain-mint (Pycnanthemum muticum)](/info-sheets/pycnanthemum-muticum/)
 - [Coastal plain Joe-pye weed (Eutrochium dubium)](/info-sheets/eutrochium-dubium/)
+- [Common bur sedge (Carex grayi)](/info-sheets/carex-grayi/)
 - [Common milkweed (Asclepias syriaca)]((/info-sheets/asclepias-syriaca/))
 - [Common ninebark (Physocarpus opulifolius)](/info-sheets/physocarpus-opulifolius/) - 2nd year shrub/tree
 - [Downy goldenrod (Solidago puberula)](/info-sheets/solidago-puberula/)
 - [Foxglove beardtongue (Penstemon digitalis)](/info-sheets/penstemon-digitalis/)
+- Goat's rue (Tephrosia virginiana) - only 1 available!
 - [Grass-leaved goldenrod](/info-sheets/euthamia-graminifolia/)
+- [Jacob's ladder (Polemonium reptans)](/info-sheets/polemonium-reptans) - back in stock!
 - [Little bluestem (Schizachyrium scoparium)](/info-sheets/schizachyrium-scoparium/)
 - [New England aster (Symphyotrichum novae-angliae)](/info-sheets/symphyotrichum-novaeangliae/)
 - [Obedient plant (Physostegia virginiana)](/info-sheets/physostegia-virginiana)
-- [New York ironweed (Vernonia noveboracensis)](/info-sheets/vernonia-noveboracensis/) - back in stock! 
+- [New York ironweed (Vernonia noveboracensis)](/info-sheets/vernonia-noveboracensis/)
+- [Obedient plant (Physostegia virginiana)](/info-sheets/physostegia-virginiana)
 - Pale purple coneflower (Echinacea pallida)
-- [Pasture thistle (Cirsium discolor)](/info-sheets/cirsium-discolor/) - biennial - only one left!
 - [Path Rush (Juncus tenuis)](/info-sheets/juncus-tenuis/)
 - [Pearly everlasting (Anaphalis margaritacea)](/info-sheets/anaphalis-margaritacea/)
 - [Poke milkweed (Asclepias exaltata)](/info-sheets/asclepias-exaltata/) - back in stock!
@@ -52,6 +56,7 @@ Pricing - plugs $5 (limited availability), pint $8, quart $12, 2-quart $20, or a
 - [Seaside Goldenrod (Solidago sempervirens)](/info-sheets/solidago-sempervirens/)
 - [Showy tick-trefoil (Desmodium canadense)](/info-sheets/desmodium-canadense/)
 - [Side Oats Grama (Bouteloua curtipendula)](/info-sheets/bouteloua-curtipendula/)
+- Small yellow wild indigo (Baptisia tinctoria) - only 2 available!
 - [Smooth blue aster (Symphyotrichum laeve)](/info-sheets/symphyotrichum-laeve/)
 - [Spotted bee-balm (Monarda punctata)](/info-sheets/monarda-punctata/)
 - [Steeplebush (Spiraea tomentosa)](/info-sheets/spiraea-tomentosa/) - 2nd year shrub
@@ -65,10 +70,10 @@ Pricing - plugs $5 (limited availability), pint $8, quart $12, 2-quart $20, or a
 - [Whorled milkweed (Asclepias verticillata)](/info-sheets/asclepias-verticillata/)
 - [Wild bergamot (Monarda fistulosa)](/info-sheets/monarda-fistulosa/)
 - [Wild mint (Mentha arvensis)](/info-sheets/mentha-arvensis/)
+- Wild senna (Senna hebecarpa)
 - [Wild strawberry (Fragaria virginiana)](/info-sheets/fragaria-virginiana/) - plugs only
 - [Wreath/bluestem goldenrod (Solidago caesia)](/info-sheets/solidago-caesia/)
 - [Yarrow (Achillea millefolium)](/info-sheets/achillea-millefolium/)
-- [Yellow prairie/Indian grass (Sorghastrum nutans)](/info-sheets/sorghastrum-nutans/) - only 1 left!
 
 ### Annual Natives
 
