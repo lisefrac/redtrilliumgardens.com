@@ -7,7 +7,7 @@ menu:
     name: "Buy Plants"
 ---
 
-_(Updated: August 2, 2026)_
+_(Updated: August 4, 2026)_
 
 As we do not have a storefront, the best way to purchase plants is to email us at [lise@redtrilliumgardens.com](mailto:lise@redtrilliumgardens.com) to arrange pickup at a [local market](/posts/2026-market-schedule/), or by appointment at our home in Lunenburg, MA. 
 
@@ -35,7 +35,7 @@ Pricing - plugs $5 (limited availability), pint $8, quart $12, 2-quart $20, or a
 - [Coastal plain Joe-pye weed (Eutrochium dubium)](/info-sheets/eutrochium-dubium/)
 - [Common bur sedge (Carex grayi)](/info-sheets/carex-grayi/)
 - [Common milkweed (Asclepias syriaca)]((/info-sheets/asclepias-syriaca/))
-- [Common ninebark (Physocarpus opulifolius)](/info-sheets/physocarpus-opulifolius/) - 2nd year shrub/tree
+- [Common ninebark (Physocarpus opulifolius)](/info-sheets/physocarpus-opulifolius/) - 1st and 2nd year shrub/tree
 - [Downy goldenrod (Solidago puberula)](/info-sheets/solidago-puberula/)
 - [Foxglove beardtongue (Penstemon digitalis)](/info-sheets/penstemon-digitalis/)
 - Goat's rue (Tephrosia virginiana) - only 1 available!
