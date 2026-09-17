@@ -7,7 +7,7 @@ menu:
     name: "Buy Plants"
 ---
 
-_(Updated: September 8, 2026)_
+_(Updated: September 17, 2026)_
 
 ## Available Now
 
@@ -25,34 +25,30 @@ Pricing - plugs $5 (limited availability), pint $8, quart $12, 2-quart $20, or a
 - [Blue lobelia (Lobelia siphilitica)](/info-sheets/lobelia-siphilitica/)
 - [Blue vervain (Verbena hastata)](/info-sheets/verbena-hastata/)
 - [Boneset (Eupatorium perfoliatum)](/info-sheets/eupatorium-perfoliatum/)
-- Bottle gentian (Gentiana clausa) - only three left!
 - [Butterfly milkweed (Asclepias tuberosa)](/info-sheets/asclepias-tuberosa/)
 - [Buttonbush (Cephalanthus occidentalis)](/info-sheets/cephalanthus-occidentalis/) - 2nd year shrub
 - [Canada mayflower (Maianthemum canadense)](/info-sheets/maianthemum-canadense/)
 - [Clustered mountain-mint (Pycnanthemum muticum)](/info-sheets/pycnanthemum-muticum/)
 - [Common milkweed (Asclepias syriaca)]((/info-sheets/asclepias-syriaca/)) - available free with $10+ purchase
 - [Common ninebark (Physocarpus opulifolius)](/info-sheets/physocarpus-opulifolius/) - 1st and 2nd year shrub/tree
-- [Cutleaf coneflower (Rudbeckia laciniata)](/info-sheets/rudbeckia-laciniata/)
+- [Cutleaf coneflower (Rudbeckia laciniata)](/info-sheets/rudbeckia-laciniata/) - back in stock!
 - [Foxglove beardtongue (Penstemon digitalis)](/info-sheets/penstemon-digitalis/)
+- [Golden alexanders (Zizia aurea)](/info-sheets/zizia-aurea/) - back in stock!
 - [Grass-leaved goldenrod](/info-sheets/euthamia-graminifolia/)
 - [Harebell (Campanula rotundifolia)](/info-sheets/campanula-rotundifolia/)
-- [Hoary mountain-mint (Pycnanthemum incanum)](/info-sheets/pycnanthemum-incanum/) - only 1 available!
-- [Jacob's ladder (Polemonium reptans)](/info-sheets/polemonium-reptans) - back in stock!
+- [Jacob's ladder (Polemonium reptans)](/info-sheets/polemonium-reptans)
 - [Little bluestem (Schizachyrium scoparium)](/info-sheets/schizachyrium-scoparium/)
 - [New England aster (Symphyotrichum novae-angliae)](/info-sheets/symphyotrichum-novaeangliae/)
 - [New York ironweed (Vernonia noveboracensis)](/info-sheets/vernonia-noveboracensis/)
-- [Obedient plant (Physostegia virginiana)](/info-sheets/physostegia-virginiana)
 - Pale purple coneflower (Echinacea pallida)
 - [Path Rush (Juncus tenuis)](/info-sheets/juncus-tenuis/)
 - [Pearly everlasting (Anaphalis margaritacea)](/info-sheets/anaphalis-margaritacea/)
-- [Poke milkweed (Asclepias exaltata)](/info-sheets/asclepias-exaltata/) - back in stock!
+- [Poke milkweed (Asclepias exaltata)](/info-sheets/asclepias-exaltata/)
 - [Purple coneflower](/info-sheets/echinacea-purpurea/)
 - [Red Chokeberry (Aronia arbutifolia)](/info-sheets/aronia-arbutifolia/)
 - [Rose/swamp milkweed (Asclepias incarnata)](/info-sheets/asclepias-incarnata/)
 - [Seaside Goldenrod (Solidago sempervirens)](/info-sheets/solidago-sempervirens/)
 - [Showy tick-trefoil (Desmodium canadense)](/info-sheets/desmodium-canadense/)
-- [Side Oats Grama (Bouteloua curtipendula)](/info-sheets/bouteloua-curtipendula/)
-- Small yellow wild indigo (Baptisia tinctoria) - only 1 left!
 - [Smooth blue aster (Symphyotrichum laeve)](/info-sheets/symphyotrichum-laeve/) - only 1 left!
 - [Steeplebush (Spiraea tomentosa)](/info-sheets/spiraea-tomentosa/) - 1st or 2nd year shrub
 - [Tall meadow-rue (Thalictrum pubescens)](/info-sheets/thalictrum-pubescens/)
@@ -65,7 +61,7 @@ Pricing - plugs $5 (limited availability), pint $8, quart $12, 2-quart $20, or a
 - [Wild bergamot (Monarda fistulosa)](/info-sheets/monarda-fistulosa/)
 - [Wild mint (Mentha arvensis)](/info-sheets/mentha-arvensis/)
 - [Wild strawberry (Fragaria virginiana)](/info-sheets/fragaria-virginiana/) - plugs only
-- [Wreath/bluestem goldenrod (Solidago caesia)](/info-sheets/solidago-caesia/)
+- [Wreath/bluestem goldenrod (Solidago caesia)](/info-sheets/solidago-caesia/) - only 2 left!
 - Virginia rose (Rosa virginiana)
 - [Yarrow (Achillea millefolium)](/info-sheets/achillea-millefolium/)
 
