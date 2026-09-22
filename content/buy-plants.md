@@ -7,7 +7,7 @@ menu:
     name: "Buy Plants"
 ---
 
-_(Updated: September 17, 2026)_
+_(Updated: September 21, 2026)_
 
 ## Available Now
 
@@ -21,6 +21,8 @@ Pricing - plugs $5 (limited availability), pint $8, quart $12, 2-quart $20, or a
 
 - [Allegheny monkey flower (Mimulus ringens)](/info-sheets/mimulus-ringens/)
 - Black chokeberry (Aronia melanocarpa) - 1st and 2nd year shrubs
+- [Black elderberry (Sambucus canadensis)](/info-sheets/sambucus-canadensis/)
+- Blue-eyed grass (Sisyrinchium angustifolium)
 - [Blue flag iris (Iris versicolor)](/info-sheets/iris-versicolor/)
 - [Blue lobelia (Lobelia siphilitica)](/info-sheets/lobelia-siphilitica/)
 - [Blue vervain (Verbena hastata)](/info-sheets/verbena-hastata/)
@@ -29,14 +31,16 @@ Pricing - plugs $5 (limited availability), pint $8, quart $12, 2-quart $20, or a
 - [Buttonbush (Cephalanthus occidentalis)](/info-sheets/cephalanthus-occidentalis/) - 2nd year shrub
 - [Canada mayflower (Maianthemum canadense)](/info-sheets/maianthemum-canadense/)
 - [Clustered mountain-mint (Pycnanthemum muticum)](/info-sheets/pycnanthemum-muticum/)
+- [Coastal plain joe-pye weed (Eutrochium dubium)](/info-sheets/eutrochium-dubium/)
 - [Common milkweed (Asclepias syriaca)]((/info-sheets/asclepias-syriaca/)) - available free with $10+ purchase
 - [Common ninebark (Physocarpus opulifolius)](/info-sheets/physocarpus-opulifolius/) - 1st and 2nd year shrub/tree
 - [Cutleaf coneflower (Rudbeckia laciniata)](/info-sheets/rudbeckia-laciniata/) - back in stock!
 - [Foxglove beardtongue (Penstemon digitalis)](/info-sheets/penstemon-digitalis/)
 - [Golden alexanders (Zizia aurea)](/info-sheets/zizia-aurea/) - back in stock!
-- [Grass-leaved goldenrod](/info-sheets/euthamia-graminifolia/)
+- [Grass-leaved goldenrod (Euthamia graminifolia)](/info-sheets/euthamia-graminifolia/)
 - [Harebell (Campanula rotundifolia)](/info-sheets/campanula-rotundifolia/)
 - [Jacob's ladder (Polemonium reptans)](/info-sheets/polemonium-reptans)
+- [Kalm's St. John's wort (Hypericum kalmianum)](/info-sheets/hypericum-kalmianum)
 - [Little bluestem (Schizachyrium scoparium)](/info-sheets/schizachyrium-scoparium/)
 - [New England aster (Symphyotrichum novae-angliae)](/info-sheets/symphyotrichum-novaeangliae/)
 - [New York ironweed (Vernonia noveboracensis)](/info-sheets/vernonia-noveboracensis/)
@@ -45,11 +49,15 @@ Pricing - plugs $5 (limited availability), pint $8, quart $12, 2-quart $20, or a
 - [Pearly everlasting (Anaphalis margaritacea)](/info-sheets/anaphalis-margaritacea/)
 - [Poke milkweed (Asclepias exaltata)](/info-sheets/asclepias-exaltata/)
 - [Purple coneflower](/info-sheets/echinacea-purpurea/)
+- [Purple love grass](/info-sheets/eragrostis-spectabilis/)
 - [Red Chokeberry (Aronia arbutifolia)](/info-sheets/aronia-arbutifolia/)
 - [Rose/swamp milkweed (Asclepias incarnata)](/info-sheets/asclepias-incarnata/)
 - [Seaside Goldenrod (Solidago sempervirens)](/info-sheets/solidago-sempervirens/)
+- Self-heal (Prunella vulgaris var. lanceolata) - new!
 - [Showy tick-trefoil (Desmodium canadense)](/info-sheets/desmodium-canadense/)
-- [Smooth blue aster (Symphyotrichum laeve)](/info-sheets/symphyotrichum-laeve/) - only 1 left!
+- Shrubby St. John's wort (Hypericum prolificum)
+- [Side oats grama (Bouteloua curtipendula)](/info-sheets/bouteloua-curtipendula/)
+- [Smooth blue aster (Symphyotrichum laeve)](/info-sheets/symphyotrichum-laeve/)
 - [Steeplebush (Spiraea tomentosa)](/info-sheets/spiraea-tomentosa/) - 1st or 2nd year shrub
 - [Tall meadow-rue (Thalictrum pubescens)](/info-sheets/thalictrum-pubescens/)
 - [Tall white aster (Doellingeria umbellata)](/info-sheets/doellingeria-umbellata/) - only 1 left!
