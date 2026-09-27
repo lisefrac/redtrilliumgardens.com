@@ -30,7 +30,7 @@ featured_image: "/images/Aronia_arbutifolia2475275707.jpg"
 
 > "Red chokeberry is a multi-stemmed shrub, 6-12 feet (2-4 m) tall, in the rose family. Look for a row of slender glands arrayed along the midvein on the upper side of the leaf. With its masses of delicate white flowers appearing in summer, followed by red berries in early fall, followed by a show of brilliant red leaves in late autumn, and its peeling, reddish bark adding interest in the winter, this is a popular choice as a landscape plant." --Go Botany
 
-{{< figure src="/images/Aronia_arbutifolia3.jpg" alt="Red chokeberry (Aronia arbutifolia)" title="Red chokeberry (Aronia arbutifolia)" attr="Photo by By DouglasGoldman - Own work, CC BY-SA 4.0" attrlink="https://commons.wikimedia.org/w/index.php?curid=147965990">}}
+{{< figure src="/images/Aronia_arbutifolia3.jpg" alt="Red chokeberry (Aronia arbutifolia)" title="Red chokeberry (Aronia arbutifolia)" attr="Photo by DouglasGoldman - Own work, CC BY-SA 4.0" attrlink="https://commons.wikimedia.org/w/index.php?curid=147965990">}}
 
 ___
 

@@ -20,7 +20,7 @@ Curious about the size, location, and number of a given species? [View our detai
 Pricing - plugs $5 (limited availability), pint $8, quart $12, 2-quart $20, or as otherwise marked. 
 
 - [Allegheny monkey flower (Mimulus ringens)](/info-sheets/mimulus-ringens/)
-- Black chokeberry (Aronia melanocarpa) - 1st and 2nd year shrubs
+- [Black chokeberry (Aronia melanocarpa)](/info-sheets/aronia-melanocarpa/) - 1st year shrubs
 - [Black elderberry (Sambucus canadensis)](/info-sheets/sambucus-canadensis/)
 - Blue-eyed grass (Sisyrinchium angustifolium)
 - [Blue flag iris (Iris versicolor)](/info-sheets/iris-versicolor/)

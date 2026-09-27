@@ -4,22 +4,19 @@ date: "2026-03-17"
 featured_image: "images/tiarella-cordifolia-hickory-woods-may-2022.jpg"
 ---
 
-*Updated September 7, 2026. Note: markets are removed below when they have passed.*
+*Updated September 27, 2026. Note: markets are removed below when they have passed.*
 
-The 2026 season is on!
+The 2026 season is almost over, but we still have two events left!
 
-## Leominster Farmers' Market
+## End of Season Sale 
 
-Our current plan is to be at most of the Leominster Farmers' Market events organized by [North Central Mass Farmers Markets](https://www.ncmfarmersmarkets.com/). These are generally the **first Saturday of the month from June to October, 10am - 1pm, in Monument Square in downtown Leominster, MA**. The ones we'll attend are:  June 6th, (Sunday) July 5th, August 1st, and September 5th.
+We'll be doing our usual **end of season sale** on **Saturday, October 10, 2026 from 10am-4pm**. This time we'll be holding it at our new greenhouse location: **29 Sawyer Hill Rd, Berlin, MA**. As we'll be inside the greenhouse, this is a rain or shine event!
 
-Note that this is the *only regular* farmers' market we plan to do in 2026. We will make appearances at other farmers' markets via Grow Native Mass' pop-up market series. We may also make occasional visits to the Lunenburg Artisan Market or Groton Farmers' Market. I will announce these as they get scheduled.
 
 ## Grow Native Mass Pop-up Markets
 
 We are once again partnering with [Grow Native Massachusetts](https://grownativemass.org/) and other native plant nurseries to, well, pop up at farmers' markets across MA! Upcoming markets will be:
 
-- **[Pittsfield Farmers' Market:](https://www.farmersmarketpittsfield.org/)** Saturday, September 12, 2026, 9am-1pm, 100 First St, Pittsfield, MA. **Note the date change!**
-- **Newton Farmers' Market**: Tuesday, September 15, 1:30-6pm, Cold Spring Park, 1189 Beacon Street, Newton, MA
 - **MEGA Pop Up @ Grow Native!** Saturday, October 17, 2026, 10am-3pm, at the Grow Native Mass headquarters, 7 Harrington Rd, Lexington, MA
 
 ___
