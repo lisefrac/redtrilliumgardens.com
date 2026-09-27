@@ -70,7 +70,7 @@ Pricing - plugs $5 (limited availability), pint $8, quart $12, 2-quart $20, or a
 - [Wild mint (Mentha arvensis)](/info-sheets/mentha-arvensis/)
 - [Wild strawberry (Fragaria virginiana)](/info-sheets/fragaria-virginiana/) - plugs only
 - [Wreath/bluestem goldenrod (Solidago caesia)](/info-sheets/solidago-caesia/) - only 2 left!
-- Virginia rose (Rosa virginiana)
+- [Virginia rose (Rosa virginiana)](/info-sheets/rosa-virginiana/)
 - [Yarrow (Achillea millefolium)](/info-sheets/achillea-millefolium/)
 
 

@@ -4,7 +4,7 @@ description: "Information and care for black chokeberry (Aronia melanocarpa), so
 featured_image: "images/Aronia_melanocarpa_kz01.jpg"
 ---
 
-## Aronia melanocarpa
+## _Aronia melanocarpa_
 
 **Native to:** All New England
 
@@ -12,7 +12,7 @@ featured_image: "images/Aronia_melanocarpa_kz01.jpg"
 
 **Light**: Full/Partial Sun
 
-**Soil Moisture:** Medium-Wet to Medium-Dry Soil
+**Soil Moisture:** Medium-Wet to Medium-Dry
 
 **Height**: 3-10’<br/>**Spacing**: 3-6’
 
@@ -22,7 +22,7 @@ featured_image: "images/Aronia_melanocarpa_kz01.jpg"
 
 **Natural Habitat:** Bogs, wet thickets, margins of ponds and lakes, beaver ponds, woods, moist high-elevation forests, and rocky outcrops.
 
-**Benefits**: Host Plant (eg. Coral Hairstreak), Attracts Bees, Attracts Songbirds, Benefits Other Pollinators/Wildlife, Drought Tolerant, Compaction Tolerant, Salt Tolerant, Urban Environment, Low Maintenance, Edible, Erosion Control/Soil Stabilization
+**Benefits**: Fall Foliage, Host Plant (eg. Coral Hairstreak), Attracts Bees, Attracts Songbirds, Benefits Other Pollinators/Wildlife, Drought Tolerant, Compaction Tolerant, Salt Tolerant, Urban Environment, Low Maintenance, Edible, Erosion Control/Soil Stabilization
 
 > "Aronia blends nicely into the landscape when not in flower or fruit. It is a multi-stemmed shrub with small white flowers and deep red anthers. The flowers are followed by black fruits in fall and deep red foliage. A great plant for moist to average garden soils in full or partial sun."
 > 
@@ -35,3 +35,5 @@ featured_image: "images/Aronia_melanocarpa_kz01.jpg"
 {{< figure src="/images/Aronia_melanocarpa_fruit.jpg" alt="Black chokeberry (Aronia melanocarpa) fruit" title="Black chokeberry (Aronia melanocarpa) fruit" attr="Photo by Ayotte, Gilles, 1948 - Bibliothèque de l'Université Laval, CC BY-SA 4.0" attrlink="https://commons.wikimedia.org/w/index.php?curid=127718973">}}
 
 ___
+
+*Featured image by Krzysztof Ziarnek, Kenraiz - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=114510014*

@@ -4,7 +4,7 @@ description: "Information and care for red chokeberry (Aronia arbutifolia), sold
 featured_image: "/images/Aronia_arbutifolia2475275707.jpg"
 ---
 
-## Aronia arbutifolia
+## _Aronia arbutifolia_
 
 **Native to:** MA, NH, CT, RI, ME
 
@@ -12,7 +12,7 @@ featured_image: "/images/Aronia_arbutifolia2475275707.jpg"
 
 **Light**: Full/Partial Sun
 
-**Soil Moisture:** Wet to Dry Soil
+**Soil Moisture:** Wet to Dry
 
 **Height**: 5-12’<br/>**Spacing**: 4-8’
 
@@ -22,7 +22,7 @@ featured_image: "/images/Aronia_arbutifolia2475275707.jpg"
 
 **Natural Habitat:** Human-disturbed or -maintained habitats, bogs, fens, meadows and fields, swamps, woodlands
 
-**Benefits**: Host Plant, Attracts Songbirds, Attracts Bees, Urban Environment, Compaction Tolerant, Salt Tolerant, Drought Tolerant, Edible, Low Maintenance, Erosion Control/Soil Stabilization, Fall Color
+**Benefits**: Fall Foliage, Host Plant, Attracts Songbirds, Attracts Bees, Urban Environment, Compaction Tolerant, Salt Tolerant, Drought Tolerant, Edible, Low Maintenance, Erosion Control/Soil Stabilization, Fall Color
 
 > "This attractive, multi-stemmed shrub blends into the landscape when not in flower or fruit. It begins its display with small white flowers and deep red anthers, followed by plentiful red fruits in fall and deep red foliage. This is a great plant for moist to average soils. More sunlight produces more flowers and a deeper red fall color."
 > 
