@@ -7,7 +7,7 @@ menu:
     name: "Buy Plants"
 ---
 
-_(Updated: September 21, 2026)_
+_(Updated: September 30, 2026)_
 
 ## Available Now
 
@@ -17,24 +17,27 @@ Curious about the size, location, and number of a given species? [View our detai
 
 ### Perennial Natives
 
-Pricing - plugs $5 (limited availability), pint $8, quart $12, 2-quart $20, or as otherwise marked. 
+Pricing - plugs $5 (limited availability), pint $8, quart $12, 2-quart $20, or as otherwise marked.
+
 
 - [Allegheny monkey flower (Mimulus ringens)](/info-sheets/mimulus-ringens/)
 - [Black chokeberry (Aronia melanocarpa)](/info-sheets/aronia-melanocarpa/) - 1st year shrubs
 - [Black elderberry (Sambucus canadensis)](/info-sheets/sambucus-canadensis/)
-- Blue-eyed grass (Sisyrinchium angustifolium)
 - [Blue flag iris (Iris versicolor)](/info-sheets/iris-versicolor/)
 - [Blue lobelia (Lobelia siphilitica)](/info-sheets/lobelia-siphilitica/)
 - [Blue vervain (Verbena hastata)](/info-sheets/verbena-hastata/)
+- Blue-eyed grass (Sisyrinchium angustifolium)
 - [Boneset (Eupatorium perfoliatum)](/info-sheets/eupatorium-perfoliatum/)
 - [Butterfly milkweed (Asclepias tuberosa)](/info-sheets/asclepias-tuberosa/)
 - [Buttonbush (Cephalanthus occidentalis)](/info-sheets/cephalanthus-occidentalis/) - 2nd year shrub
 - [Canada mayflower (Maianthemum canadense)](/info-sheets/maianthemum-canadense/)
+- [Cardinal flower (Lobelia cardinalis)](/info-sheets/lobelia-cardinalis/) - back in stock!
 - [Clustered mountain-mint (Pycnanthemum muticum)](/info-sheets/pycnanthemum-muticum/)
 - [Coastal plain joe-pye weed (Eutrochium dubium)](/info-sheets/eutrochium-dubium/)
 - [Common milkweed (Asclepias syriaca)]((/info-sheets/asclepias-syriaca/)) - available free with $10+ purchase
 - [Common ninebark (Physocarpus opulifolius)](/info-sheets/physocarpus-opulifolius/) - 1st and 2nd year shrub/tree
 - [Cutleaf coneflower (Rudbeckia laciniata)](/info-sheets/rudbeckia-laciniata/) - back in stock!
+- [Flowering raspberry (Rubus odoratus)](/info-sheets/rubus-odoratus/)
 - [Foxglove beardtongue (Penstemon digitalis)](/info-sheets/penstemon-digitalis/)
 - [Golden alexanders (Zizia aurea)](/info-sheets/zizia-aurea/) - back in stock!
 - [Grass-leaved goldenrod (Euthamia graminifolia)](/info-sheets/euthamia-graminifolia/)
@@ -52,7 +55,7 @@ Pricing - plugs $5 (limited availability), pint $8, quart $12, 2-quart $20, or a
 - [Purple love grass](/info-sheets/eragrostis-spectabilis/)
 - [Red Chokeberry (Aronia arbutifolia)](/info-sheets/aronia-arbutifolia/)
 - [Rose/swamp milkweed (Asclepias incarnata)](/info-sheets/asclepias-incarnata/)
-- [Seaside Goldenrod (Solidago sempervirens)](/info-sheets/solidago-sempervirens/)
+- [Seaside Goldenrod (Solidago sempervirens)](/info-sheets/solidago-sempervirens/) - only 1 left!
 - Self-heal (Prunella vulgaris var. lanceolata) - new!
 - [Showy tick-trefoil (Desmodium canadense)](/info-sheets/desmodium-canadense/)
 - Shrubby St. John's wort (Hypericum prolificum)
@@ -62,15 +65,16 @@ Pricing - plugs $5 (limited availability), pint $8, quart $12, 2-quart $20, or a
 - [Tall meadow-rue (Thalictrum pubescens)](/info-sheets/thalictrum-pubescens/)
 - [Tall white aster (Doellingeria umbellata)](/info-sheets/doellingeria-umbellata/) - only 1 left!
 - [Teaberry/Wintergreen (Gaultheria procumbens)](/info-sheets/gaultheria-procumbens/)
+- [Virginia rose (Rosa virginiana)](/info-sheets/rosa-virginiana/)
 - [Water horehound (Lycopus americanus)](/info-sheets/lycopus-americanus/)
 - [White snakeroot (Ageratina altissima)](/info-sheets/ageratina-altissima/)
+- [White turtlehead (Chelone glabra)](/info-sheets/chelone-glabra/) - back in stock!
 - [White wood aster (Eurybia divaricata)](/info-sheets/eurybia-divaricata/)
 - [Whorled milkweed (Asclepias verticillata)](/info-sheets/asclepias-verticillata/)
 - [Wild bergamot (Monarda fistulosa)](/info-sheets/monarda-fistulosa/)
 - [Wild mint (Mentha arvensis)](/info-sheets/mentha-arvensis/)
-- [Wild strawberry (Fragaria virginiana)](/info-sheets/fragaria-virginiana/) - plugs only
+- [Wild strawberry (Fragaria virginiana)](/info-sheets/fragaria-virginiana/)
 - [Wreath/bluestem goldenrod (Solidago caesia)](/info-sheets/solidago-caesia/) - only 2 left!
-- [Virginia rose (Rosa virginiana)](/info-sheets/rosa-virginiana/)
 - [Yarrow (Achillea millefolium)](/info-sheets/achillea-millefolium/)
 
 
