@@ -26,7 +26,7 @@ Pricing - plugs $5 (limited availability), pint $8, quart $12, 2-quart $20, or a
 - [Blue flag iris (Iris versicolor)](/info-sheets/iris-versicolor/)
 - [Blue lobelia (Lobelia siphilitica)](/info-sheets/lobelia-siphilitica/)
 - [Blue vervain (Verbena hastata)](/info-sheets/verbena-hastata/)
-- Blue-eyed grass (Sisyrinchium angustifolium)
+- [Blue-eyed grass (Sisyrinchium angustifolium)](/info-sheets/sisyrinchium-angustifolium/)
 - [Boneset (Eupatorium perfoliatum)](/info-sheets/eupatorium-perfoliatum/)
 - [Butterfly milkweed (Asclepias tuberosa)](/info-sheets/asclepias-tuberosa/)
 - [Buttonbush (Cephalanthus occidentalis)](/info-sheets/cephalanthus-occidentalis/) - 2nd year shrub
@@ -47,7 +47,7 @@ Pricing - plugs $5 (limited availability), pint $8, quart $12, 2-quart $20, or a
 - [Little bluestem (Schizachyrium scoparium)](/info-sheets/schizachyrium-scoparium/)
 - [New England aster (Symphyotrichum novae-angliae)](/info-sheets/symphyotrichum-novaeangliae/)
 - [New York ironweed (Vernonia noveboracensis)](/info-sheets/vernonia-noveboracensis/)
-- Pale purple coneflower (Echinacea pallida)
+- [Pale purple coneflower (Echinacea pallida)](/info-sheets/echinacea-pallida/)
 - [Path Rush (Juncus tenuis)](/info-sheets/juncus-tenuis/)
 - [Pearly everlasting (Anaphalis margaritacea)](/info-sheets/anaphalis-margaritacea/)
 - [Poke milkweed (Asclepias exaltata)](/info-sheets/asclepias-exaltata/)
@@ -58,7 +58,7 @@ Pricing - plugs $5 (limited availability), pint $8, quart $12, 2-quart $20, or a
 - [Seaside Goldenrod (Solidago sempervirens)](/info-sheets/solidago-sempervirens/) - only 1 left!
 - Self-heal (Prunella vulgaris var. lanceolata) - new!
 - [Showy tick-trefoil (Desmodium canadense)](/info-sheets/desmodium-canadense/)
-- Shrubby St. John's wort (Hypericum prolificum)
+- [Shrubby St. John's wort (Hypericum prolificum)](/info-sheets/hypericum-prolificum/)
 - [Side oats grama (Bouteloua curtipendula)](/info-sheets/bouteloua-curtipendula/)
 - [Smooth blue aster (Symphyotrichum laeve)](/info-sheets/symphyotrichum-laeve/)
 - [Steeplebush (Spiraea tomentosa)](/info-sheets/spiraea-tomentosa/) - 1st or 2nd year shrub
