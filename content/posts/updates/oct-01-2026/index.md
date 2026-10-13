@@ -51,11 +51,12 @@ October 10th might be our official end-of-season sale, but our last market is ac
 
 ## Closing date
 
-Currently we're planning to have our "regularly irregular" hours through October 24th. Right now that's 10am-4pm on these dates:
+**Updated Oct 12, 2026 -- note that the closing date below has been changed to Oct 16.**
+
+Currently we're planning to have our "regularly irregular" hours through October 16th. Right now that's 10am-4pm on these dates: 
 
 - Tues 10/6, Weds 10/7, Fri 10/9, and our sale on Sat 10/10!
-- Mon 10/12 (Indigenous Peoples' Day), Tues 10/13, Thurs 10/15, Fri 10/16
-- Tues 10/20, Thurs 10/22, Fri 10/23, Sat 10/24
+- Mon 10/12 (Indigenous Peoples' Day), Weds 10/14, Fri 10/16
 
 However, this schedule may change as things come up -- or if it gets too cold to be in the greenhouse! -- so follow us on [Instagram](https://www.instagram.com/redtrilliumgardens/) or [Facebook](https://www.facebook.com/redtrilliumgardens) for the most up-to-date schedule. 
 

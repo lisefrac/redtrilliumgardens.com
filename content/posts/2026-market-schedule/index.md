@@ -4,14 +4,9 @@ date: "2026-03-17"
 featured_image: "images/tiarella-cordifolia-hickory-woods-may-2022.jpg"
 ---
 
-*Updated September 27, 2026. Note: markets are removed below when they have passed.*
+*Updated Oct 12, 2026. Note: markets are removed below when they have passed.*
 
-The 2026 season is almost over, but we still have two events left!
-
-## End of Season Sale 
-
-We'll be doing our usual **end of season sale** on **Saturday, October 10, 2026 from 10am-4pm**. This time we'll be holding it at our new greenhouse location: **29 Sawyer Hill Rd, Berlin, MA**. As we'll be inside the greenhouse, this is a rain or shine event!
-
+The 2026 season is almost over, but we have one event left!
 
 ## Grow Native Mass Pop-up Markets
 

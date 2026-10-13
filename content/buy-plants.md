@@ -7,7 +7,7 @@ menu:
     name: "Buy Plants"
 ---
 
-_(Updated: September 30, 2026)_
+_(Updated: October 12, 2026)_
 
 ## Available Now
 
@@ -19,6 +19,7 @@ Curious about the size, location, and number of a given species? [View our detai
 
 Pricing - plugs $5 (limited availability), pint $8, quart $12, 2-quart $20, or as otherwise marked.
 
+**Note: many plants have gone dormant for the season. Any dormant plants are 20% off.**
 
 - [Allegheny monkey flower (Mimulus ringens)](/info-sheets/mimulus-ringens/)
 - [Black chokeberry (Aronia melanocarpa)](/info-sheets/aronia-melanocarpa/) - 1st year shrubs
@@ -26,7 +27,6 @@ Pricing - plugs $5 (limited availability), pint $8, quart $12, 2-quart $20, or a
 - [Blue flag iris (Iris versicolor)](/info-sheets/iris-versicolor/)
 - [Blue lobelia (Lobelia siphilitica)](/info-sheets/lobelia-siphilitica/)
 - [Blue vervain (Verbena hastata)](/info-sheets/verbena-hastata/)
-- [Blue-eyed grass (Sisyrinchium angustifolium)](/info-sheets/sisyrinchium-angustifolium/)
 - [Boneset (Eupatorium perfoliatum)](/info-sheets/eupatorium-perfoliatum/)
 - [Butterfly milkweed (Asclepias tuberosa)](/info-sheets/asclepias-tuberosa/)
 - [Buttonbush (Cephalanthus occidentalis)](/info-sheets/cephalanthus-occidentalis/) - 2nd year shrub
@@ -34,7 +34,8 @@ Pricing - plugs $5 (limited availability), pint $8, quart $12, 2-quart $20, or a
 - [Cardinal flower (Lobelia cardinalis)](/info-sheets/lobelia-cardinalis/) - back in stock!
 - [Clustered mountain-mint (Pycnanthemum muticum)](/info-sheets/pycnanthemum-muticum/)
 - [Coastal plain joe-pye weed (Eutrochium dubium)](/info-sheets/eutrochium-dubium/)
-- [Common milkweed (Asclepias syriaca)]((/info-sheets/asclepias-syriaca/)) - available free with $10+ purchase
+- [Common evening primrose (Oenothera biennis)](/info-sheets/oenothera-biennis/) - new!
+- [Common milkweed (Asclepias syriaca)](/info-sheets/asclepias-syriaca/) - available free with $10+ purchase
 - [Common ninebark (Physocarpus opulifolius)](/info-sheets/physocarpus-opulifolius/) - 1st and 2nd year shrub/tree
 - [Cutleaf coneflower (Rudbeckia laciniata)](/info-sheets/rudbeckia-laciniata/) - back in stock!
 - [Flowering raspberry (Rubus odoratus)](/info-sheets/rubus-odoratus/)
@@ -45,9 +46,10 @@ Pricing - plugs $5 (limited availability), pint $8, quart $12, 2-quart $20, or a
 - [Jacob's ladder (Polemonium reptans)](/info-sheets/polemonium-reptans)
 - [Kalm's St. John's wort (Hypericum kalmianum)](/info-sheets/hypericum-kalmianum)
 - [Little bluestem (Schizachyrium scoparium)](/info-sheets/schizachyrium-scoparium/)
+- Mad-dog skullcap (Scutellaria lateriflora) - new!
 - [New England aster (Symphyotrichum novae-angliae)](/info-sheets/symphyotrichum-novaeangliae/)
 - [New York ironweed (Vernonia noveboracensis)](/info-sheets/vernonia-noveboracensis/)
-- [Pale purple coneflower (Echinacea pallida)](/info-sheets/echinacea-pallida/)
+- [Pale purple coneflower (Echinacea pallida)](/info-sheets/echinacea-pallida/) - only 2 left!
 - [Path Rush (Juncus tenuis)](/info-sheets/juncus-tenuis/)
 - [Pearly everlasting (Anaphalis margaritacea)](/info-sheets/anaphalis-margaritacea/)
 - [Poke milkweed (Asclepias exaltata)](/info-sheets/asclepias-exaltata/)
@@ -56,15 +58,15 @@ Pricing - plugs $5 (limited availability), pint $8, quart $12, 2-quart $20, or a
 - [Red Chokeberry (Aronia arbutifolia)](/info-sheets/aronia-arbutifolia/)
 - [Rose/swamp milkweed (Asclepias incarnata)](/info-sheets/asclepias-incarnata/)
 - [Seaside Goldenrod (Solidago sempervirens)](/info-sheets/solidago-sempervirens/) - only 1 left!
-- Self-heal (Prunella vulgaris var. lanceolata) - new!
+- [Self-heal (Prunella vulgaris var. lanceolata)](/info-sheets/prunella-vulgaris-lanc/) - new!
 - [Showy tick-trefoil (Desmodium canadense)](/info-sheets/desmodium-canadense/)
 - [Shrubby St. John's wort (Hypericum prolificum)](/info-sheets/hypericum-prolificum/)
 - [Side oats grama (Bouteloua curtipendula)](/info-sheets/bouteloua-curtipendula/)
-- [Smooth blue aster (Symphyotrichum laeve)](/info-sheets/symphyotrichum-laeve/)
+- [Smooth blue aster (Symphyotrichum laeve)](/info-sheets/symphyotrichum-laeve/) - back in stock!
 - [Steeplebush (Spiraea tomentosa)](/info-sheets/spiraea-tomentosa/) - 1st or 2nd year shrub
 - [Tall meadow-rue (Thalictrum pubescens)](/info-sheets/thalictrum-pubescens/)
-- [Tall white aster (Doellingeria umbellata)](/info-sheets/doellingeria-umbellata/) - only 1 left!
-- [Teaberry/Wintergreen (Gaultheria procumbens)](/info-sheets/gaultheria-procumbens/)
+- [Tall white aster (Doellingeria umbellata)](/info-sheets/doellingeria-umbellata/) - only 2 left!
+- [Teaberry/Wintergreen (Gaultheria procumbens)](/info-sheets/gaultheria-procumbens/) - only 1 left!
 - [Virginia rose (Rosa virginiana)](/info-sheets/rosa-virginiana/)
 - [Water horehound (Lycopus americanus)](/info-sheets/lycopus-americanus/)
 - [White snakeroot (Ageratina altissima)](/info-sheets/ageratina-altissima/)
@@ -91,7 +93,6 @@ These plants are now **free**. Please take them off my hands!
 We no longer grow non-natives for sale, but we have some perennial herbs left over. These plants are now **free**. Please take them off my hands!
 
 - Peppermint - small
-- Sage, Broadleaf - small
 
 ## Purchase Options
 
