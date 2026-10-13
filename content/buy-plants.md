@@ -7,7 +7,7 @@ menu:
     name: "Buy Plants"
 ---
 
-_(Updated: October 12, 2026)_
+_(Updated: October 13, 2026)_
 
 ## Available Now
 
@@ -76,7 +76,6 @@ Pricing - plugs $5 (limited availability), pint $8, quart $12, 2-quart $20, or a
 - [Wild bergamot (Monarda fistulosa)](/info-sheets/monarda-fistulosa/)
 - [Wild mint (Mentha arvensis)](/info-sheets/mentha-arvensis/)
 - [Wild strawberry (Fragaria virginiana)](/info-sheets/fragaria-virginiana/)
-- [Wreath/bluestem goldenrod (Solidago caesia)](/info-sheets/solidago-caesia/) - only 2 left!
 - [Yarrow (Achillea millefolium)](/info-sheets/achillea-millefolium/)
 
 
